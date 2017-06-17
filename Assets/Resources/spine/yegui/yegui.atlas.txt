@@ -1,0 +1,174 @@
+
+yegui.png
+size: 455,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SE-daoguang
+  rotate: false
+  xy: 0, 154
+  size: 217, 111
+  orig: 217, 111
+  offset: 0, 0
+  index: -1
+_0000_shuiguo
+  rotate: false
+  xy: 335, 190
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+_0001_Weapon
+  rotate: false
+  xy: 0, 68
+  size: 204, 82
+  orig: 204, 82
+  offset: 0, 0
+  index: -1
+_0002_L-Hand
+  rotate: false
+  xy: 323, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+_0003_Mouth
+  rotate: false
+  xy: 263, 3
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+_0004_Eye
+  rotate: false
+  xy: 190, 5
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+_0005_Eye-fennu
+  rotate: false
+  xy: 287, 76
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+_0006_Eye-beiji
+  rotate: false
+  xy: 221, 131
+  size: 80, 42
+  orig: 80, 42
+  offset: 0, 0
+  index: -1
+_0007_Eye-shengli
+  rotate: false
+  xy: 359, 85
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+_0008_Eye-siwang
+  rotate: false
+  xy: 335, 139
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+_0009_Head
+  rotate: false
+  xy: 221, 177
+  size: 110, 88
+  orig: 110, 88
+  offset: 0, 0
+  index: -1
+_0010_R-Hand
+  rotate: false
+  xy: 410, 159
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+_0011_R-Forearm
+  rotate: false
+  xy: 323, 0
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+_0012_R-Upperarm
+  rotate: false
+  xy: 154, 11
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+_0013_body
+  rotate: false
+  xy: 208, 59
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+_0014_F-Ribbon
+  rotate: false
+  xy: 359, 46
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+_0015_B-Ribbon
+  rotate: false
+  xy: 362, 17
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+_0016_L-Foot
+  rotate: false
+  xy: 429, 135
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+_0017_L-Thigh
+  rotate: false
+  xy: 429, 81
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+_0018_R-Tight
+  rotate: false
+  xy: 429, 107
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+_0019_R-Foot
+  rotate: false
+  xy: 305, 151
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+_0020_L-Forearm
+  rotate: false
+  xy: 422, 190
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+_0021_L-Upperarm
+  rotate: false
+  xy: 422, 223
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 23
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

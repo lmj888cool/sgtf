@@ -1,0 +1,307 @@
+
+jinchidapeng.png
+size: 999,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-cloak
+  rotate: false
+  xy: 502, 26
+  size: 136, 94
+  orig: 136, 94
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 835, 451
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 502, 6
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 567, 6
+  size: 59, 16
+  orig: 59, 16
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 716, 8
+  size: 56, 16
+  orig: 56, 16
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 943, 54
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 943, 24
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 690, 113
+  size: 121, 137
+  orig: 121, 137
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 264, 425
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 943, 84
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+L-chibang
+  rotate: false
+  xy: 573, 328
+  size: 117, 225
+  orig: 117, 225
+  offset: 0, 0
+  index: -1
+L-cloak
+  rotate: false
+  xy: 969, 708
+  size: 27, 72
+  orig: 27, 72
+  offset: 0, 0
+  index: -1
+L-ling
+  rotate: false
+  xy: 928, 240
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+L-xiukou
+  rotate: false
+  xy: 969, 661
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+L-xiuzi
+  rotate: false
+  xy: 642, 16
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+LU-Armor
+  rotate: false
+  xy: 945, 469
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 776, 0
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 716, 28
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 482, 328
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 776, 30
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 943, 115
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+Pendant
+  rotate: false
+  xy: 833, 25
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 815, 57
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+R-chibang
+  rotate: false
+  xy: 835, 555
+  size: 130, 225
+  orig: 130, 225
+  offset: 0, 0
+  index: -1
+R-cloak
+  rotate: false
+  xy: 880, 53
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+R-ling
+  rotate: false
+  xy: 928, 341
+  size: 65, 106
+  orig: 65, 106
+  offset: 0, 0
+  index: -1
+RU-Armor
+  rotate: false
+  xy: 914, 147
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+SE-pugong01
+  rotate: false
+  xy: 264, 254
+  size: 214, 107
+  orig: 346, 255
+  offset: 66, 74
+  index: -1
+SE-pugong02
+  rotate: false
+  xy: 312, 365
+  size: 257, 188
+  orig: 346, 255
+  offset: 43, 33
+  index: -1
+SE-pugong03
+  rotate: false
+  xy: 312, 557
+  size: 275, 223
+  orig: 346, 255
+  offset: 39, 16
+  index: -1
+SE-pugong04
+  rotate: false
+  xy: 423, 2
+  size: 75, 248
+  orig: 346, 255
+  offset: 199, 2
+  index: -1
+SE-pugong05
+  rotate: false
+  xy: 870, 262
+  size: 54, 185
+  orig: 346, 255
+  offset: 210, 33
+  index: -1
+qiandaowangua_01
+  rotate: false
+  xy: 264, 379
+  size: 36, 42
+  orig: 309, 278
+  offset: 23, 12
+  index: -1
+qiandaowangua_02
+  rotate: false
+  xy: 815, 137
+  size: 95, 113
+  orig: 309, 278
+  offset: 7, 3
+  index: -1
+qiandaowangua_03
+  rotate: false
+  xy: 694, 254
+  size: 172, 186
+  orig: 309, 278
+  offset: 5, 1
+  index: -1
+qiandaowangua_04
+  rotate: false
+  xy: 0, 246
+  size: 260, 252
+  orig: 309, 278
+  offset: 5, 2
+  index: -1
+qiandaowangua_05
+  rotate: false
+  xy: 0, 502
+  size: 308, 278
+  orig: 309, 278
+  offset: 1, 0
+  index: -1
+qiandaowangua_06
+  rotate: false
+  xy: 591, 573
+  size: 240, 207
+  orig: 309, 278
+  offset: 64, 63
+  index: -1
+qiandaowangua_07
+  rotate: false
+  xy: 0, 0
+  size: 208, 242
+  orig: 309, 278
+  offset: 94, 31
+  index: -1
+qiandaowangua_08
+  rotate: false
+  xy: 212, 0
+  size: 207, 242
+  orig: 309, 278
+  offset: 92, 33
+  index: -1
+qiandaowangua_09
+  rotate: false
+  xy: 502, 124
+  size: 184, 200
+  orig: 309, 278
+  offset: 89, 22
+  index: -1
+qiandaowangua_10
+  rotate: false
+  xy: 694, 444
+  size: 137, 125
+  orig: 309, 278
+  offset: 84, 24
+  index: -1
+shadow
+  rotate: false
+  xy: 642, 68
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

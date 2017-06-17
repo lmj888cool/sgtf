@@ -1,0 +1,223 @@
+
+lijing.png
+size: 810,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-Fair
+  rotate: false
+  xy: 482, 91
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 0, 0
+  size: 128, 167
+  orig: 128, 167
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: false
+  xy: 253, 74
+  size: 130, 93
+  orig: 130, 93
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 725, 23
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 589, 0
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 526, 0
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 204, 8
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 469, 24
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+F-Fair
+  rotate: false
+  xy: 482, 56
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+L-Fair
+  rotate: false
+  xy: 132, 0
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+L-Foot
+  rotate: false
+  xy: 526, 32
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 429, 5
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 469, 2
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 166, 7
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+LU-Armor
+  rotate: false
+  xy: 337, 8
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 387, 4
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 295, 14
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 767, 112
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 253, 12
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 742, 55
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+R-Foot
+  rotate: false
+  xy: 784, 7
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 784, 33
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+RU-Armor
+  rotate: false
+  xy: 387, 60
+  size: 68, 25
+  orig: 68, 25
+  offset: 0, 0
+  index: -1
+SE-zadi
+  rotate: false
+  xy: 573, 120
+  size: 190, 47
+  orig: 190, 47
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 573, 73
+  size: 165, 43
+  orig: 165, 43
+  offset: 0, 0
+  index: -1
+beiguang
+  rotate: false
+  xy: 132, 52
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+jiansui
+  rotate: false
+  xy: 556, 71
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+jiansuixian
+  rotate: false
+  xy: 381, 53
+  size: 2, 17
+  orig: 2, 17
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 387, 89
+  size: 91, 78
+  orig: 91, 78
+  offset: 0, 0
+  index: -1
+r-Fair
+  rotate: false
+  xy: 337, 33
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 571, 28
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

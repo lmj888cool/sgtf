@@ -1,0 +1,251 @@
+
+huniu.png
+size: 719,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000_L-Handgongji
+  rotate: false
+  xy: 67, 1
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+_0001_R-Handgongji
+  rotate: false
+  xy: 591, 156
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+_0002_Flower
+  rotate: false
+  xy: 656, 114
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+_0003_R-Ear
+  rotate: false
+  xy: 459, 10
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+_0004_R-Hand
+  rotate: false
+  xy: 154, 1
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+_0005_xingxing
+  rotate: false
+  xy: 326, 0
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+_0006_Eye-fennu
+  rotate: false
+  xy: 583, 42
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+_0007_Mouth-fennu
+  rotate: false
+  xy: 656, 211
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+_0008_Eye-beiji
+  rotate: false
+  xy: 591, 115
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+_0009_Mouth-beiji
+  rotate: false
+  xy: 256, 2
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+_0010_Eye-shengli
+  rotate: false
+  xy: 502, 33
+  size: 55, 15
+  orig: 55, 15
+  offset: 0, 0
+  index: -1
+_0011_Mouth-shengli
+  rotate: false
+  xy: 502, 52
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+_0012_Eye
+  rotate: false
+  xy: 640, 48
+  size: 54, 15
+  orig: 54, 15
+  offset: 0, 0
+  index: -1
+_0013_Mouth
+  rotate: false
+  xy: 583, 73
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+_0014_Eye-siwang
+  rotate: false
+  xy: 640, 29
+  size: 54, 15
+  orig: 54, 15
+  offset: 0, 0
+  index: -1
+_0015_Mouth-siwang
+  rotate: false
+  xy: 369, 2
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+_0016_Head
+  rotate: false
+  xy: 242, 104
+  size: 148, 157
+  orig: 148, 157
+  offset: 0, 0
+  index: -1
+_0017_L-Ear
+  rotate: false
+  xy: 602, 7
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+_0018_R-Forearm
+  rotate: false
+  xy: 0, 0
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+_0019_R-Upperarm
+  rotate: false
+  xy: 242, 38
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+_0020_Body
+  rotate: false
+  xy: 502, 123
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+_0021_R-Thigh
+  rotate: false
+  xy: 416, 5
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+_0022_R-Foot
+  rotate: false
+  xy: 533, 1
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+_0023_L-Thigh
+  rotate: false
+  xy: 218, 0
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+_0024_L-Foot
+  rotate: false
+  xy: 500, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+_0025_M-weiba
+  rotate: false
+  xy: 634, 10
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+_0026_F-weiba
+  rotate: false
+  xy: 666, 7
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+_0027_B-weiba
+  rotate: false
+  xy: 565, 8
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+_0028_L-Hand
+  rotate: false
+  xy: 652, 67
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+_0029_L-Forearm
+  rotate: false
+  xy: 655, 161
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+_0030_L-Upperarm
+  rotate: false
+  xy: 326, 43
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+drdrg
+  rotate: false
+  xy: 0, 51
+  size: 233, 31
+  orig: 233, 31
+  offset: 0, 0
+  index: -1
+drdrg01
+  rotate: false
+  xy: 0, 86
+  size: 238, 175
+  orig: 238, 175
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 394, 45
+  size: 104, 216
+  orig: 253, 249
+  offset: 104, 28
+  index: -1
+shadow
+  rotate: false
+  xy: 502, 220
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

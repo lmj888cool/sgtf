@@ -1,0 +1,195 @@
+
+chibang08_02.png
+size: 1025,1003
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LU
+  rotate: false
+  xy: 613, 728
+  size: 130, 275
+  orig: 130, 275
+  offset: 0, 0
+  index: -1
+LU-light
+  rotate: false
+  xy: 0, 373
+  size: 162, 313
+  orig: 162, 313
+  offset: 0, 0
+  index: -1
+LU-pendant
+  rotate: false
+  xy: 456, 757
+  size: 153, 246
+  orig: 153, 246
+  offset: 0, 0
+  index: -1
+RU
+  rotate: false
+  xy: 0, 94
+  size: 185, 275
+  orig: 185, 275
+  offset: 0, 0
+  index: -1
+RU-light
+  rotate: false
+  xy: 0, 690
+  size: 230, 313
+  orig: 230, 313
+  offset: 0, 0
+  index: -1
+RU-pendant
+  rotate: false
+  xy: 234, 756
+  size: 218, 247
+  orig: 218, 247
+  offset: 0, 0
+  index: -1
+chibang08_01-texiao_00000
+  rotate: false
+  xy: 189, 49
+  size: 133, 199
+  orig: 160, 230
+  offset: 19, 16
+  index: -1
+chibang08_01-texiao_00001
+  rotate: false
+  xy: 873, 185
+  size: 134, 189
+  orig: 160, 230
+  offset: 19, 10
+  index: -1
+chibang08_01-texiao_00002
+  rotate: false
+  xy: 873, 0
+  size: 130, 181
+  orig: 160, 230
+  offset: 23, 18
+  index: -1
+chibang08_01-texiao_00003
+  rotate: false
+  xy: 872, 378
+  size: 123, 196
+  orig: 160, 230
+  offset: 30, 14
+  index: -1
+chibang08_01-texiao_00004
+  rotate: false
+  xy: 838, 578
+  size: 119, 199
+  orig: 160, 230
+  offset: 33, 14
+  index: -1
+chibang08_01-texiao_00005
+  rotate: false
+  xy: 708, 522
+  size: 126, 202
+  orig: 160, 230
+  offset: 25, 12
+  index: -1
+chibang08_01-texiao_00006
+  rotate: false
+  xy: 602, 314
+  size: 133, 204
+  orig: 160, 230
+  offset: 23, 12
+  index: -1
+chibang08_01-texiao_00007
+  rotate: false
+  xy: 568, 524
+  size: 136, 200
+  orig: 160, 230
+  offset: 22, 7
+  index: -1
+chibang08_01-texiao_00008
+  rotate: false
+  xy: 736, 114
+  size: 133, 193
+  orig: 160, 230
+  offset: 22, 5
+  index: -1
+chibang08_01-texiao_00009
+  rotate: false
+  xy: 463, 314
+  size: 135, 206
+  orig: 160, 230
+  offset: 19, 3
+  index: -1
+chibang08_01-texiao_00010
+  rotate: false
+  xy: 323, 321
+  size: 136, 211
+  orig: 160, 230
+  offset: 18, 0
+  index: -1
+chibang08_01-texiao_00011
+  rotate: false
+  xy: 462, 103
+  size: 135, 207
+  orig: 160, 230
+  offset: 16, 14
+  index: -1
+chibang08_01-texiao_00012
+  rotate: false
+  xy: 886, 786
+  size: 139, 217
+  orig: 160, 230
+  offset: 18, 5
+  index: -1
+chibang08_01-texiao_00013
+  rotate: false
+  xy: 326, 107
+  size: 132, 210
+  orig: 160, 230
+  offset: 21, 4
+  index: -1
+chibang08_01-texiao_00014
+  rotate: false
+  xy: 434, 539
+  size: 130, 213
+  orig: 160, 230
+  offset: 23, 12
+  index: -1
+chibang08_01-texiao_00015
+  rotate: false
+  xy: 601, 101
+  size: 131, 209
+  orig: 160, 230
+  offset: 22, 10
+  index: -1
+chibang08_01-texiao_00016
+  rotate: false
+  xy: 739, 311
+  size: 129, 207
+  orig: 160, 230
+  offset: 24, 13
+  index: -1
+chibang08_01-texiao_00017
+  rotate: false
+  xy: 189, 252
+  size: 130, 213
+  orig: 160, 230
+  offset: 21, 8
+  index: -1
+chibang08_01-texiao_00018
+  rotate: false
+  xy: 166, 469
+  size: 128, 217
+  orig: 160, 230
+  offset: 21, 7
+  index: -1
+chibang08_01-texiao_00019
+  rotate: false
+  xy: 747, 781
+  size: 135, 222
+  orig: 160, 230
+  offset: 20, 6
+  index: -1
+chibang08_01-texiao_00020
+  rotate: false
+  xy: 298, 536
+  size: 132, 216
+  orig: 160, 230
+  offset: 20, 12
+  index: -1

@@ -1,0 +1,195 @@
+
+chibang05.png
+size: 752,764
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LD
+  rotate: false
+  xy: 284, 367
+  size: 27, 68
+  orig: 27, 68
+  offset: 0, 0
+  index: -1
+LU
+  rotate: false
+  xy: 0, 212
+  size: 139, 274
+  orig: 139, 274
+  offset: 0, 0
+  index: -1
+LU1
+  rotate: false
+  xy: 143, 316
+  size: 91, 170
+  orig: 91, 170
+  offset: 0, 0
+  index: -1
+RD
+  rotate: false
+  xy: 238, 367
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+RU
+  rotate: false
+  xy: 0, 490
+  size: 215, 274
+  orig: 215, 274
+  offset: 0, 0
+  index: -1
+RU1
+  rotate: false
+  xy: 219, 594
+  size: 141, 170
+  orig: 141, 170
+  offset: 0, 0
+  index: -1
+chibang05-texiao_00000
+  rotate: false
+  xy: 143, 166
+  size: 113, 146
+  orig: 130, 163
+  offset: 17, 8
+  index: -1
+chibang05-texiao_00001
+  rotate: false
+  xy: 388, 153
+  size: 115, 147
+  orig: 130, 163
+  offset: 15, 8
+  index: -1
+chibang05-texiao_00002
+  rotate: false
+  xy: 507, 4
+  size: 116, 147
+  orig: 130, 163
+  offset: 14, 8
+  index: -1
+chibang05-texiao_00003
+  rotate: false
+  xy: 507, 155
+  size: 118, 147
+  orig: 130, 163
+  offset: 12, 8
+  index: -1
+chibang05-texiao_00004
+  rotate: false
+  xy: 384, 0
+  size: 119, 149
+  orig: 130, 163
+  offset: 11, 7
+  index: -1
+chibang05-texiao_00005
+  rotate: false
+  xy: 260, 2
+  size: 120, 147
+  orig: 130, 163
+  offset: 10, 8
+  index: -1
+chibang05-texiao_00006
+  rotate: false
+  xy: 630, 311
+  size: 122, 148
+  orig: 130, 163
+  offset: 8, 8
+  index: -1
+chibang05-texiao_00007
+  rotate: false
+  xy: 133, 13
+  size: 123, 149
+  orig: 130, 163
+  offset: 7, 7
+  index: -1
+chibang05-texiao_00008
+  rotate: false
+  xy: 367, 456
+  size: 125, 150
+  orig: 130, 163
+  offset: 5, 7
+  index: -1
+chibang05-texiao_00009
+  rotate: false
+  xy: 364, 610
+  size: 127, 154
+  orig: 130, 163
+  offset: 3, 5
+  index: -1
+chibang05-texiao_00010
+  rotate: false
+  xy: 0, 55
+  size: 129, 153
+  orig: 130, 163
+  offset: 1, 5
+  index: -1
+chibang05-texiao_00011
+  rotate: false
+  xy: 495, 611
+  size: 127, 153
+  orig: 130, 163
+  offset: 3, 5
+  index: -1
+chibang05-texiao_00012
+  rotate: false
+  xy: 238, 439
+  size: 125, 151
+  orig: 130, 163
+  offset: 5, 7
+  index: -1
+chibang05-texiao_00013
+  rotate: false
+  xy: 260, 153
+  size: 124, 147
+  orig: 130, 163
+  offset: 6, 6
+  index: -1
+chibang05-texiao_00014
+  rotate: false
+  xy: 626, 617
+  size: 126, 147
+  orig: 130, 163
+  offset: 4, 6
+  index: -1
+chibang05-texiao_00015
+  rotate: false
+  xy: 367, 304
+  size: 127, 148
+  orig: 130, 163
+  offset: 3, 6
+  index: -1
+chibang05-texiao_00016
+  rotate: false
+  xy: 498, 306
+  size: 128, 148
+  orig: 130, 163
+  offset: 2, 6
+  index: -1
+chibang05-texiao_00017
+  rotate: false
+  xy: 496, 458
+  size: 127, 149
+  orig: 130, 163
+  offset: 3, 6
+  index: -1
+chibang05-texiao_00018
+  rotate: false
+  xy: 627, 463
+  size: 124, 150
+  orig: 130, 163
+  offset: 6, 6
+  index: -1
+chibang05-texiao_00019
+  rotate: false
+  xy: 627, 2
+  size: 111, 149
+  orig: 130, 163
+  offset: 19, 7
+  index: -1
+chibang05-texiao_00020
+  rotate: false
+  xy: 630, 157
+  size: 113, 150
+  orig: 130, 163
+  offset: 17, 6
+  index: -1

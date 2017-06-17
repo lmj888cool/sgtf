@@ -1,0 +1,342 @@
+
+sunquan.png
+size: 590,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cloak1
+  rotate: false
+  xy: 434, 10
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Cloak2
+  rotate: false
+  xy: 520, 393
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+Cloak3
+  rotate: false
+  xy: 396, 91
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+Cloak4
+  rotate: false
+  xy: 396, 55
+  size: 67, 32
+  orig: 67, 32
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 380, 24
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 380, 24
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 96, 2
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 0, 0
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+Eye-siwang
+  rotate: false
+  xy: 52, 0
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+Fair1
+  rotate: false
+  xy: 568, 470
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Fair2
+  rotate: false
+  xy: 353, 19
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+Fair3
+  rotate: false
+  xy: 520, 442
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 277, 5
+  size: 72, 112
+  orig: 72, 112
+  offset: 0, 0
+  index: -1
+LForearm
+  rotate: false
+  xy: 467, 55
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+LForearm1
+  rotate: false
+  xy: 576, 53
+  size: 12, 33
+  orig: 12, 33
+  offset: 0, 0
+  index: -1
+LHand
+  rotate: false
+  xy: 360, 97
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+LUpperArm
+  rotate: false
+  xy: 537, 53
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+LowerBody
+  rotate: false
+  xy: 520, 346
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 542, 257
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 171, 9
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 572, 403
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 520, 256
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 572, 415
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+Neck1
+  rotate: false
+  xy: 400, 132
+  size: 96, 39
+  orig: 96, 39
+  offset: 0, 0
+  index: -1
+Neck2
+  rotate: false
+  xy: 520, 269
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+Neck3
+  rotate: false
+  xy: 520, 307
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+Neck4
+  rotate: false
+  xy: 537, 27
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+Pendant1
+  rotate: false
+  xy: 0, 32
+  size: 167, 118
+  orig: 167, 118
+  offset: 0, 0
+  index: -1
+Pendant2
+  rotate: false
+  xy: 514, 5
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+Pendant3
+  rotate: false
+  xy: 580, 430
+  size: 10, 36
+  orig: 10, 36
+  offset: 0, 0
+  index: -1
+Pendant4
+  rotate: false
+  xy: 154, 7
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+Pendant5
+  rotate: false
+  xy: 573, 29
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+RForearm
+  rotate: false
+  xy: 475, 100
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+RForearm1
+  rotate: false
+  xy: 402, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+RHand
+  rotate: false
+  xy: 479, 11
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+RUpperArm
+  rotate: false
+  xy: 360, 124
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+SE-daoguang
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+SE-faguang01
+  rotate: false
+  xy: 206, 166
+  size: 190, 86
+  orig: 190, 86
+  offset: 0, 0
+  index: -1
+SE-faguang02
+  rotate: false
+  xy: 0, 154
+  size: 202, 98
+  orig: 202, 98
+  offset: 0, 0
+  index: -1
+SE-sunquan
+  rotate: false
+  xy: 260, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+SE02
+  rotate: false
+  xy: 500, 90
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+SE02-faguang
+  rotate: false
+  xy: 171, 21
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+Skirt2
+  rotate: false
+  xy: 353, 68
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+Skirt3
+  rotate: false
+  xy: 353, 0
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+Skirt4
+  rotate: false
+  xy: 171, 131
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+UpperBody
+  rotate: false
+  xy: 491, 46
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 400, 175
+  size: 181, 77
+  orig: 181, 77
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 206, 121
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,25 @@
+info face="battle_heal" size=40 bold=0 italic=1 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=8,8,8,8 spacing=1,1 outline=0
+common lineHeight=40 base=32 scaleW=512 scaleH=300 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="battle_heal.png"
+chars count=21
+char id=33   x=243   y=57    width=37    height=56    xoffset=-8    yoffset=-8    xadvance=21    page=0  chnl=15
+char id=37   x=224   y=0     width=42    height=56    xoffset=-8    yoffset=-8    xadvance=26    page=0  chnl=15
+char id=40   x=0     y=0     width=45    height=56    xoffset=-8    yoffset=-8    xadvance=29    page=0  chnl=15
+char id=41   x=281   y=57    width=36    height=56    xoffset=-8    yoffset=-8    xadvance=20    page=0  chnl=15
+char id=43   x=0     y=57    width=40    height=56    xoffset=-8    yoffset=-8    xadvance=24    page=0  chnl=15
+char id=45   x=41    y=57    width=40    height=56    xoffset=-8    yoffset=-8    xadvance=24    page=0  chnl=15
+char id=46   x=318   y=57    width=36    height=56    xoffset=-8    yoffset=-8    xadvance=20    page=0  chnl=15
+char id=47   x=46    y=0     width=45    height=56    xoffset=-8    yoffset=-8    xadvance=29    page=0  chnl=15
+char id=48   x=353   y=0     width=41    height=56    xoffset=-8    yoffset=-8    xadvance=25    page=0  chnl=15
+char id=49   x=204   y=57    width=38    height=56    xoffset=-8    yoffset=-8    xadvance=22    page=0  chnl=15
+char id=50   x=82    y=57    width=40    height=56    xoffset=-8    yoffset=-8    xadvance=24    page=0  chnl=15
+char id=51   x=395   y=0     width=41    height=56    xoffset=-8    yoffset=-8    xadvance=25    page=0  chnl=15
+char id=52   x=123   y=57    width=40    height=56    xoffset=-8    yoffset=-8    xadvance=24    page=0  chnl=15
+char id=53   x=92    y=0     width=43    height=56    xoffset=-8    yoffset=-8    xadvance=27    page=0  chnl=15
+char id=54   x=136   y=0     width=43    height=56    xoffset=-8    yoffset=-8    xadvance=27    page=0  chnl=15
+char id=55   x=180   y=0     width=43    height=56    xoffset=-8    yoffset=-8    xadvance=27    page=0  chnl=15
+char id=56   x=437   y=0     width=41    height=56    xoffset=-8    yoffset=-8    xadvance=25    page=0  chnl=15
+char id=57   x=267   y=0     width=42    height=56    xoffset=-8    yoffset=-8    xadvance=26    page=0  chnl=15
+char id=58   x=355   y=57    width=36    height=56    xoffset=-8    yoffset=-8    xadvance=20    page=0  chnl=15
+char id=88   x=310   y=0     width=42    height=56    xoffset=-8    yoffset=-8    xadvance=26    page=0  chnl=15
+char id=120  x=164   y=57    width=39    height=56    xoffset=-8    yoffset=-8    xadvance=23    page=0  chnl=15

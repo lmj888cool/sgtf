@@ -1,0 +1,391 @@
+
+taishici.png
+size: 1001,685
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-dilie
+  rotate: false
+  xy: 401, 571
+  size: 331, 114
+  orig: 331, 114
+  offset: 0, 0
+  index: -1
+B-guang
+  rotate: false
+  xy: 259, 282
+  size: 257, 167
+  orig: 257, 167
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 259, 494
+  size: 83, 49
+  orig: 83, 49
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: false
+  xy: 723, 104
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 461, 17
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 852, 92
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 514, 17
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 654, 24
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+Eye-siwang
+  rotate: false
+  xy: 259, 466
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+F-dilie
+  rotate: false
+  xy: 401, 453
+  size: 331, 114
+  orig: 331, 114
+  offset: 0, 0
+  index: -1
+F-guang
+  rotate: false
+  xy: 0, 547
+  size: 397, 138
+  orig: 397, 138
+  offset: 0, 0
+  index: -1
+FL-Armor
+  rotate: false
+  xy: 931, 141
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 903, 288
+  size: 92, 111
+  orig: 92, 111
+  offset: 0, 0
+  index: -1
+HeadPendant
+  rotate: false
+  xy: 600, 48
+  size: 119, 102
+  orig: 119, 102
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 875, 55
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 566, 13
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 931, 178
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 967, 187
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+L-Weapon
+  rotate: false
+  xy: 851, 142
+  size: 76, 137
+  orig: 76, 137
+  offset: 0, 0
+  index: -1
+L-WeaponEat
+  rotate: false
+  xy: 224, 129
+  size: 76, 137
+  orig: 76, 137
+  offset: 0, 0
+  index: -1
+L-yezi
+  rotate: false
+  xy: 852, 43
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+LL-Armor
+  rotate: false
+  xy: 665, 166
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+LU-Armor
+  rotate: false
+  xy: 600, 0
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 259, 453
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+Mouth-Eat01
+  rotate: false
+  xy: 851, 117
+  size: 56, 21
+  orig: 56, 21
+  offset: 0, 0
+  index: -1
+Mouth-Eat02
+  rotate: false
+  xy: 654, 0
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 688, 309
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 379, 467
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 971, 160
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 259, 270
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Mouth-zhangzui01
+  rotate: false
+  xy: 304, 135
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+Mouth-zhangzui02
+  rotate: false
+  xy: 852, 12
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 316, 461
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 348, 464
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+R-Leg
+  rotate: false
+  xy: 465, 220
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 346, 498
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+R-Weapon
+  rotate: false
+  xy: 381, 10
+  size: 76, 137
+  orig: 76, 137
+  offset: 0, 0
+  index: -1
+R-yezi
+  rotate: false
+  xy: 809, 104
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+RL-Armor
+  rotate: false
+  xy: 619, 156
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+RU-Armor
+  rotate: false
+  xy: 931, 239
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+SE-L-daoguang
+  rotate: false
+  xy: 0, 1
+  size: 220, 265
+  orig: 220, 265
+  offset: 0, 0
+  index: -1
+SE-R-daoguang
+  rotate: false
+  xy: 0, 270
+  size: 255, 273
+  orig: 255, 273
+  offset: 0, 0
+  index: -1
+SE-bao01
+  rotate: false
+  xy: 736, 550
+  size: 264, 135
+  orig: 264, 135
+  offset: 0, 0
+  index: -1
+SE-bao02
+  rotate: false
+  xy: 718, 283
+  size: 181, 116
+  orig: 181, 116
+  offset: 0, 0
+  index: -1
+SE-bao03
+  rotate: false
+  xy: 520, 329
+  size: 194, 120
+  orig: 194, 120
+  offset: 0, 0
+  index: -1
+SE-baozha01
+  rotate: false
+  xy: 465, 41
+  size: 131, 109
+  orig: 164, 127
+  offset: 17, 9
+  index: -1
+SE-baozha02
+  rotate: false
+  xy: 224, 11
+  size: 153, 114
+  orig: 164, 127
+  offset: 6, 7
+  index: -1
+SE-baozha03
+  rotate: false
+  xy: 688, 155
+  size: 159, 124
+  orig: 164, 127
+  offset: 3, 2
+  index: -1
+SE-baozha04
+  rotate: false
+  xy: 520, 199
+  size: 164, 126
+  orig: 164, 127
+  offset: 0, 1
+  index: -1
+SE-baozha05
+  rotate: false
+  xy: 304, 151
+  size: 157, 127
+  orig: 164, 127
+  offset: 4, 0
+  index: -1
+SE-baozha06
+  rotate: false
+  xy: 723, 1
+  size: 125, 99
+  orig: 164, 127
+  offset: 20, 14
+  index: -1
+huoxing
+  rotate: false
+  xy: 736, 403
+  size: 258, 143
+  orig: 258, 143
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 465, 154
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+shitou01
+  rotate: false
+  xy: 688, 284
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+shitou02
+  rotate: false
+  xy: 971, 131
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+zhangfei.png
+size: 734,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 484, 139
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: false
+  xy: 317, 70
+  size: 134, 70
+  orig: 134, 70
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 600, 68
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 672, 100
+  size: 55, 18
+  orig: 55, 18
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 663, 43
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 412, 0
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+Eye-siwang
+  rotate: false
+  xy: 595, 21
+  size: 56, 19
+  orig: 56, 19
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 412, 31
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 655, 68
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+L-Thigh
+  rotate: false
+  xy: 696, 17
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 549, 10
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 154, 0
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 317, 26
+  size: 91, 40
+  orig: 91, 40
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 474, 19
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 595, 44
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 316, 3
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+P-Body
+  rotate: false
+  xy: 0, 49
+  size: 180, 121
+  orig: 180, 121
+  offset: 0, 0
+  index: -1
+P-Eye
+  rotate: false
+  xy: 687, 70
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+P-Eye-fennu
+  rotate: false
+  xy: 545, 49
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+P-Head
+  rotate: false
+  xy: 600, 96
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+P-L-Ear
+  rotate: false
+  xy: 678, 215
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+P-LF-Leg
+  rotate: false
+  xy: 641, 100
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+P-Mouth
+  rotate: false
+  xy: 655, 18
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+P-Mouth-fennu
+  rotate: false
+  xy: 672, 122
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+P-R-Ear
+  rotate: false
+  xy: 600, 159
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+P-RF-Leg
+  rotate: false
+  xy: 698, 171
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+P-weiba
+  rotate: false
+  xy: 279, 174
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 653, 165
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+R-Thigh
+  rotate: false
+  xy: 695, 132
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 544, 90
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+SE-jiantayanwu01
+  rotate: false
+  xy: 317, 144
+  size: 161, 55
+  orig: 161, 55
+  offset: 0, 0
+  index: -1
+SE-jiantayanwu02
+  rotate: false
+  xy: 279, 203
+  size: 201, 60
+  orig: 201, 60
+  offset: 0, 0
+  index: -1
+SE-jiantayanwu03
+  rotate: false
+  xy: 484, 223
+  size: 190, 40
+  orig: 190, 40
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 0, 174
+  size: 275, 89
+  orig: 275, 89
+  offset: 0, 0
+  index: -1
+caidao
+  rotate: false
+  xy: 455, 76
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 184, 21
+  size: 128, 44
+  orig: 128, 44
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 184, 69
+  size: 129, 101
+  orig: 129, 101
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 455, 48
+  size: 86, 24
+  orig: 86, 24
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 4
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

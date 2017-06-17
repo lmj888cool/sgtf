@@ -1,0 +1,258 @@
+
+hamajing.png
+size: 557,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 0, 54
+  size: 130, 136
+  orig: 130, 136
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 259, 16
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 348, 119
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 530, 7
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 287, 30
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Eye-siwang
+  rotate: false
+  xy: 287, 2
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 330, 53
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 402, 64
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+L-Lowerleg
+  rotate: false
+  xy: 368, 38
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+L-Thigh
+  rotate: false
+  xy: 330, 85
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 99, 9
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+LB-Foot
+  rotate: false
+  xy: 197, 6
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+LF-Foot
+  rotate: false
+  xy: 319, 39
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 475, 43
+  size: 77, 52
+  orig: 77, 52
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 247, 121
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 475, 99
+  size: 81, 53
+  orig: 81, 53
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 475, 156
+  size: 82, 58
+  orig: 82, 58
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 134, 50
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 134, 116
+  size: 109, 74
+  orig: 109, 74
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 171, 21
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 320, 10
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+R-Lowerleg
+  rotate: false
+  xy: 395, 38
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+R-Thigh
+  rotate: false
+  xy: 218, 13
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 0, 1
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+RB-Foot
+  rotate: false
+  xy: 259, 0
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+RF-Foot
+  rotate: false
+  xy: 171, 6
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+SE-water01
+  rotate: false
+  xy: 129, 9
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+SE-water02
+  rotate: false
+  xy: 50, 12
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+SE-water03
+  rotate: false
+  xy: 475, 0
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 423, 6
+  size: 48, 208
+  orig: 48, 208
+  offset: 0, 0
+  index: -1
+Weapon-mohu
+  rotate: false
+  xy: 0, 194
+  size: 402, 65
+  orig: 402, 65
+  offset: 0, 0
+  index: -1
+hulu
+  rotate: false
+  xy: 279, 60
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+jiuhu
+  rotate: false
+  xy: 222, 48
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 406, 218
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+yezi01
+  rotate: false
+  xy: 370, 89
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+yezi02
+  rotate: false
+  xy: 370, 64
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1

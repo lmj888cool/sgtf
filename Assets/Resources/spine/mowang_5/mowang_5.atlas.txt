@@ -1,0 +1,230 @@
+
+mowang_5.png
+size: 672,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 522, 169
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 195, 3
+  size: 76, 22
+  orig: 76, 22
+  offset: 0, 0
+  index: -1
+Eye-angry
+  rotate: false
+  xy: 522, 98
+  size: 83, 22
+  orig: 83, 22
+  offset: 0, 0
+  index: -1
+Eye-eat
+  rotate: false
+  xy: 519, 80
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+Eye-happy
+  rotate: false
+  xy: 215, 95
+  size: 83, 22
+  orig: 83, 22
+  offset: 0, 0
+  index: -1
+Eye-weak
+  rotate: false
+  xy: 302, 97
+  size: 83, 20
+  orig: 83, 20
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 195, 29
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 404, 106
+  size: 114, 155
+  orig: 114, 155
+  offset: 0, 0
+  index: -1
+L-ear
+  rotate: false
+  xy: 405, 10
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+L-face
+  rotate: false
+  xy: 147, 8
+  size: 44, 107
+  orig: 44, 107
+  offset: 0, 0
+  index: -1
+LB-leg
+  rotate: false
+  xy: 566, 21
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+LF-leg
+  rotate: false
+  xy: 279, 27
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+LIght
+  rotate: false
+  xy: 0, 119
+  size: 211, 142
+  orig: 211, 142
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 456, 46
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+Mouth-angry
+  rotate: false
+  xy: 456, 74
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+Mouth-eat01
+  rotate: false
+  xy: 275, 0
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+Mouth-eat02
+  rotate: false
+  xy: 334, 4
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+Mouth-eat03
+  rotate: false
+  xy: 519, 56
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+Mouth-eat04
+  rotate: false
+  xy: 611, 18
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+Mouth-happy
+  rotate: false
+  xy: 390, 29
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+Mouth-open
+  rotate: false
+  xy: 390, 64
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+Mouth-weak
+  rotate: false
+  xy: 609, 96
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+R-ear
+  rotate: false
+  xy: 372, 6
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+R-face
+  rotate: false
+  xy: 76, 10
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+RB-leg
+  rotate: false
+  xy: 611, 37
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+RF-leg
+  rotate: false
+  xy: 334, 29
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 0, 0
+  size: 72, 115
+  orig: 72, 115
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 443, 26
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+pendant
+  rotate: false
+  xy: 215, 121
+  size: 185, 140
+  orig: 185, 140
+  offset: 0, 0
+  index: -1
+pendant01
+  rotate: false
+  xy: 484, 2
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 522, 124
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 514, 14
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+putizushi.png
+size: 891,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 639, 70
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 486, 147
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 639, 6
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 789, 19
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 476, 0
+  size: 37, 10
+  orig: 37, 10
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 762, 0
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 272, 15
+  size: 96, 147
+  orig: 96, 147
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 796, 86
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 591, 0
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 591, 20
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 728, 12
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 486, 131
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 615, 6
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 0, 1
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 840, 30
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 762, 28
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+R-Leg
+  rotate: false
+  xy: 796, 38
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 687, 2
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+R-zuoyi
+  rotate: false
+  xy: 486, 72
+  size: 149, 55
+  orig: 149, 55
+  offset: 0, 0
+  index: -1
+SE-penqi01
+  rotate: false
+  xy: 424, 0
+  size: 48, 47
+  orig: 50, 59
+  offset: 2, 11
+  index: -1
+SE-penqi02
+  rotate: false
+  xy: 372, 0
+  size: 48, 49
+  orig: 50, 59
+  offset: 2, 9
+  index: -1
+SE-penqi03
+  rotate: false
+  xy: 842, 85
+  size: 49, 53
+  orig: 50, 59
+  offset: 1, 5
+  index: -1
+SE-penqi04
+  rotate: false
+  xy: 842, 142
+  size: 49, 54
+  orig: 50, 59
+  offset: 1, 4
+  index: -1
+SE-penqi05
+  rotate: false
+  xy: 486, 15
+  size: 49, 53
+  orig: 50, 59
+  offset: 1, 5
+  index: -1
+SE-penqi06
+  rotate: false
+  xy: 539, 14
+  size: 48, 54
+  orig: 50, 59
+  offset: 2, 4
+  index: -1
+guang01
+  rotate: false
+  xy: 272, 166
+  size: 259, 30
+  orig: 259, 30
+  offset: 0, 0
+  index: -1
+jiqiren01
+  rotate: false
+  xy: 372, 53
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+jiqiren02
+  rotate: false
+  xy: 706, 51
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+lingzi
+  rotate: false
+  xy: 691, 132
+  size: 147, 64
+  orig: 147, 64
+  offset: 0, 0
+  index: -1
+matong
+  rotate: false
+  xy: 535, 131
+  size: 152, 65
+  orig: 152, 65
+  offset: 0, 0
+  index: -1
+pilian
+  rotate: false
+  xy: 639, 25
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+yizi
+  rotate: false
+  xy: 0, 12
+  size: 268, 184
+  orig: 268, 184
+  offset: 0, 0
+  index: -1

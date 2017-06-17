@@ -1,0 +1,4 @@
+第几波,怪物ID,数量,路径,出怪时间,hp
+1,1,8,data/wave/wave101,0,50
+2,1,8,data/wave/wave101,10,50
+3,16,1,data/wave/wave101,20,250

@@ -1,0 +1,16 @@
+id,name,icon,attackType,skillType,desc,effectName,attackNum,attackInterval ,music,attackRange,priotY,stateDuration ,stateChance ,attackDamage,startAttackIndex ,shakeScreen
+0,名字,图标,伤害类型,技能类型,描述,特效,攻击次数,攻击隔间,音效,攻击范围,Y轴的描点,状态持续时间,触发概率,伤害,播放到第几帧开始伤害 ,是否震动屏幕 
+100,剑气斩,skill_icon/1012,1,1,集气于剑上，然后挥砍出去，对直线上的所有敌人造成物理伤害,skill/chongci,1,0,sound/jianqizan,75,0.5,0,0,157,0,0
+101,狙击,skill_icon/1092,1,4,锁定屏幕内任意目标对其狙击，造成非常大的物理伤害,skill/juji,1,0,sound/leiyu,60,0.5,0,0,158,0,0.5
+102,暴雨,skill_icon/1042,2,8,挥动双臂造成强力的旋风，造成3次魔法伤害，并有几率击晕敌人,skill/skill012,3,1,sound/leiyu,75,0.2,2003,1,159,0,0
+103,如来神掌,skill_icon/1051,2,9,传说中从天而降的一套掌法对着范围内的敌人造成大量物理伤害，并击晕2秒,skill/rulaishenzhang,1,0,sound/leiyu,100,0.5,1002,1,160,8,1
+104,火焰炮,skill_icon/2052,1,8,从天而降的火焰对范围内的敌人造成大量物理伤害，并有几率击晕敌人,skill/skill015,1,0,sound/leiyu,75,0.2,0,0,161,0,0
+105,石蹦,skill_icon/2032,1,8,从地面穿出大块石头，对经过的敌人造成少量伤害，并击晕全部敌人，持续2秒,skill/shibeng,1,0,sound/leiyu,75,0.2,1002,1,162,5,1
+1000,击晕,skill_icon/2032,1,8,击晕特效,skill/stun,0,0,,50,0.2,2,1,163,0,0
+106,天网恢恢,skill_icon/3061,2,8,从天而降一张大网，把敌人困住在里面,skill/mowang,1,0,sound/leiyu,75,0.2,1003,1,164,0,0
+107,冰龙卷,skill_icon/3081,2,8,挥动双臂造成强力的旋风，造成3次魔法伤害，并减速敌人,skill/bingfeng,3,1,sound/feng,75,0.2,0,0,165,0,0
+108,黑龙卷,skill_icon/3103,2,8,挥动双臂造成强力的旋风，造成4次魔法伤害，并减速敌人,skill/fengdianjuan,4,1,sound/feng,100,0.2,0,0,166,0,0
+109,魔爆,skill_icon/2063,2,8,从天而降的火焰对范围内的敌人造成大量物理伤害，并有几率击晕敌人,skill/mobao,1,0,sound/mobao,100,0.2,0,1,167,0,0
+110,逆流,skill_icon/2063,1,3,对以自身为中心的一定范围内敌人造成恐惧，使其返方向移动，状态持续3秒,skill/skill002,1,0,sound/mobao,200,0.5,3003,0,168,1,1
+111,暴雨梨花针,skill_icon/2063,2,9,成千上万的冰针从天而降，对刺中的目标造成大量的魔法伤害,skill/baoyulihuazhen,1,0,sound/mobao,200,0.2,0,0,169,9,1
+112,泥塘,skill_icon/2063,2,9,地面冒出一团泥塘，对经过的敌人减速,skill/nitang,50,0.2,sound/mobao,100,0.5,2001,1,170,0,0

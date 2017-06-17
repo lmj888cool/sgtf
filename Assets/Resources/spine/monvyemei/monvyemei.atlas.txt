@@ -1,0 +1,426 @@
+
+monvyemei.png
+size: 921,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hand01.
+  rotate: false
+  xy: 380, 75
+  size: 104, 89
+  orig: 104, 89
+  offset: 0, 0
+  index: -1
+Hand02
+  rotate: false
+  xy: 685, 88
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+L-Hand01
+  rotate: false
+  xy: 208, 70
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+L-Hand02
+  rotate: false
+  xy: 363, 0
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+R-Hand01
+  rotate: false
+  xy: 298, 74
+  size: 78, 90
+  orig: 78, 90
+  offset: 0, 0
+  index: -1
+R-Hand02
+  rotate: false
+  xy: 621, 85
+  size: 60, 79
+  orig: 60, 79
+  offset: 0, 0
+  index: -1
+SE-daoguang01
+  rotate: false
+  xy: 488, 79
+  size: 129, 85
+  orig: 129, 85
+  offset: 0, 0
+  index: -1
+SE-daoguang02
+  rotate: false
+  xy: 0, 11
+  size: 117, 153
+  orig: 117, 153
+  offset: 0, 0
+  index: -1
+_0000_R-FairPendant01
+  rotate: false
+  xy: 159, 4
+  size: 24, 61
+  orig: 24, 61
+  offset: 0, 0
+  index: -1
+_0001_RU-Fair
+  rotate: false
+  xy: 475, 21
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+_0002_R-FairPendant02
+  rotate: false
+  xy: 834, 15
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+_0003_RB-Fair
+  rotate: false
+  xy: 434, 5
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+_0004_RF-Fair
+  rotate: false
+  xy: 121, 1
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+_0005_Eye-fennu
+  rotate: false
+  xy: 834, 113
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+_0006_Mouth-fennu
+  rotate: false
+  xy: 897, 79
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+_0007_Eye-beiji
+  rotate: false
+  xy: 834, 144
+  size: 57, 20
+  orig: 57, 20
+  offset: 0, 0
+  index: -1
+_0008_Mouth-beiji
+  rotate: false
+  xy: 0, 0
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+_0009_Eye-shengli
+  rotate: false
+  xy: 773, 7
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+_0010_Mouth-shengli
+  rotate: false
+  xy: 780, 125
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+_0011_Eye-siwang
+  rotate: false
+  xy: 475, 1
+  size: 52, 16
+  orig: 52, 16
+  offset: 0, 0
+  index: -1
+_0012_Mouth-siwang
+  rotate: false
+  xy: 804, 125
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+_0013_Eye
+  rotate: false
+  xy: 645, 1
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+_0014_Mouth
+  rotate: false
+  xy: 834, 2
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+_0015_Head
+  rotate: false
+  xy: 121, 69
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+_0016_LU-Fair
+  rotate: false
+  xy: 720, 43
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+_0017_LL-Fair
+  rotate: false
+  xy: 187, 8
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+_0018_L-FairPandent02
+  rotate: false
+  xy: 891, 95
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+_0019_R-Finger01
+  rotate: false
+  xy: 823, 131
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+_0020_U-Body
+  rotate: false
+  xy: 531, 0
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+_0021_R-xiong
+  rotate: false
+  xy: 880, 13
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+_0022_L-xiong
+  rotate: false
+  xy: 818, 151
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+_0023_L-Body
+  rotate: false
+  xy: 851, 91
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+_0024_R-Finger02
+  rotate: false
+  xy: 761, 4
+  size: 8, 35
+  orig: 8, 35
+  offset: 0, 0
+  index: -1
+_0025_R-Finger03
+  rotate: false
+  xy: 815, 51
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+_0026_R-Forearm
+  rotate: false
+  xy: 895, 125
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+_0027_R-Ribbon
+  rotate: false
+  xy: 780, 137
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+_0028_R-Hand
+  rotate: false
+  xy: 903, 27
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+_0029_L-Ribbon
+  rotate: false
+  xy: 880, 30
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+_0030_R-Upperarm
+  rotate: false
+  xy: 766, 44
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+_0031_R-Thigh
+  rotate: false
+  xy: 591, 0
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+_0032_R-Lowerleg
+  rotate: false
+  xy: 721, 3
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+_0033_RU-Ribbon
+  rotate: false
+  xy: 530, 27
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+_0034_RL-Ribbon
+  rotate: false
+  xy: 818, 91
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+_0035_neiku
+  rotate: false
+  xy: 18, 0
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+_0036_L-Thigh
+  rotate: false
+  xy: 838, 56
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+_0037_L-Lowerleg
+  rotate: false
+  xy: 857, 56
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+_0038_Pelvis
+  rotate: false
+  xy: 895, 148
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+_0039_LU-Ribbon
+  rotate: false
+  xy: 789, 51
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+_0040_LL-Ribbon
+  rotate: false
+  xy: 622, 0
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+_0041_Body
+  rotate: false
+  xy: 780, 88
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+_0042_Neck
+  rotate: false
+  xy: 897, 59
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+_0043_L-Forearm
+  rotate: false
+  xy: 564, 2
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+_0044_L-Upperarm
+  rotate: false
+  xy: 736, 4
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+_0045_L-Finger02
+  rotate: false
+  xy: 875, 60
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+_0046_L-Finger01
+  rotate: false
+  xy: 31, 1
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+_0047_L-Finger03
+  rotate: false
+  xy: 704, 1
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+_0048_L-Hand
+  rotate: false
+  xy: 903, 43
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+_0049_R-chibang
+  rotate: false
+  xy: 215, 0
+  size: 78, 66
+  orig: 78, 66
+  offset: 0, 0
+  index: -1
+_0050_L-chibang
+  rotate: false
+  xy: 297, 0
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 566, 34
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

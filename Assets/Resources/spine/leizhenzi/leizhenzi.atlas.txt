@@ -1,0 +1,293 @@
+
+leizhenzi.png
+size: 701,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bdoy
+  rotate: false
+  xy: 0, 20
+  size: 61, 113
+  orig: 61, 113
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 0, 0
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 65, 0
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 257, 0
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 129, 0
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 634, 70
+  size: 61, 15
+  orig: 61, 15
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 65, 24
+  size: 94, 109
+  orig: 94, 109
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 641, 26
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 582, 35
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 342, 76
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 163, 25
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+L-chibang
+  rotate: false
+  xy: 507, 32
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 641, 48
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 600, 16
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Mouth-celebrate01
+  rotate: false
+  xy: 666, 92
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Mouth-celebrate02
+  rotate: false
+  xy: 387, 0
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 197, 27
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 518, 3
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 591, 87
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 591, 114
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 240, 28
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+R-chibang
+  rotate: false
+  xy: 492, 83
+  size: 95, 50
+  orig: 95, 50
+  offset: 0, 0
+  index: -1
+lianjie01
+  rotate: false
+  xy: 323, 0
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+lianjie02
+  rotate: false
+  xy: 193, 0
+  size: 60, 21
+  orig: 60, 21
+  offset: 0, 0
+  index: -1
+lianjie03
+  rotate: false
+  xy: 454, 2
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+lianjie04
+  rotate: false
+  xy: 641, 114
+  size: 60, 19
+  orig: 60, 19
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 353, 31
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+shandian01
+  rotate: false
+  xy: 553, 3
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+shandian02
+  rotate: false
+  xy: 621, 89
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+shandian03
+  rotate: false
+  xy: 369, 79
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 430, 82
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+zhenbang
+  rotate: false
+  xy: 285, 68
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+zhenbang01
+  rotate: false
+  xy: 163, 66
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+zhenbang02
+  rotate: false
+  xy: 224, 66
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+zhendan01
+  rotate: false
+  xy: 271, 28
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+zhendan02
+  rotate: false
+  xy: 300, 30
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+zhendan1
+  rotate: false
+  xy: 577, 3
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+zhendan2
+  rotate: false
+  xy: 612, 54
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+zhendan3
+  rotate: false
+  xy: 420, 1
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+zhendan4
+  rotate: false
+  xy: 582, 49
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+zhendan5
+  rotate: false
+  xy: 329, 31
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1

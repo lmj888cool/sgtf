@@ -1,0 +1,636 @@
+
+molvbu.png
+size: 1001,874
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 524, 313
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+Clock
+  rotate: false
+  xy: 631, 425
+  size: 185, 146
+  orig: 185, 146
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 365, 4
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+Eye--injured
+  rotate: false
+  xy: 851, 70
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 730, 0
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 417, 4
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 937, 217
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+H-B-light
+  rotate: false
+  xy: 820, 350
+  size: 134, 103
+  orig: 134, 103
+  offset: 0, 0
+  index: -1
+H-F-Armor
+  rotate: false
+  xy: 771, 278
+  size: 96, 68
+  orig: 96, 68
+  offset: 0, 0
+  index: -1
+H-H-light
+  rotate: false
+  xy: 518, 42
+  size: 114, 72
+  orig: 114, 72
+  offset: 0, 0
+  index: -1
+H-Head
+  rotate: false
+  xy: 514, 223
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+H-L-Armor
+  rotate: false
+  xy: 524, 118
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+H-L-eye
+  rotate: false
+  xy: 851, 95
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+H-LB-Foot
+  rotate: false
+  xy: 978, 162
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+H-RB-Foot
+  rotate: false
+  xy: 978, 162
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+H-LB-Lowerleg
+  rotate: false
+  xy: 843, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+H-RB-Lowerleg
+  rotate: false
+  xy: 843, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+H-LB-Thigh
+  rotate: false
+  xy: 983, 623
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+H-RB-Thigh
+  rotate: false
+  xy: 983, 623
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+H-LF-Foot
+  rotate: false
+  xy: 0, 0
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+H-LF-Lowerleg
+  rotate: false
+  xy: 983, 648
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+H-LF-Thigh
+  rotate: false
+  xy: 782, 6
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+H-Mouth
+  rotate: false
+  xy: 766, 350
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+H-R-Armor
+  rotate: false
+  xy: 368, 217
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+H-R-eye
+  rotate: false
+  xy: 370, 418
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+H-RF-Foot
+  rotate: false
+  xy: 584, 410
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+H-RF-Lowerleg
+  rotate: false
+  xy: 985, 332
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+H-RF-Thigh
+  rotate: false
+  xy: 983, 716
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+H-SE-E-Fire01
+  rotate: false
+  xy: 944, 498
+  size: 36, 92
+  orig: 36, 92
+  offset: 0, 0
+  index: -1
+H-SE-E-Fire03
+  rotate: false
+  xy: 726, 127
+  size: 35, 92
+  orig: 35, 92
+  offset: 0, 0
+  index: -1
+H-SE-E-Fire05
+  rotate: false
+  xy: 765, 127
+  size: 39, 88
+  orig: 39, 88
+  offset: 0, 0
+  index: -1
+H-SE-E-Fire07
+  rotate: false
+  xy: 808, 131
+  size: 37, 84
+  orig: 37, 84
+  offset: 0, 0
+  index: -1
+H-SE-E-Fire09
+  rotate: false
+  xy: 730, 31
+  size: 34, 92
+  orig: 34, 92
+  offset: 0, 0
+  index: -1
+H-SE-E-Fire11
+  rotate: false
+  xy: 768, 34
+  size: 37, 89
+  orig: 37, 89
+  offset: 0, 0
+  index: -1
+H-SE-T-Fire01
+  rotate: false
+  xy: 940, 144
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+H-SE-T-Fire03
+  rotate: false
+  xy: 924, 107
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+H-SE-T-Fire05
+  rotate: false
+  xy: 944, 460
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+H-SE-T-Fire07
+  rotate: false
+  xy: 962, 107
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+H-SE-T-Fire09
+  rotate: false
+  xy: 902, 70
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+H-SE-T-Fire11
+  rotate: false
+  xy: 831, 242
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 875, 743
+  size: 124, 131
+  orig: 124, 131
+  offset: 0, 0
+  index: -1
+L-Fair
+  rotate: false
+  xy: 901, 35
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+L-Foot
+  rotate: false
+  xy: 899, 113
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 728, 223
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 584, 427
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+L-Lowerleg
+  rotate: false
+  xy: 958, 404
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+L-Thigh
+  rotate: false
+  xy: 958, 358
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 766, 372
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+L-lingzi
+  rotate: false
+  xy: 875, 594
+  size: 104, 145
+  orig: 104, 145
+  offset: 0, 0
+  index: -1
+L-suolian
+  rotate: false
+  xy: 809, 68
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+LD-Armor
+  rotate: false
+  xy: 809, 26
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+LU-Armor
+  rotate: false
+  xy: 820, 457
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+LightWeapon
+  rotate: false
+  xy: 186, 196
+  size: 178, 149
+  orig: 178, 149
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 831, 219
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 867, 10
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 806, 1
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 875, 575
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 905, 575
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+Pelvis
+  rotate: false
+  xy: 871, 214
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+R-Fair
+  rotate: false
+  xy: 983, 675
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 862, 33
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 469, 2
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 953, 245
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+R-lingzi
+  rotate: false
+  xy: 636, 15
+  size: 90, 103
+  orig: 90, 103
+  offset: 0, 0
+  index: -1
+R-suolian
+  rotate: false
+  xy: 908, 153
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1
+RU-Armor
+  rotate: false
+  xy: 629, 122
+  size: 93, 97
+  orig: 93, 97
+  offset: 0, 0
+  index: -1
+SE-nengliang
+  rotate: false
+  xy: 772, 219
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SE-shandian01
+  rotate: false
+  xy: 940, 181
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+SE-shandian02
+  rotate: false
+  xy: 518, 3
+  size: 108, 35
+  orig: 109, 35
+  offset: 1, 0
+  index: -1
+SE-shandian03
+  rotate: false
+  xy: 871, 300
+  size: 110, 46
+  orig: 110, 46
+  offset: 0, 0
+  index: -1
+SE-shandian04
+  rotate: false
+  xy: 625, 223
+  size: 99, 45
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+SE-shandian05
+  rotate: false
+  xy: 625, 272
+  size: 142, 60
+  orig: 142, 60
+  offset: 0, 0
+  index: -1
+SE-shandian06
+  rotate: false
+  xy: 190, 78
+  size: 172, 64
+  orig: 172, 64
+  offset: 0, 0
+  index: -1
+SE-shandian07
+  rotate: false
+  xy: 199, 11
+  size: 162, 63
+  orig: 162, 63
+  offset: 0, 0
+  index: -1
+SE-shandian08
+  rotate: false
+  xy: 849, 151
+  size: 55, 59
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+SE-xuli4-01
+  rotate: false
+  xy: 372, 124
+  size: 148, 89
+  orig: 150, 89
+  offset: 1, 0
+  index: -1
+SE-xuli4-02
+  rotate: false
+  xy: 370, 317
+  size: 150, 89
+  orig: 150, 89
+  offset: 0, 0
+  index: -1
+SE-xuli4-03
+  rotate: false
+  xy: 366, 32
+  size: 148, 88
+  orig: 150, 89
+  offset: 0, 1
+  index: -1
+SE-xuli4-04
+  rotate: false
+  xy: 621, 336
+  size: 141, 85
+  orig: 150, 89
+  offset: 1, 4
+  index: -1
+SE-xuli4-05
+  rotate: false
+  xy: 871, 259
+  size: 78, 37
+  orig: 150, 89
+  offset: 4, 52
+  index: -1
+Weapon
+  rotate: false
+  xy: 0, 349
+  size: 366, 109
+  orig: 366, 109
+  offset: 0, 0
+  index: -1
+Weapon-light
+  rotate: false
+  xy: 404, 469
+  size: 223, 102
+  orig: 223, 102
+  offset: 0, 0
+  index: -1
+Weapon-new
+  rotate: false
+  xy: 0, 575
+  size: 871, 299
+  orig: 871, 299
+  offset: 0, 0
+  index: -1
+Weapon-xuanzhuan01
+  rotate: false
+  xy: 0, 18
+  size: 195, 55
+  orig: 200, 75
+  offset: 5, 2
+  index: -1
+Weapon-xuanzhuan02
+  rotate: false
+  xy: 186, 146
+  size: 182, 46
+  orig: 200, 75
+  offset: 18, 14
+  index: -1
+Weapon-xuanzhuan03
+  rotate: false
+  xy: 404, 410
+  size: 176, 55
+  orig: 200, 75
+  offset: 24, 4
+  index: -1
+Weapon-xuanzhuan04
+  rotate: false
+  xy: 0, 77
+  size: 186, 64
+  orig: 200, 75
+  offset: 8, 2
+  index: -1
+maozi
+  rotate: false
+  xy: 939, 71
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 462
+  size: 400, 109
+  orig: 400, 109
+  offset: 0, 0
+  index: -1
+zhuangshi
+  rotate: false
+  xy: 0, 145
+  size: 182, 200
+  orig: 182, 200
+  offset: 0, 0
+  index: -1

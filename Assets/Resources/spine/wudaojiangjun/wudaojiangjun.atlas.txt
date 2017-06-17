@@ -1,0 +1,265 @@
+
+wudaojiangjun.png
+size: 891,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-toukui
+  rotate: false
+  xy: 288, 42
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 751, 120
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: false
+  xy: 0, 1
+  size: 130, 97
+  orig: 130, 97
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 845, 422
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 232, 1
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 706, 246
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 280, 23
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1
+Eye-siwang
+  rotate: false
+  xy: 845, 403
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+F-toukui
+  rotate: false
+  xy: 724, 45
+  size: 96, 71
+  orig: 96, 71
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 597, 241
+  size: 105, 66
+  orig: 105, 66
+  offset: 0, 0
+  index: -1
+L-Armor
+  rotate: false
+  xy: 724, 13
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+L-Foot
+  rotate: false
+  xy: 134, 0
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 838, 297
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 322, 0
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+L-Lowerleg
+  rotate: false
+  xy: 838, 236
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 838, 334
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 280, 0
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 843, 443
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 232, 20
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 770, 9
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 838, 369
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Pelvis
+  rotate: false
+  xy: 134, 15
+  size: 94, 38
+  orig: 94, 38
+  offset: 0, 0
+  index: -1
+R-Armor
+  rotate: false
+  xy: 706, 268
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+R-Foot
+  rotate: false
+  xy: 158, 0
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 838, 263
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 363, 182
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+R-Lowerleg
+  rotate: false
+  xy: 867, 308
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 843, 477
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+SE-daoguang
+  rotate: false
+  xy: 0, 208
+  size: 384, 304
+  orig: 384, 304
+  offset: 0, 0
+  index: -1
+SE-daoguang02
+  rotate: false
+  xy: 388, 228
+  size: 205, 284
+  orig: 205, 284
+  offset: 0, 0
+  index: -1
+SE-kuosan01
+  rotate: false
+  xy: 597, 441
+  size: 242, 71
+  orig: 242, 71
+  offset: 0, 0
+  index: -1
+SE-kuosan02
+  rotate: false
+  xy: 0, 102
+  size: 359, 102
+  orig: 359, 102
+  offset: 0, 0
+  index: -1
+SE-kuosan03
+  rotate: false
+  xy: 388, 122
+  size: 359, 102
+  orig: 359, 102
+  offset: 0, 0
+  index: -1
+SE-kuosan04
+  rotate: false
+  xy: 363, 18
+  size: 357, 100
+  orig: 357, 100
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 768, 205
+  size: 66, 232
+  orig: 66, 232
+  offset: 0, 0
+  index: -1
+lianhua
+  rotate: false
+  xy: 597, 311
+  size: 167, 126
+  orig: 167, 126
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 134, 57
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

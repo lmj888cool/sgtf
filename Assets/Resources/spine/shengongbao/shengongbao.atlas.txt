@@ -1,0 +1,342 @@
+
+shengongbao.png
+size: 734,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-clothes
+  rotate: false
+  xy: 158, 50
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 252, 69
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 524, 15
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 548, 13
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 331, 4
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 331, 4
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 454, 13
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 96
+  size: 119, 163
+  orig: 119, 163
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 369, 106
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 524, 39
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+L-clothes
+  rotate: false
+  xy: 454, 40
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+LU-Armor
+  rotate: false
+  xy: 415, 29
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+M-Body
+  rotate: false
+  xy: 252, 149
+  size: 166, 110
+  orig: 166, 110
+  offset: 0, 0
+  index: -1
+M-L-Foot
+  rotate: false
+  xy: 80, 12
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+M-L-Forearm
+  rotate: false
+  xy: 123, 92
+  size: 73, 38
+  orig: 73, 38
+  offset: 0, 0
+  index: -1
+M-L-Hand
+  rotate: false
+  xy: 558, 57
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+M-L-Lowerleg
+  rotate: false
+  xy: 298, 0
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+M-L-Thigh
+  rotate: false
+  xy: 479, 23
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+M-L-Upperarm
+  rotate: false
+  xy: 364, 44
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+M-R-Foot
+  rotate: false
+  xy: 158, 34
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+M-R-Forearm
+  rotate: false
+  xy: 618, 66
+  size: 94, 43
+  orig: 94, 43
+  offset: 0, 0
+  index: -1
+M-R-Lowerleg
+  rotate: false
+  xy: 158, 1
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+M-R-Thigh
+  rotate: false
+  xy: 364, 1
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+M-R-Upperarm
+  rotate: false
+  xy: 666, 8
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+M-bei
+  rotate: false
+  xy: 422, 83
+  size: 132, 67
+  orig: 132, 67
+  offset: 0, 0
+  index: -1
+M-weiba
+  rotate: false
+  xy: 646, 189
+  size: 88, 70
+  orig: 88, 70
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 0, 2
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 479, 63
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 550, 37
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 572, 18
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 478, 3
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 316, 103
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 50, 0
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+R-clothes
+  rotate: false
+  xy: 198, 12
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+RU-Armor
+  rotate: false
+  xy: 50, 27
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+banshou
+  rotate: false
+  xy: 316, 31
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+beiyi
+  rotate: false
+  xy: 422, 199
+  size: 220, 60
+  orig: 220, 60
+  offset: 0, 0
+  index: -1
+huan
+  rotate: false
+  xy: 123, 134
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+huimiedaji_02
+  rotate: false
+  xy: 618, 0
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+huimiedaji_03
+  rotate: false
+  xy: 250, 0
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+huimiedaji_04
+  rotate: false
+  xy: 200, 60
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+huimiedaji_05
+  rotate: false
+  xy: 620, 113
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+huimiedaji_06
+  rotate: false
+  xy: 0, 22
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+huimiedaji_07
+  rotate: false
+  xy: 670, 113
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1
+huojiandan
+  rotate: false
+  xy: 576, 116
+  size: 40, 79
+  orig: 40, 79
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 422, 154
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+sheng
+  rotate: false
+  xy: 411, 5
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+xinhao
+  rotate: false
+  xy: 117, 13
+  size: 37, 75
+  orig: 37, 75
+  offset: 0, 0
+  index: -1

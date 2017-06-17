@@ -1,0 +1,265 @@
+
+mengpo.png
+size: 669,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye-fennu
+  rotate: false
+  xy: 101, 8
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 430, 35
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+_0001_yanjing
+  rotate: false
+  xy: 258, 2
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+_0002_Eye-fennu
+  rotate: false
+  xy: 485, 54
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+_0003_Mouth-fennu
+  rotate: false
+  xy: 641, 57
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+_0004_Eye-beiji
+  rotate: false
+  xy: 590, 57
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+_0005_Mouth-beiji
+  rotate: false
+  xy: 407, 0
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+_0006_Eye-shengli
+  rotate: false
+  xy: 45, 1
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+_0007_Mouth-shengli
+  rotate: false
+  xy: 463, 34
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+_0008_Eye-siwang
+  rotate: false
+  xy: 540, 54
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+_0009_Mouth-siwang
+  rotate: false
+  xy: 101, 0
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+_0010_Eye
+  rotate: false
+  xy: 430, 52
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+_0011_Mouth
+  rotate: false
+  xy: 575, 1
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+_0012_Head
+  rotate: false
+  xy: 154, 2
+  size: 100, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: -1
+_0013_RU-Fair
+  rotate: false
+  xy: 381, 44
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+_0014_RU-Skirt
+  rotate: false
+  xy: 641, 68
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+_0015_LU-Skirt
+  rotate: false
+  xy: 409, 24
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+_0016_R-xiong
+  rotate: false
+  xy: 453, 16
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+_0017_L-xiong
+  rotate: false
+  xy: 654, 41
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+_0018_R-Hand
+  rotate: false
+  xy: 407, 10
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+_0019_panzi
+  rotate: false
+  xy: 323, 29
+  size: 44, 11
+  orig: 44, 11
+  offset: 0, 0
+  index: -1
+_0020_wan
+  rotate: false
+  xy: 371, 26
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+_0021_R-Forearm
+  rotate: false
+  xy: 654, 0
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+_0022_R-Upperarm
+  rotate: false
+  xy: 575, 13
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+_0023_Skirt
+  rotate: false
+  xy: 258, 34
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+_0024_Body
+  rotate: false
+  xy: 485, 0
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+_0025_RM-Fair
+  rotate: false
+  xy: 323, 44
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+_0026_RL-Fair
+  rotate: false
+  xy: 378, 5
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+_0027_Hand01
+  rotate: false
+  xy: 453, 0
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+_0028_Hand02
+  rotate: false
+  xy: 355, 0
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+_0029_L-Forearm
+  rotate: false
+  xy: 654, 19
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+_0030_L-Upperarm
+  rotate: false
+  xy: 321, 3
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+_0031_LU-Fair
+  rotate: false
+  xy: 531, 9
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+_0032_LM-Fair
+  rotate: false
+  xy: 608, 2
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+_0033_LL-Fair
+  rotate: false
+  xy: 429, 0
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 44
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 0, 0
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1

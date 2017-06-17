@@ -1,0 +1,55 @@
+
+dajian_behit.png
+size: 471,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e/5_0011
+  rotate: false
+  xy: 2, 2
+  size: 131, 125
+  orig: 200, 200
+  offset: 38, 32
+  index: -1
+e/5_0012
+  rotate: true
+  xy: 2, 129
+  size: 197, 159
+  orig: 200, 200
+  offset: 2, 16
+  index: -1
+e/5_0013
+  rotate: true
+  xy: 163, 132
+  size: 194, 155
+  orig: 200, 200
+  offset: 4, 18
+  index: -1
+e/5_0014
+  rotate: true
+  xy: 320, 139
+  size: 187, 149
+  orig: 200, 200
+  offset: 7, 21
+  index: -1
+e/5_0015
+  rotate: false
+  xy: 326, 39
+  size: 96, 98
+  orig: 200, 200
+  offset: 53, 46
+  index: -1
+e/5_0016
+  rotate: false
+  xy: 230, 30
+  size: 94, 100
+  orig: 200, 200
+  offset: 53, 45
+  index: -1
+e/5_0017
+  rotate: false
+  xy: 135, 26
+  size: 93, 101
+  orig: 200, 200
+  offset: 54, 45
+  index: -1

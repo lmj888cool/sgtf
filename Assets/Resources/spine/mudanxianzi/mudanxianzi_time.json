@@ -1,0 +1,12 @@
+{
+  "attack": {
+    "actiondelay": 1.4,
+    "delay": 1.07
+  },
+  "injured": {
+    "actiondelay": 0.6,
+    "delay": 0.6  },
+  "skill": {
+    "actiondelay": 3.1
+  }
+}

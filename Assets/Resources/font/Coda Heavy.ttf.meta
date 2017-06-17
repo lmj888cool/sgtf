@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0cf2e2afbbbc52246a2875c21ae2b8dd
+timeCreated: 1489844558
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Coda
+  fontNames:
+  - Coda
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

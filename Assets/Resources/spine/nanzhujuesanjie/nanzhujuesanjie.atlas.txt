@@ -1,0 +1,223 @@
+
+nanzhujuesanjie.png
+size: 985,369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 754, 44
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: false
+  xy: 820, 165
+  size: 82, 51
+  orig: 82, 51
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 644, 17
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 644, 17
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 110, 8
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+Eye-bi
+  rotate: false
+  xy: 166, 9
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 222, 11
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 54, 6
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+Fair
+  rotate: false
+  xy: 880, 242
+  size: 78, 127
+  orig: 78, 127
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 644, 51
+  size: 106, 104
+  orig: 106, 104
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 743, 0
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 962, 267
+  size: 22, 61
+  orig: 22, 61
+  offset: 0, 0
+  index: -1
+L-Ribbon
+  rotate: false
+  xy: 907, 104
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 962, 332
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 278, 25
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 962, 252
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 880, 226
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 644, 4
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 907, 90
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Mouth-zhang
+  rotate: false
+  xy: 774, 28
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 700, 5
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+R-Ribbon
+  rotate: false
+  xy: 833, 82
+  size: 70, 79
+  orig: 70, 79
+  offset: 0, 0
+  index: -1
+RU-Armor
+  rotate: false
+  xy: 906, 187
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+SE-daoguang01
+  rotate: false
+  xy: 643, 220
+  size: 233, 149
+  orig: 233, 149
+  offset: 0, 0
+  index: -1
+SE-daoguang02
+  rotate: false
+  xy: 0, 38
+  size: 294, 331
+  orig: 294, 331
+  offset: 0, 0
+  index: -1
+SE-daoguang03
+  rotate: false
+  xy: 298, 43
+  size: 178, 326
+  orig: 178, 326
+  offset: 0, 0
+  index: -1
+SE-daoguang04
+  rotate: false
+  xy: 480, 126
+  size: 159, 243
+  orig: 159, 243
+  offset: 0, 0
+  index: -1
+SE-daoguang05
+  rotate: false
+  xy: 480, 0
+  size: 160, 122
+  orig: 160, 122
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 643, 159
+  size: 173, 57
+  orig: 173, 57
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 833, 37
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 0, 0
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+jinyankongquelongwang.png
+size: 754,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body01
+  rotate: false
+  xy: 554, 241
+  size: 196, 266
+  orig: 196, 266
+  offset: 0, 0
+  index: -1
+Body02
+  rotate: false
+  xy: 262, 336
+  size: 288, 171
+  orig: 288, 171
+  offset: 0, 0
+  index: -1
+Body03
+  rotate: false
+  xy: 0, 214
+  size: 258, 293
+  orig: 258, 293
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 262, 101
+  size: 282, 231
+  orig: 282, 231
+  offset: 0, 0
+  index: -1
+L-Eyegaoguang
+  rotate: false
+  xy: 225, 197
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 0, 32
+  size: 125, 167
+  orig: 125, 167
+  offset: 0, 0
+  index: -1
+L-chibang
+  rotate: false
+  xy: 548, 29
+  size: 100, 152
+  orig: 100, 152
+  offset: 0, 0
+  index: -1
+L-longxu
+  rotate: false
+  xy: 548, 230
+  size: 200, 7
+  orig: 200, 7
+  offset: 0, 0
+  index: -1
+L-yanqiu
+  rotate: false
+  xy: 205, 195
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+R-Leg
+  rotate: false
+  xy: 652, 35
+  size: 102, 146
+  orig: 102, 146
+  offset: 0, 0
+  index: -1
+R-longxu
+  rotate: false
+  xy: 0, 203
+  size: 201, 7
+  orig: 201, 7
+  offset: 0, 0
+  index: -1
+R-yanqiu
+  rotate: false
+  xy: 244, 202
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 548, 185
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+xiae
+  rotate: false
+  xy: 129, 99
+  size: 127, 92
+  orig: 127, 92
+  offset: 0, 0
+  index: -1
+yun01
+  rotate: false
+  xy: 260, 23
+  size: 146, 74
+  orig: 146, 74
+  offset: 0, 0
+  index: -1
+yun02
+  rotate: false
+  xy: 410, 0
+  size: 125, 44
+  orig: 125, 44
+  offset: 0, 0
+  index: -1
+yun03
+  rotate: false
+  xy: 410, 48
+  size: 134, 49
+  orig: 134, 49
+  offset: 0, 0
+  index: -1
+yun04
+  rotate: false
+  xy: 129, 51
+  size: 115, 44
+  orig: 115, 44
+  offset: 0, 0
+  index: -1

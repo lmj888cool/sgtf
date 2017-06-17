@@ -1,0 +1,286 @@
+
+mudanxianzi.png
+size: 811,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-Fair
+  rotate: false
+  xy: 546, 145
+  size: 125, 113
+  orig: 125, 113
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 185, 88
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: false
+  xy: 675, 208
+  size: 104, 50
+  orig: 104, 50
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 606, 61
+  size: 51, 22
+  orig: 51, 22
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 642, 7
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 606, 32
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 733, 132
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+Eye-siwang
+  rotate: false
+  xy: 733, 180
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+F-Fair
+  rotate: false
+  xy: 0, 0
+  size: 78, 83
+  orig: 78, 83
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 675, 138
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 606, 5
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 783, 232
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+L-Lowerleg
+  rotate: false
+  xy: 264, 102
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+L-Thigh
+  rotate: false
+  xy: 783, 195
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 718, 84
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+L-yezi
+  rotate: false
+  xy: 225, 88
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+LD-Arm
+  rotate: false
+  xy: 477, 0
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 272, 5
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 215, 3
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 256, 4
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 235, 4
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 783, 173
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 201, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Pelvis
+  rotate: false
+  xy: 733, 158
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+R-Foream
+  rotate: false
+  xy: 782, 150
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 442, 0
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+R-Lowerleg
+  rotate: false
+  xy: 735, 87
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+R-Thigh
+  rotate: false
+  xy: 781, 118
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 168, 0
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+R-yezi
+  rotate: false
+  xy: 606, 87
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+RD-Arm
+  rotate: false
+  xy: 735, 109
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+SE-daoguang01
+  rotate: false
+  xy: 662, 84
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+SE-daoguang02
+  rotate: false
+  xy: 168, 16
+  size: 107, 67
+  orig: 107, 67
+  offset: 0, 0
+  index: -1
+SE-daoguang03
+  rotate: false
+  xy: 286, 1
+  size: 152, 124
+  orig: 152, 124
+  offset: 0, 0
+  index: -1
+SE-daoguang04
+  rotate: false
+  xy: 442, 20
+  size: 160, 113
+  orig: 160, 113
+  offset: 0, 0
+  index: -1
+SE-daoguang05
+  rotate: false
+  xy: 185, 129
+  size: 178, 129
+  orig: 178, 129
+  offset: 0, 0
+  index: -1
+SE-daoguang06
+  rotate: false
+  xy: 367, 137
+  size: 175, 121
+  orig: 175, 121
+  offset: 0, 0
+  index: -1
+SE-guang
+  rotate: false
+  xy: 0, 87
+  size: 181, 171
+  orig: 300, 193
+  offset: 60, 6
+  index: -1
+hua
+  rotate: false
+  xy: 82, 2
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 661, 39
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

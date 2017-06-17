@@ -1,0 +1,188 @@
+
+nanshizhuang1.png
+size: 724,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 171, 5
+  size: 55, 112
+  orig: 55, 112
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 251, 11
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 608, 48
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+Eye-biyan
+  rotate: false
+  xy: 662, 48
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 305, 11
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 641, 5
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 587, 15
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+Fair
+  rotate: false
+  xy: 0, 1
+  size: 167, 116
+  orig: 167, 116
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 230, 44
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 461, 0
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 344, 57
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+Mouht-death
+  rotate: false
+  xy: 601, 3
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 331, 45
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 570, 62
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 696, 14
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 314, 44
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+Mouth-zhangzui
+  rotate: false
+  xy: 587, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Pendant
+  rotate: false
+  xy: 587, 45
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 314, 57
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: -1
+SE-attack01
+  rotate: false
+  xy: 497, 9
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+SE-attack02
+  rotate: false
+  xy: 359, 1
+  size: 98, 52
+  orig: 98, 52
+  offset: 0, 0
+  index: -1
+SE-attack03
+  rotate: false
+  xy: 373, 59
+  size: 94, 58
+  orig: 94, 58
+  offset: 0, 0
+  index: -1
+SE-attack04
+  rotate: false
+  xy: 471, 61
+  size: 95, 56
+  orig: 95, 56
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 230, 9
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 570, 76
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 641, 30
+  size: 83, 14
+  orig: 83, 14
+  offset: 0, 0
+  index: -1

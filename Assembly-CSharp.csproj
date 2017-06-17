@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{9399EA9B-5ACF-F0FC-3942-AFB0BFA237AE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_0;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;ENABLE_RUNTIME_GI;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_NETWORK;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_IOS_NATIVE_CRASH_REPORTING;PLAYERCONNECTION_LISTENS_FIXED_PORT;DEBUGGER_LISTENS_FIXED_PORT;PLATFORM_SUPPORTS_ADS_ID;SUPPORT_ENVIRONMENT_VARIABLES;PLATFORM_SUPPORTS_PROFILER;PLATFORM_HAS_NO_SUPPORT_FOR_BUCKET_ALLOCATOR;STRICTCPP_NEW_DELETE_SIGNATURES;HAS_NEON_SKINNIG;UNITY_GFX_USE_PLATFORM_VSYNC;UNITY_INPUT_SIMULATE_EVENTS;PLATFORM_ALWAYS_USES_STDOUT_FOR_LOG;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;UNITY_IOS;UNITY_IPHONE;UNITY_IPHONE_API;SUPPORT_MULTIPLE_DISPLAYS;ENABLE_IL2CPP;NET_2_0_SUBSET;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_IOS_ON_DEMAND_RESOURCES;ENABLE_IOS_APP_SLICING;UNITY_HAS_GOOGLEVR</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Examples\Getting Started\Scripts\BasicPlatformerController.cs" />
+     <Compile Include="Assets\Examples\Getting Started\Scripts\ConstrainedCamera.cs" />
+     <Compile Include="Assets\Examples\Getting Started\Scripts\Raptor.cs" />
+     <Compile Include="Assets\Examples\Getting Started\Scripts\SpineBeginnerTwo.cs" />
+     <Compile Include="Assets\Examples\Getting Started\Scripts\SpineBlinkPlayer.cs" />
+     <Compile Include="Assets\Examples\Getting Started\Scripts\SpineboyBeginnerInput.cs" />
+     <Compile Include="Assets\Examples\Getting Started\Scripts\SpineboyBeginnerModel.cs" />
+     <Compile Include="Assets\Examples\Getting Started\Scripts\SpineboyBeginnerView.cs" />
+     <Compile Include="Assets\Examples\Scripts\AttackSpineboy.cs" />
+     <Compile Include="Assets\Examples\Scripts\FootSoldierExample.cs" />
+     <Compile Include="Assets\Examples\Scripts\Goblins.cs" />
+     <Compile Include="Assets\Examples\Scripts\MixAndMatch.cs" />
+     <Compile Include="Assets\Examples\Scripts\RaggedySpineboy.cs" />
+     <Compile Include="Assets\Examples\Scripts\Rotator.cs" />
+     <Compile Include="Assets\Examples\Scripts\SpineGauge.cs" />
+     <Compile Include="Assets\Examples\Scripts\Spineboy.cs" />
+     <Compile Include="Assets\Examples\Scripts\SpineboyPole.cs" />
+     <Compile Include="Assets\script\AudioManager.cs" />
+     <Compile Include="Assets\script\BagManager.cs" />
+     <Compile Include="Assets\script\BagPanel.cs" />
+     <Compile Include="Assets\script\BagScene.cs" />
+     <Compile Include="Assets\script\CampaignItem.cs" />
+     <Compile Include="Assets\script\ChapterItem.cs" />
+     <Compile Include="Assets\script\ChapterManager.cs" />
+     <Compile Include="Assets\script\ChapterScene.cs" />
+     <Compile Include="Assets\script\DataManager.cs" />
+     <Compile Include="Assets\script\EquipInfo.cs" />
+     <Compile Include="Assets\script\GameScene.cs" />
+     <Compile Include="Assets\script\HandbookScene.cs" />
+     <Compile Include="Assets\script\HeadPanel.cs" />
+     <Compile Include="Assets\script\HeroManager.cs" />
+     <Compile Include="Assets\script\HeroScene.cs" />
+     <Compile Include="Assets\script\ItemInfo.cs" />
+     <Compile Include="Assets\script\LoginScene.cs" />
+     <Compile Include="Assets\script\MainScene.cs" />
+     <Compile Include="Assets\script\Monster.cs" />
+     <Compile Include="Assets\script\MonsterManager.cs" />
+     <Compile Include="Assets\script\MonsterSortByY.cs" />
+     <Compile Include="Assets\script\PoolManager.cs" />
+     <Compile Include="Assets\script\ReConnectPanel.cs" />
+     <Compile Include="Assets\script\SceletScene.cs" />
+     <Compile Include="Assets\script\Skill.cs" />
+     <Compile Include="Assets\script\SkillInfo.cs" />
+     <Compile Include="Assets\script\SkillManager.cs" />
+     <Compile Include="Assets\script\TipManager.cs" />
+     <Compile Include="Assets\script\Tower.cs" />
+     <Compile Include="Assets\script\TowerManager.cs" />
+     <Compile Include="Assets\script\UGUIEventTrigger.cs" />
+     <Compile Include="Assets\script\handBookPanel.cs" />
+     <Compile Include="Assets\script\item\Class1.cs" />
+     <Compile Include="Assets\script\item\chapterData.cs" />
+     <Compile Include="Assets\script\item\equipData.cs" />
+     <Compile Include="Assets\script\item\heroData.cs" />
+     <Compile Include="Assets\script\item\itemData.cs" />
+     <Compile Include="Assets\script\item\monsterData.cs" />
+     <Compile Include="Assets\script\item\skillData.cs" />
+     <Compile Include="Assets\script\notifiction\Message.cs" />
+     <Compile Include="Assets\script\notifiction\NotificationManager.cs" />
+     <Compile Include="Assets\script\notifiction\Observer.cs" />
+     <Compile Include="Assets\script\server\ServerManager.cs" />
+     <Compile Include="Assets\script\testArray_list_dic.cs" />
+     <Compile Include="Assets\script\util\HeroStyle.cs" />
+     <Compile Include="Assets\script\util\IconBase.cs" />
+     <Compile Include="Assets\script\util\Loom.cs" />
+     <Compile Include="Assets\spine-csharp\Animation.cs" />
+     <Compile Include="Assets\spine-csharp\AnimationState.cs" />
+     <Compile Include="Assets\spine-csharp\AnimationStateData.cs" />
+     <Compile Include="Assets\spine-csharp\Atlas.cs" />
+     <Compile Include="Assets\spine-csharp\Attachments\AtlasAttachmentLoader.cs" />
+     <Compile Include="Assets\spine-csharp\Attachments\Attachment.cs" />
+     <Compile Include="Assets\spine-csharp\Attachments\AttachmentLoader.cs" />
+     <Compile Include="Assets\spine-csharp\Attachments\AttachmentType.cs" />
+     <Compile Include="Assets\spine-csharp\Attachments\BoundingBoxAttachment.cs" />
+     <Compile Include="Assets\spine-csharp\Attachments\MeshAttachment.cs" />
+     <Compile Include="Assets\spine-csharp\Attachments\PathAttachment.cs" />
+     <Compile Include="Assets\spine-csharp\Attachments\RegionAttachment.cs" />
+     <Compile Include="Assets\spine-csharp\Attachments\VertexAttachment.cs" />
+     <Compile Include="Assets\spine-csharp\BlendMode.cs" />
+     <Compile Include="Assets\spine-csharp\Bone.cs" />
+     <Compile Include="Assets\spine-csharp\BoneData.cs" />
+     <Compile Include="Assets\spine-csharp\Event.cs" />
+     <Compile Include="Assets\spine-csharp\EventData.cs" />
+     <Compile Include="Assets\spine-csharp\ExposedList.cs" />
+     <Compile Include="Assets\spine-csharp\IConstraint.cs" />
+     <Compile Include="Assets\spine-csharp\IUpdatable.cs" />
+     <Compile Include="Assets\spine-csharp\IkConstraint.cs" />
+     <Compile Include="Assets\spine-csharp\IkConstraintData.cs" />
+     <Compile Include="Assets\spine-csharp\Json.cs" />
+     <Compile Include="Assets\spine-csharp\MathUtils.cs" />
+     <Compile Include="Assets\spine-csharp\PathConstraint.cs" />
+     <Compile Include="Assets\spine-csharp\PathConstraintData.cs" />
+     <Compile Include="Assets\spine-csharp\Skeleton.cs" />
+     <Compile Include="Assets\spine-csharp\SkeletonBinary.cs" />
+     <Compile Include="Assets\spine-csharp\SkeletonBounds.cs" />
+     <Compile Include="Assets\spine-csharp\SkeletonData.cs" />
+     <Compile Include="Assets\spine-csharp\SkeletonJson.cs" />
+     <Compile Include="Assets\spine-csharp\Skin.cs" />
+     <Compile Include="Assets\spine-csharp\Slot.cs" />
+     <Compile Include="Assets\spine-csharp\SlotData.cs" />
+     <Compile Include="Assets\spine-csharp\TransformConstraint.cs" />
+     <Compile Include="Assets\spine-csharp\TransformConstraintData.cs" />
+     <Compile Include="Assets\spine-unity\Asset Types\AtlasAsset.cs" />
+     <Compile Include="Assets\spine-unity\Asset Types\SkeletonDataAsset.cs" />
+     <Compile Include="Assets\spine-unity\BoneFollower.cs" />
+     <Compile Include="Assets\spine-unity\ISkeletonAnimation.cs" />
+     <Compile Include="Assets\spine-unity\Mesh Generation\Arrays\ArraysMeshGenerator.cs" />
+     <Compile Include="Assets\spine-unity\Mesh Generation\Arrays\ArraysSimpleMeshGenerator.cs" />
+     <Compile Include="Assets\spine-unity\Mesh Generation\Arrays\ArraysSubmeshSetMeshGenerator.cs" />
+     <Compile Include="Assets\spine-unity\Mesh Generation\Arrays\ArraysSubmeshedMeshGenerator.cs" />
+     <Compile Include="Assets\spine-unity\Mesh Generation\DoubleBuffered.cs" />
+     <Compile Include="Assets\spine-unity\Mesh Generation\DoubleBufferedMesh.cs" />
+     <Compile Include="Assets\spine-unity\Mesh Generation\ISimpleMeshGenerator.cs" />
+     <Compile Include="Assets\spine-unity\Mesh Generation\ISubmeshedMeshGenerator.cs" />
+     <Compile Include="Assets\spine-unity\Mesh Generation\SpineMesh.cs" />
+     <Compile Include="Assets\spine-unity\Modules\AttachmentTools\AtlasRegionAttacher.cs" />
+     <Compile Include="Assets\spine-unity\Modules\AttachmentTools\AttachmentTools.cs" />
+     <Compile Include="Assets\spine-unity\Modules\AttachmentTools\SpriteAttacher.cs" />
+     <Compile Include="Assets\spine-unity\Modules\BoundingBoxFollower\BoundingBoxFollower.cs" />
+     <Compile Include="Assets\spine-unity\Modules\CustomMaterials\SkeletonRendererCustomMaterials.cs" />
+     <Compile Include="Assets\spine-unity\Modules\CustomSkin\CustomSkin.cs" />
+     <Compile Include="Assets\spine-unity\Modules\Ghost\SkeletonGhost.cs" />
+     <Compile Include="Assets\spine-unity\Modules\Ghost\SkeletonGhostRenderer.cs" />
+     <Compile Include="Assets\spine-unity\Modules\Ragdoll\SkeletonRagdoll.cs" />
+     <Compile Include="Assets\spine-unity\Modules\Ragdoll\SkeletonRagdoll2D.cs" />
+     <Compile Include="Assets\spine-unity\Modules\SkeletonGraphic\SkeletonGraphic.cs" />
+     <Compile Include="Assets\spine-unity\Modules\SkeletonRenderSeparator\SkeletonPartsRenderer.cs" />
+     <Compile Include="Assets\spine-unity\Modules\SkeletonRenderSeparator\SkeletonRenderSeparator.cs" />
+     <Compile Include="Assets\spine-unity\Modules\SkeletonUtility Modules\SkeletonUtilityEyeConstraint.cs" />
+     <Compile Include="Assets\spine-unity\Modules\SkeletonUtility Modules\SkeletonUtilityGroundConstraint.cs" />
+     <Compile Include="Assets\spine-unity\Modules\SkeletonUtility Modules\SkeletonUtilityKinematicShadow.cs" />
+     <Compile Include="Assets\spine-unity\Modules\TK2D\SpriteCollectionAttachmentLoader.cs" />
+     <Compile Include="Assets\spine-unity\Modules\YieldInstructions\WaitForSpineAnimationComplete.cs" />
+     <Compile Include="Assets\spine-unity\Modules\YieldInstructions\WaitForSpineEvent.cs" />
+     <Compile Include="Assets\spine-unity\Modules\YieldInstructions\WaitForSpineTrackEntryEnd.cs" />
+     <Compile Include="Assets\spine-unity\SkeletonAnimation.cs" />
+     <Compile Include="Assets\spine-unity\SkeletonAnimator.cs" />
+     <Compile Include="Assets\spine-unity\SkeletonExtensions.cs" />
+     <Compile Include="Assets\spine-unity\SkeletonRenderer.cs" />
+     <Compile Include="Assets\spine-unity\SkeletonUtility\SkeletonUtility.cs" />
+     <Compile Include="Assets\spine-unity\SkeletonUtility\SkeletonUtilityBone.cs" />
+     <Compile Include="Assets\spine-unity\SkeletonUtility\SkeletonUtilityConstraint.cs" />
+     <Compile Include="Assets\spine-unity\SpineAttributes.cs" />
+     <None Include="Assets\spine-unity\Editor\Resources\SpineAssetDatabaseMarker.txt" />
+     <None Include="Assets\Resources\spine\chibang09_02\chibang09_02.atlas.txt" />
+     <None Include="Assets\Resources\spine\heiyang\heiyang.atlas.txt" />
+     <None Include="Assets\Resources\spine\wuluo\wuluo.atlas.txt" />
+     <None Include="Assets\Resources\spine\zhongkui\zhongkui.atlas.txt" />
+     <None Include="Assets\Examples\Spine\Eyes\eyes.atlas.txt" />
+     <None Include="Assets\spine-unity\Shaders\HiddenPass.shader" />
+     <None Include="Assets\Resources\spine\shoushizhuang2\shoushizhuang2.atlas.txt" />
+     <None Include="Assets\Resources\spine\chibang05\chibang05.atlas.txt" />
+     <None Include="Assets\Resources\spine\yanliangwenchou\yanliangwenchou.atlas.txt" />
+     <None Include="Assets\Resources\spine\hamajing\hamajing.atlas.txt" />
+     <None Include="Assets\Resources\font\number_big.fnt" />
+     <None Include="Assets\Resources\spine\tianjiang\tianjiang.atlas.txt" />
+     <None Include="Assets\Resources\spine\dajian_behit\dajian_behit.atlas.txt" />
+     <None Include="Assets\Resources\spine\bingyao\bingyao.atlas.txt" />
+     <None Include="Assets\Resources\font\numberWrote.fnt" />
+     <None Include="Assets\Resources\spine\rulai\rulai.atlas.txt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpritePixelLighting.cginc" />
+     <None Include="Assets\Resources\spine\huangyueying\huangyueying.atlas.txt" />
+     <None Include="Assets\Resources\spine\jiangchen\jiangchen.atlas.txt" />
+     <None Include="Assets\Resources\font\plphb48hh.fnt" />
+     <None Include="Assets\Resources\spine\simayi\simayi.atlas.txt" />
+     <None Include="Assets\Resources\spine\toushiche\toushiche.atlas.txt" />
+     <None Include="Assets\Resources\font\pltlbz40(lvsxjb).fnt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteShadows.cginc" />
+     <None Include="Assets\Resources\spine\houyi\houyi.atlas.txt" />
+     <None Include="Assets\Resources\spine\lijing\lijing.atlas.txt" />
+     <None Include="Assets\Resources\spine\jingang\jingang.atlas.txt" />
+     <None Include="Assets\Resources\spine\nvshizhuang1\nvshizhuang1.atlas.txt" />
+     <None Include="Assets\Resources\spine\chibang04\chibang04.atlas.txt" />
+     <None Include="Assets\Resources\spine\mudanxianzi\mudanxianzi.atlas.txt" />
+     <None Include="Assets\Resources\spine\dizangpusa\dizangpusa.atlas.txt" />
+     <None Include="Assets\Resources\spine\shoushizhuang1\shoushizhuang1.atlas.txt" />
+     <None Include="Assets\Resources\spine\nanzhujueyijie\nanzhujueyijie.atlas.txt" />
+     <None Include="Assets\Resources\spine\duowentianwang\duowentianwang.atlas.txt" />
+     <None Include="Assets\Resources\spine\jinchidapeng\jinchidapeng.atlas.txt" />
+     <None Include="Assets\Resources\spine\guanyinjiejie\guanyinjiejie.atlas.txt" />
+     <None Include="Assets\Resources\spine\xiaomoguiyuancheng\xiaomoguiyuancheng.atlas.txt" />
+     <None Include="Assets\Examples\Spine\Gauge\Gauge.atlas.txt" />
+     <None Include="Assets\Resources\spine\luochajianshen\luochajianshen.atlas.txt" />
+     <None Include="Assets\Resources\spine\shengongbao\shengongbao.atlas.txt" />
+     <None Include="Assets\Resources\spine\yanwang\yanwang.atlas.txt" />
+     <None Include="Assets\Resources\spine\jiqiangbing\jiqiangbing.atlas.txt" />
+     <None Include="Assets\Resources\spine\shibing\shibing.atlas.txt" />
+     <None Include="Assets\Resources\spine\nezha\nezha.atlas.txt" />
+     <None Include="Assets\Resources\spine\daqiao\daqiao.atlas.txt" />
+     <None Include="Assets\Resources\spine\wudaojiangjun\wudaojiangjun.atlas.txt" />
+     <None Include="Assets\Resources\spine\wanyaohuang\wanyaohuang.atlas.txt" />
+     <None Include="Assets\Resources\spine\jinyankongquelongwang\jinyankongquelongwang.atlas.txt" />
+     <None Include="Assets\Resources\spine\xiantong\xiantong.atlas.txt" />
+     <None Include="Assets\Examples\Spine\FootSoldier\FS_White.atlas.txt" />
+     <None Include="Assets\Resources\spine\denglongmo\denglongmo.atlas.txt" />
+     <None Include="Assets\Resources\data\wave\wave105.txt" />
+     <None Include="Assets\Resources\spine\mowang_0\mowang_0.atlas.txt" />
+     <None Include="Assets\Resources\spine\hexiangu\hexiangu.atlas.txt" />
+     <None Include="Assets\Resources\spine\zhaoyun\zhaoyun.atlas.txt" />
+     <None Include="Assets\Resources\spine\chibang010_02\chibang010_02.atlas.txt" />
+     <None Include="Assets\Resources\spine\chibang07\chibang07.atlas.txt" />
+     <None Include="Assets\spine-unity\Modules\CustomMaterials\SkeletonRendererCustomMaterials.txt" />
+     <None Include="Assets\Resources\spine\xiongguai\xiongguai.atlas.txt" />
+     <None Include="Assets\Resources\spine\xiaomoguijincheng\xiaomoguijincheng.atlas.txt" />
+     <None Include="Assets\Resources\spine\yegui\yegui.atlas.txt" />
+     <None Include="Assets\Examples\Spine\Hero\hero-mesh.atlas.txt" />
+     <None Include="Assets\Examples\Spine\Dragon\license.txt" />
+     <None Include="Assets\Resources\skill\nitang\爱给网-游戏2d素材库-免费下载.txt" />
+     <None Include="Assets\Resources\spine\dianmu\dianmu.atlas.txt" />
+     <None Include="Assets\Resources\spine\jiangshi\jiangshi.atlas.txt" />
+     <None Include="Assets\Examples\Spine\Hero\license.txt" />
+     <None Include="Assets\Resources\spine\yuji\yuji.atlas.txt" />
+     <None Include="Assets\Resources\font\pllan26.fnt" />
+     <None Include="Assets\Resources\spine\guhun\guhun.atlas.txt" />
+     <None Include="Assets\Examples\Spine\Goblins\goblins.atlas.txt" />
+     <None Include="Assets\Resources\spine\leigong\leigong.atlas.txt" />
+     <None Include="Assets\Examples\Spine\Strechyman\stretchyman-diffuse-pma.atlas.txt" />
+     <None Include="Assets\Resources\spine\daobing\daobing.atlas.txt" />
+     <None Include="Assets\Resources\data\tower\tower006.txt" />
+     <None Include="Assets\Resources\spine\chibang01\chibang01.atlas.txt" />
+     <None Include="Assets\Resources\data\tower\tower001.txt" />
+     <None Include="Assets\Resources\spine\diyumoshou\diyumoshou.atlas.txt" />
+     <None Include="Assets\Resources\font\pllj28(danlv).fnt" />
+     <None Include="Assets\Resources\spine\sunshangxiang\sunshangxiang.atlas.txt" />
+     <None Include="Assets\Resources\spine\changqiangbing\changqiangbing.atlas.txt" />
+     <None Include="Assets\Resources\spine\putizushi\putizushi.atlas.txt" />
+     <None Include="Assets\Resources\spine\chibang010\chibang010.atlas.txt" />
+     <None Include="Assets\Resources\spine\zhuque\zhuque.atlas.txt" />
+     <None Include="Assets\Resources\spine\loading\mamian.atlas.txt" />
+     <None Include="Assets\Resources\spine\liubang\liubang.atlas.txt" />
+     <None Include="Assets\Resources\spine\huatuo\huatuo.atlas.txt" />
+     <None Include="Assets\Resources\spine\ganning\ganning.atlas.txt" />
+     <None Include="Assets\Resources\spine\tieshangongzhu\tieshangongzhu.atlas.txt" />
+     <None Include="Assets\Resources\spine\bianfujing\bianfujing.atlas.txt" />
+     <None Include="Assets\Resources\spine\change\change.atlas.txt" />
+     <None Include="Assets\Resources\font\plycs60(tsz).fnt" />
+     <None Include="Assets\Resources\spine\mowang_3\mowang_3.atlas.txt" />
+     <None Include="Assets\Resources\spine\moshenshicong\moshenshicong.atlas.txt" />
+     <None Include="Assets\Examples\Spine\Raptor\raptor.atlas.txt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteLighting.cginc" />
+     <None Include="Assets\Resources\spine\shouzhujuewujie\shouzhujuewujie.atlas.txt" />
+     <None Include="Assets\Resources\spine\chibang02\chibang02.atlas.txt" />
+     <None Include="Assets\Resources\spine\nanzhujuesijie\nanzhujuesijie.atlas.txt" />
+     <None Include="Assets\Examples\Spine\Spineboy\spineboy.atlas.txt" />
+     <None Include="Assets\Resources\spine\chiguotianwang\chiguotianwang.atlas.txt" />
+     <None Include="Assets\Resources\spine\mowang_5\mowang_5.atlas.txt" />
+     <None Include="Assets\Resources\spine\nanshizhuang1\nanshizhuang1.atlas.txt" />
+     <None Include="Assets\Resources\spine\shouzhujuesanjie\shouzhujuesanjie.atlas.txt" />
+     <None Include="Assets\Resources\spine\wangmuniangniang\wangmuniangniang.atlas.txt" />
+     <None Include="Assets\Resources\spine\nvshizhuang2\nvshizhuang2.atlas.txt" />
+     <None Include="Assets\Resources\spine\honghaier\honghaier.atlas.txt" />
+     <None Include="Assets\Resources\spine\zhangfei\zhangfei.atlas.txt" />
+     <None Include="Assets\Resources\spine\yudi\yudi.atlas.txt" />
+     <None Include="Assets\Resources\spine\zhuyao\zhuyao.atlas.txt" />
+     <None Include="Assets\Resources\skill\x_欣赏 (3)\爱给网-游戏2d素材库-免费下载.txt" />
+     <None Include="Assets\Resources\spine\chibang08\chibang08.atlas.txt" />
+     <None Include="Assets\Resources\spine\caocao\caocao.atlas.txt" />
+     <None Include="Assets\Resources\spine\nvzhujuewujie\nvzhujuewujie.atlas.txt" />
+     <None Include="Assets\Resources\spine\nvzhujuesanjie\nvzhujuesanjie.atlas.txt" />
+     <None Include="Assets\Resources\spine\machao\machao.atlas.txt" />
+     <None Include="Assets\Resources\spine\nvzhujueyijie\nvzhujueyijie.atlas.txt" />
+     <None Include="Assets\Resources\spine\chibang09\chibang09.atlas.txt" />
+     <None Include="Assets\Resources\spine\chibang010_01\chibang010_01.atlas.txt" />
+     <None Include="Assets\Resources\spine\mengpo\mengpo.atlas.txt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteUnlit.cginc" />
+     <None Include="Assets\Examples\Spine\FootSoldier\license.txt" />
+     <None Include="Assets\Resources\spine\mowang_4\mowang_4.atlas.txt" />
+     <None Include="Assets\Resources\font\battle_dmg.fnt" />
+     <None Include="Assets\Resources\font\number.fnt" />
+     <None Include="Assets\Resources\spine\dongzhuo\dongzhuo.atlas.txt" />
+     <None Include="Assets\Resources\spine\sanzang\sanzang.atlas.txt" />
+     <None Include="Assets\Resources\spine\shouzhujueyijie\shouzhujueyijie.atlas.txt" />
+     <None Include="Assets\Resources\spine\langren\langren.atlas.txt" />
+     <None Include="Assets\spine-unity\version.txt" />
+     <None Include="Assets\Resources\spine\yuren\yuren.atlas.txt" />
+     <None Include="Assets\Resources\spine\zhugeliang\zhugeliang.atlas.txt" />
+     <None Include="Assets\Resources\skill\chongci\爱给网-游戏2d素材库-免费下载.txt" />
+     <None Include="Assets\Resources\skill\游戏技能光效 (312)\爱给网-游戏2d素材库-免费下载.txt" />
+     <None Include="Assets\Resources\data\wave\wave107.txt" />
+     <None Include="Assets\Resources\spine\datouhuomo\datouhuomo.atlas.txt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\SpritesPixelLit.shader" />
+     <None Include="Assets\Resources\spine\zhubajie\zhubajie.atlas.txt" />
+     <None Include="Assets\Resources\data\tower\tower007.txt" />
+     <None Include="Assets\Resources\spine\niutou\niutou.atlas.txt" />
+     <None Include="Assets\Examples\Spine\Raggedy Spineboy\Raggedy Spineboy.atlas.txt" />
+     <None Include="Assets\Resources\spine\chibang03\chibang03.atlas.txt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\SkeletonTint.shader" />
+     <None Include="Assets\Resources\spine\zhangliang\zhangliang.atlas.txt" />
+     <None Include="Assets\Resources\spine\diaochan\diaochan.atlas.txt" />
+     <None Include="Assets\Resources\data\wave\wave107_2.txt" />
+     <None Include="Assets\Resources\data\wave\wave103.txt" />
+     <None Include="Assets\Resources\skill\mobao\爱给网-游戏2d素材库-免费下载.txt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\SpritesUnlit.shader" />
+     <None Include="Assets\Resources\spine\xiaomolong\xiaomolong.atlas.txt" />
+     <None Include="Assets\Resources\spine\nanzhujuesanjie\nanzhujuesanjie.atlas.txt" />
+     <None Include="Assets\Resources\spine\zhouyu\zhouyu.atlas.txt" />
+     <None Include="Assets\Resources\spine\huniu\huniu.atlas.txt" />
+     <None Include="Assets\Resources\spine\gongjianshou\gongjianshou.atlas.txt" />
+     <None Include="Assets\Resources\data\wave\wave108_2.txt" />
+     <None Include="Assets\Resources\data\wave\wave106.txt" />
+     <None Include="Assets\spine-unity\Shaders\Bones.shader" />
+     <None Include="Assets\Resources\spine\niutou_run\niutou.atlas.txt" />
+     <None Include="Assets\Resources\data\tower\tower008.txt" />
+     <None Include="Assets\Resources\spine\liubei\liubei.atlas.txt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\SpritesVertexLit.shader" />
+     <None Include="Assets\Resources\spine\chibang08_01\chibang08_01.atlas.txt" />
+     <None Include="Assets\Resources\spine\molvbu\molvbu.atlas.txt" />
+     <None Include="Assets\spine-unity\Modules\Ghost\Shaders\SkeletonGhost.shader" />
+     <None Include="Assets\Resources\spine\kulou\kulou.atlas.txt" />
+     <None Include="Assets\Resources\spine\yuzhu\yuzhu.atlas.txt" />
+     <None Include="Assets\Resources\spine\sunce\sunce.atlas.txt" />
+     <None Include="Assets\Resources\data\tower\tower005.txt" />
+     <None Include="Assets\Resources\data\wave\wave104.txt" />
+     <None Include="Assets\Resources\skill\mowang\爱给网-游戏2d素材库-免费下载.txt" />
+     <None Include="Assets\Resources\font\battle_heal.fnt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteVertexLighting.cginc" />
+     <None Include="Assets\Resources\spine\chibang06\chibang06.atlas.txt" />
+     <None Include="Assets\Resources\font\plczjm(24)(hongbai).fnt" />
+     <None Include="Assets\Resources\spine\xiaobailong\xiaobailong.atlas.txt" />
+     <None Include="Assets\Resources\spine\lvbu\lvbu.atlas.txt" />
+     <None Include="Assets\Resources\spine\mamian\mamian.atlas.txt" />
+     <None Include="Assets\Resources\skill\bingfeng\爱给网-游戏2d素材库-免费下载.txt" />
+     <None Include="Assets\Resources\spine\guanyu\guanyu.atlas.txt" />
+     <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
+     <None Include="Assets\Resources\spine\yujiji\yujiji.atlas.txt" />
+     <None Include="Assets\Resources\spine\nanshizhuang3\nanshizhuang3.atlas.txt" />
+     <None Include="Assets\Resources\spine\mowang\mowang.atlas.txt" />
+     <None Include="Assets\Resources\data\tower\tower002.txt" />
+     <None Include="Assets\Examples\Spine\Dragon\dragon.atlas.txt" />
+     <None Include="Assets\Resources\skill\niliu\爱给网-游戏2d素材库-免费下载.txt" />
+     <None Include="Assets\Resources\skill\baoyulihuazhen\爱给网-游戏2d素材库-免费下载.txt" />
+     <None Include="Assets\Resources\spine\gebulin\gebulin.atlas.txt" />
+     <None Include="Assets\Resources\spine\miaomiaojianke\miaomiaojianke.atlas.txt" />
+     <None Include="Assets\Resources\spine\qitiandasheng\qitiandasheng.atlas.txt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\CameraDepthNormalsTexture.shader" />
+     <None Include="Assets\Resources\data\wave\wave108.txt" />
+     <None Include="Assets\Resources\data\wave\wave106_2.txt" />
+     <None Include="Assets\Resources\spine\nvzhujueerjie\nvzhujueerjie.atlas.txt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\CGIncludes\ShaderShared.cginc" />
+     <None Include="Assets\spine-unity\Modules\SkeletonGraphic\Shaders\SkeletonGraphic.shader" />
+     <None Include="Assets\Resources\spine\jixiemenghu\jixiemenghu.atlas.txt" />
+     <None Include="Assets\spine-unity\Shaders\Skeleton.shader" />
+     <None Include="Assets\Resources\spine\nanzhujuewujie\nanzhujuewujie.atlas.txt" />
+     <None Include="Assets\Resources\spine\xiaoqiao\xiaoqiao.atlas.txt" />
+     <None Include="Assets\Resources\data\wave\wave102.txt" />
+     <None Include="Assets\Resources\data\wave\wave104_2.txt" />
+     <None Include="Assets\Resources\spine\nanshizhuang2\nanshizhuang2.atlas.txt" />
+     <None Include="Assets\Resources\spine\niumowang\niumowang.atlas.txt" />
+     <None Include="Assets\Resources\spine\pangtong\pangtong.atlas.txt" />
+     <None Include="Assets\Resources\spine\shouzhujuesijie\shouzhujuesijie.atlas.txt" />
+     <None Include="Assets\Resources\data\tower\tower003.txt" />
+     <None Include="Assets\Resources\spine\daji\daji.atlas.txt" />
+     <None Include="Assets\Resources\spine\taishici\taishici.atlas.txt" />
+     <None Include="Assets\Resources\spine\xiaoyaoguaiyuancheng\xiaoyaoguaiyuancheng.atlas.txt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\CameraNormalsTexture.shader" />
+     <None Include="Assets\Resources\font\number_wan.fnt" />
+     <None Include="Assets\Resources\spine\wugui\wugui.atlas.txt" />
+     <None Include="Assets\Resources\spine\shenmiren\shenmiren.atlas.txt" />
+     <None Include="Assets\Resources\spine\nanzhujueerjie\nanzhujueerjie.atlas.txt" />
+     <None Include="Assets\Resources\spine\tianqi\tianqi.atlas.txt" />
+     <None Include="Assets\Resources\spine\nvzhujuesijie\nvzhujuesijie.atlas.txt" />
+     <None Include="Assets\Resources\spine\mowang_2\mowang_2.atlas.txt" />
+     <None Include="Assets\Resources\spine\jiangziya\jiangziya.atlas.txt" />
+     <None Include="Assets\Resources\spine\xuchu\xuchu.atlas.txt" />
+     <None Include="Assets\Resources\spine\guojia\guojia.atlas.txt" />
+     <None Include="Assets\Examples\Spine\Spineunitygirl\Doi.atlas.txt" />
+     <None Include="Assets\Resources\spine\damolong\damolong.atlas.txt" />
+     <None Include="Assets\Resources\spine\chibang08_02\chibang08_02.atlas.txt" />
+     <None Include="Assets\Resources\font\number_charge.fnt" />
+     <None Include="Assets\Resources\font\level.fnt" />
+     <None Include="Assets\Resources\spine\shimo\shimo.atlas.txt" />
+     <None Include="Assets\Resources\data\wave\wave103_2.txt" />
+     <None Include="Assets\Resources\spine\moushi\moushi.atlas.txt" />
+     <None Include="Assets\Resources\font\pljbp36(hh).fnt" />
+     <None Include="Assets\Resources\spine\erlangshen\erlangshen.atlas.txt" />
+     <None Include="Assets\Resources\spine\zengzhangtianwang\zengzhangtianwang.atlas.txt" />
+     <None Include="Assets\Resources\data\tower\tower004.txt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\CameraDepthTexture.shader" />
+     <None Include="Assets\Resources\spine\monvyemei\monvyemei.atlas.txt" />
+     <None Include="Assets\Resources\spine\julingshen\julingshen.atlas.txt" />
+     <None Include="Assets\Resources\spine\guangmutianwang\guangmutianwang.atlas.txt" />
+     <None Include="Assets\Resources\spine\xiaoyaoguaijincheng\xiaoyaoguaijincheng.atlas.txt" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\CGIncludes\ShaderMaths.cginc" />
+     <None Include="Assets\spine-unity\Modules\SkeletonRenderSeparator\SkeletonRenderSeparator.txt" />
+     <None Include="Assets\Resources\data\wave\wave101.txt" />
+     <None Include="Assets\Resources\spine\xiangyu\xiangyu.atlas.txt" />
+     <None Include="Assets\Resources\spine\xiannv\xiannv.atlas.txt" />
+     <None Include="Assets\Resources\spine\qibing\qibing.atlas.txt" />
+     <None Include="Assets\Resources\spine\mowang_1\mowang_1.atlas.txt" />
+     <None Include="Assets\Resources\font\plsjb40(heibai).fnt" />
+     <None Include="Assets\spine-unity\Shaders\SkeletonLit.shader" />
+     <None Include="Assets\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteSpecular.cginc" />
+     <None Include="Assets\Resources\spine\sunquan\sunquan.atlas.txt" />
+     <None Include="Assets\Resources\font\plh40.fnt" />
+     <None Include="Assets\Resources\spine\loading\niutou.atlas.txt" />
+     <None Include="Assets\Resources\spine\tianbing\tianbing.atlas.txt" />
+     <None Include="Assets\Resources\spine\leizhenzi\leizhenzi.atlas.txt" />
+     <None Include="Assets\Resources\spine\huangzhong\huangzhong.atlas.txt" />
+     <None Include="Assets\Resources\spine\xiaohuyao\xiaohuyao.atlas.txt" />
+     <None Include="Assets\Resources\skill\jiguanpao\爱给网-游戏2d素材库-免费下载.txt" />
+     <None Include="Assets\Resources\font\number1.fnt" />
+     <None Include="Assets\Resources\spine\shouzhujueerjie\shouzhujueerjie.atlas.txt" />
+     <None Include="Assets\Resources\spine\chibang09_01\chibang09_01.atlas.txt" />
+     <None Include="Assets\Resources\font\number2.fnt" />
+     <None Include="Assets\Resources\font\warrior_value.fnt" />
+     <None Include="Assets\Resources\spine\xingtian\xingtian.atlas.txt" />
+     <None Include="Assets\Examples\Spine\FootSoldier\Equipment\Equipment.atlas.txt" />
+     <None Include="Assets\Resources\spine\xiahoudun\xiahoudun.atlas.txt" />
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TestRunner">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VR">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
+ <Reference Include="pomelo-dotnetClient">
+ <HintPath>/Users/8089pro/sanguotafang/Assets/Plugins/pomelo-dotnetClient.dll</HintPath>
+ </Reference>
+ <Reference Include="SimpleJson">
+ <HintPath>/Users/8089pro/sanguotafang/Assets/Plugins/SimpleJson.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{EF634FBA-708E-C00C-72FE-023ABFD76C31}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

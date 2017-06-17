@@ -1,0 +1,48 @@
+
+chibang01.png
+size: 599,210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LD01
+  rotate: false
+  xy: 502, 2
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+LU01
+  rotate: false
+  xy: 502, 77
+  size: 97, 133
+  orig: 97, 133
+  offset: 0, 0
+  index: -1
+RD01
+  rotate: false
+  xy: 350, 0
+  size: 54, 67
+  orig: 54, 67
+  offset: 0, 0
+  index: -1
+RU01
+  rotate: false
+  xy: 350, 71
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+SE-LU01
+  rotate: false
+  xy: 210, 27
+  size: 136, 183
+  orig: 136, 183
+  offset: 0, 0
+  index: -1
+SE-RU01
+  rotate: false
+  xy: 0, 16
+  size: 206, 194
+  orig: 206, 194
+  offset: 0, 0
+  index: -1

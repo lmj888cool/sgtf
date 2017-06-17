@@ -1,0 +1,237 @@
+
+denglongmo.png
+size: 837,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Body
+  rotate: false
+  xy: 604, 132
+  size: 97, 85
+  orig: 97, 85
+  offset: 0, 0
+  index: -1
+images/Eye
+  rotate: false
+  xy: 535, 10
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+images/Eye-beiji
+  rotate: false
+  xy: 787, 79
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+images/Eye-fennu
+  rotate: false
+  xy: 744, 37
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+images/Eye-shengli
+  rotate: false
+  xy: 673, 9
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+images/Eye-siwang
+  rotate: false
+  xy: 738, 12
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+images/L-Forearm
+  rotate: false
+  xy: 604, 45
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+images/L-Upperarm
+  rotate: false
+  xy: 321, 0
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+images/Mouth
+  rotate: false
+  xy: 400, 1
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+images/Mouth-beiji
+  rotate: false
+  xy: 581, 12
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+images/Mouth-fennu
+  rotate: false
+  xy: 628, 13
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+images/Mouth-shengli
+  rotate: false
+  xy: 471, 5
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+images/Mouth-siwang
+  rotate: false
+  xy: 681, 42
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+images/R-Forearm
+  rotate: false
+  xy: 404, 34
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+images/R-Upperarm
+  rotate: false
+  xy: 787, 46
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+images/SE-guang
+  rotate: false
+  xy: 322, 93
+  size: 134, 124
+  orig: 134, 124
+  offset: 0, 0
+  index: -1
+images/denglonggan
+  rotate: false
+  xy: 716, 11
+  size: 18, 27
+  orig: 20, 27
+  offset: 1, 0
+  index: -1
+images/denglongmou_01
+  rotate: false
+  xy: 460, 103
+  size: 140, 114
+  orig: 140, 114
+  offset: 0, 0
+  index: -1
+images/denglongmou_02
+  rotate: false
+  xy: 167, 63
+  size: 151, 154
+  orig: 153, 154
+  offset: 2, 0
+  index: -1
+images/denglongmou_03
+  rotate: false
+  xy: 0, 4
+  size: 163, 213
+  orig: 163, 213
+  offset: 0, 0
+  index: -1
+images/denglongmou_04
+  rotate: false
+  xy: 786, 6
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+images/denglongmou_05
+  rotate: false
+  xy: 744, 73
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+images/denglongmou_06
+  rotate: false
+  xy: 789, 116
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+images/denglongmou_07
+  rotate: false
+  xy: 791, 163
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+images/denglongmou_08
+  rotate: false
+  xy: 547, 45
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+images/guaishou
+  rotate: false
+  xy: 705, 119
+  size: 80, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+images/shadow
+  rotate: false
+  xy: 167, 18
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+images/yun1
+  rotate: false
+  xy: 356, 1
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+images/yun2
+  rotate: false
+  xy: 685, 66
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+images/yun3
+  rotate: false
+  xy: 471, 48
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+images/yun4
+  rotate: false
+  xy: 322, 41
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+images/yun5
+  rotate: false
+  xy: 705, 168
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+images/yun6
+  rotate: false
+  xy: 604, 90
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1

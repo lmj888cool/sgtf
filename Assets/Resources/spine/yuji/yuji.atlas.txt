@@ -1,0 +1,356 @@
+
+yuji.png
+size: 715,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-Fair
+  rotate: false
+  xy: 615, 273
+  size: 90, 112
+  orig: 90, 112
+  offset: 0, 0
+  index: -1
+B-Fair01
+  rotate: false
+  xy: 381, 163
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+B-lingzi
+  rotate: false
+  xy: 0, 0
+  size: 111, 47
+  orig: 111, 47
+  offset: 0, 0
+  index: -1
+B-skirt
+  rotate: false
+  xy: 262, 165
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+B-zhuangshi
+  rotate: false
+  xy: 324, 31
+  size: 81, 43
+  orig: 81, 43
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 580, 165
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 115, 2
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 167, 2
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 324, 4
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 600, 5
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 262, 128
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+F-Pendant
+  rotate: false
+  xy: 262, 78
+  size: 14, 46
+  orig: 14, 46
+  offset: 0, 0
+  index: -1
+F-lingzi
+  rotate: false
+  xy: 438, 15
+  size: 112, 40
+  orig: 112, 40
+  offset: 0, 0
+  index: -1
+F-skirt
+  rotate: false
+  xy: 317, 78
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 580, 38
+  size: 102, 122
+  orig: 102, 122
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 336, 161
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 399, 166
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 376, 5
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+L-erzhui
+  rotate: false
+  xy: 436, 166
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+LB-skirt
+  rotate: false
+  xy: 554, 4
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+LB-xiukou
+  rotate: false
+  xy: 319, 159
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+LF-Skirt
+  rotate: false
+  xy: 686, 107
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+LF-xiukou
+  rotate: false
+  xy: 409, 8
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 554, 49
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 247, 137
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 448, 170
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 554, 39
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 247, 127
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 219, 1
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 418, 166
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+R-Skirt
+  rotate: false
+  xy: 262, 198
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 467, 270
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+R-erzhui
+  rotate: false
+  xy: 364, 161
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+RB-xiukou
+  rotate: false
+  xy: 686, 2
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+RF-xiukou
+  rotate: false
+  xy: 686, 56
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+SE-baiguang01
+  rotate: false
+  xy: 0, 173
+  size: 127, 81
+  orig: 128, 128
+  offset: 0, 9
+  index: -1
+SE-baiguang02
+  rotate: false
+  xy: 131, 151
+  size: 127, 105
+  orig: 128, 128
+  offset: 0, 4
+  index: -1
+SE-baiguang03
+  rotate: false
+  xy: 336, 182
+  size: 127, 117
+  orig: 128, 128
+  offset: 0, 2
+  index: -1
+SE-baiguang04
+  rotate: false
+  xy: 0, 258
+  size: 127, 127
+  orig: 128, 128
+  offset: 0, 1
+  index: -1
+SE-baiguang05
+  rotate: false
+  xy: 0, 51
+  size: 122, 118
+  orig: 128, 128
+  offset: 5, 1
+  index: -1
+SE-baiguang06
+  rotate: false
+  xy: 126, 29
+  size: 117, 118
+  orig: 128, 128
+  offset: 10, 2
+  index: -1
+SE-baiguang07
+  rotate: false
+  xy: 499, 267
+  size: 112, 118
+  orig: 128, 128
+  offset: 14, 6
+  index: -1
+SE-baiguang08
+  rotate: false
+  xy: 467, 104
+  size: 109, 118
+  orig: 128, 128
+  offset: 15, 10
+  index: -1
+SE-baiguang09
+  rotate: false
+  xy: 625, 164
+  size: 83, 105
+  orig: 128, 128
+  offset: 27, 10
+  index: -1
+SE-daoguang
+  rotate: false
+  xy: 336, 303
+  size: 159, 82
+  orig: 159, 82
+  offset: 0, 0
+  index: -1
+SE-guangquan
+  rotate: false
+  xy: 467, 226
+  size: 154, 37
+  orig: 154, 37
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 131, 260
+  size: 201, 125
+  orig: 201, 125
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 411, 59
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+toushi01
+  rotate: false
+  xy: 247, 2
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+toushi02
+  rotate: false
+  xy: 411, 106
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1

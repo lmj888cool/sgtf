@@ -1,0 +1,209 @@
+
+sunce.png
+size: 684,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 465, 31
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 619, 113
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 619, 113
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 547, 68
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 202, 9
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 260, 10
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+F-Fair
+  rotate: false
+  xy: 547, 44
+  size: 52, 20
+  orig: 52, 20
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 355, 32
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 470, 3
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 499, 7
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+L-Lowerleg
+  rotate: false
+  xy: 442, 0
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+L-Thigh
+  rotate: false
+  xy: 167, 0
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 400, 3
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+MD-pilian
+  rotate: false
+  xy: 318, 5
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 659, 64
+  size: 25, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 603, 44
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 607, 58
+  size: 24, 7
+  orig: 24, 7
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 659, 53
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 659, 75
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 610, 5
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 659, 89
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+R-Lowerleg
+  rotate: false
+  xy: 607, 69
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+R-Thigh
+  rotate: false
+  xy: 547, 0
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 578, 1
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+RU-Armor
+  rotate: false
+  xy: 355, 2
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 167, 49
+  size: 184, 99
+  orig: 184, 99
+  offset: 0, 0
+  index: -1
+motuoche
+  rotate: false
+  xy: 0, 7
+  size: 163, 141
+  orig: 163, 141
+  offset: 0, 0
+  index: -1
+phone
+  rotate: false
+  xy: 635, 38
+  size: 20, 71
+  orig: 254, 258
+  offset: 88, 124
+  index: -1
+shadow
+  rotate: false
+  xy: 465, 107
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,10 @@
+id,name,path,loop,volume
+0,名字,音效路径,是否循环,音量
+1,游戏背景音乐1,sound/mainUI_01,true,0.5
+2,游戏背景音乐2,sound/mainUI_02,true,0.5
+3,游戏背景音乐3,sound/mainUI_03,true,0.5
+4,按钮点击,sound/default_button1,false,1
+5,关闭面板,sound/default_button2,false,1
+6,穿装备,sound/equip,false,1
+7,卸载装备,sound/unequip,false,1
+8,功能按钮点击,sound/main_button,false,1

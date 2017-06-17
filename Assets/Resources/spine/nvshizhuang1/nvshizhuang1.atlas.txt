@@ -1,0 +1,293 @@
+
+nvshizhuang1.png
+size: 947,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-Fair
+  rotate: false
+  xy: 483, 60
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+B-clothes
+  rotate: false
+  xy: 18, 3
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 0, 26
+  size: 51, 107
+  orig: 51, 107
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 164, 2
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 227, 2
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+Eye-bi
+  rotate: false
+  xy: 290, 2
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 734, 4
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 350, 2
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 674, 0
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 55, 29
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 868, 4
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+L-Fair
+  rotate: false
+  xy: 570, 60
+  size: 22, 73
+  orig: 22, 73
+  offset: 0, 0
+  index: -1
+L-Hand01
+  rotate: false
+  xy: 102, 10
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+L-Hand02
+  rotate: false
+  xy: 58, 9
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 596, 75
+  size: 19, 58
+  orig: 19, 58
+  offset: 0, 0
+  index: -1
+L-clothes
+  rotate: false
+  xy: 837, 11
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 102, 0
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 119, 15
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Mouth-zhang
+  rotate: false
+  xy: 119, 15
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 150, 17
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 118, 0
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 134, 17
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 674, 33
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+R-Fair
+  rotate: false
+  xy: 455, 57
+  size: 24, 76
+  orig: 24, 76
+  offset: 0, 0
+  index: -1
+R-Hand01
+  rotate: false
+  xy: 82, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+R-Hand02
+  rotate: false
+  xy: 0, 1
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+R-clothes
+  rotate: false
+  xy: 903, 6
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+SE-attack01
+  rotate: false
+  xy: 868, 48
+  size: 71, 40
+  orig: 71, 40
+  offset: 0, 0
+  index: -1
+SE-attack02
+  rotate: false
+  xy: 783, 41
+  size: 81, 43
+  orig: 81, 43
+  offset: 0, 0
+  index: -1
+SE-attack03
+  rotate: false
+  xy: 619, 84
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+SE-attack04
+  rotate: false
+  xy: 700, 34
+  size: 79, 46
+  orig: 79, 46
+  offset: 0, 0
+  index: -1
+SE-dajineng1
+  rotate: false
+  xy: 269, 35
+  size: 93, 98
+  orig: 929, 978
+  offset: 418, 440
+  index: -1
+SE-dajineng2
+  rotate: false
+  xy: 157, 32
+  size: 108, 101
+  orig: 1080, 1009
+  offset: 486, 454
+  index: -1
+SE-dajineng3
+  rotate: false
+  xy: 366, 50
+  size: 85, 83
+  orig: 843, 837
+  offset: 379, 377
+  index: -1
+mowangqigongbo_01
+  rotate: false
+  xy: 701, 88
+  size: 84, 45
+  orig: 464, 286
+  offset: 191, 121
+  index: -1
+mowangqigongbo_02
+  rotate: false
+  xy: 497, 5
+  size: 84, 51
+  orig: 464, 286
+  offset: 191, 117
+  index: -1
+mowangqigongbo_03
+  rotate: false
+  xy: 585, 7
+  size: 85, 49
+  orig: 464, 286
+  offset: 190, 119
+  index: -1
+mowangqigongbo_04
+  rotate: false
+  xy: 410, 0
+  size: 83, 46
+  orig: 464, 286
+  offset: 194, 120
+  index: -1
+qunzi
+  rotate: false
+  xy: 797, 5
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 797, 92
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+yijin
+  rotate: false
+  xy: 133, 2
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1

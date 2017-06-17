@@ -1,0 +1,195 @@
+
+xiantong.png
+size: 678,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-Fair
+  rotate: false
+  xy: 485, 70
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 488, 45
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 296, 37
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 488, 17
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 628, 8
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+Eye-siwang
+  rotate: false
+  xy: 546, 24
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+F-Fair
+  rotate: false
+  xy: 637, 59
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 453, 6
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+L-Body
+  rotate: false
+  xy: 405, 58
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 543, 3
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 604, 19
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 637, 34
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 204, 3
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 154, 0
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 566, 48
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 267, 0
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 412, 5
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+R-Fair
+  rotate: false
+  xy: 546, 48
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 567, 1
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+R-Leg
+  rotate: false
+  xy: 372, 0
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+R-Pendant
+  rotate: false
+  xy: 591, 11
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+SE-daoguang01
+  rotate: false
+  xy: 296, 64
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+SE-daoguang02
+  rotate: false
+  xy: 0, 48
+  size: 183, 85
+  orig: 183, 85
+  offset: 0, 0
+  index: -1
+U-Body
+  rotate: false
+  xy: 307, 1
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 566, 91
+  size: 97, 42
+  orig: 97, 42
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 187, 41
+  size: 105, 92
+  orig: 105, 92
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 3
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

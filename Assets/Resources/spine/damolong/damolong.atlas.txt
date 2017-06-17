@@ -1,0 +1,272 @@
+
+damolong.png
+size: 985,807
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 446, 29
+  size: 56, 77
+  orig: 120, 150
+  offset: 55, 70
+  index: -1
+1
+  rotate: false
+  xy: 883, 312
+  size: 80, 115
+  orig: 120, 150
+  offset: 32, 33
+  index: -1
+10
+  rotate: false
+  xy: 0, 540
+  size: 268, 267
+  orig: 300, 300
+  offset: 3, 13
+  index: -1
+12
+  rotate: false
+  xy: 272, 546
+  size: 274, 261
+  orig: 300, 300
+  offset: 2, 12
+  index: -1
+14
+  rotate: false
+  xy: 0, 86
+  size: 276, 192
+  orig: 300, 300
+  offset: 4, 10
+  index: -1
+19
+  rotate: false
+  xy: 0, 5
+  size: 268, 77
+  orig: 300, 300
+  offset: 16, 9
+  index: -1
+2
+  rotate: false
+  xy: 883, 431
+  size: 92, 129
+  orig: 120, 150
+  offset: 20, 19
+  index: -1
+3
+  rotate: false
+  xy: 268, 297
+  size: 192, 239
+  orig: 300, 300
+  offset: 55, 29
+  index: -1
+5
+  rotate: false
+  xy: 775, 564
+  size: 192, 243
+  orig: 300, 300
+  offset: 55, 25
+  index: -1
+7
+  rotate: false
+  xy: 550, 557
+  size: 221, 250
+  orig: 300, 300
+  offset: 34, 18
+  index: -1
+9
+  rotate: false
+  xy: 0, 282
+  size: 264, 254
+  orig: 300, 300
+  offset: 5, 14
+  index: -1
+Body
+  rotate: false
+  xy: 730, 103
+  size: 125, 79
+  orig: 125, 79
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 280, 0
+  size: 162, 106
+  orig: 162, 106
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 709, 34
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 579, 13
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+L-paozhang
+  rotate: false
+  xy: 951, 211
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+L-paozhang01
+  rotate: false
+  xy: 951, 181
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 756, 22
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+R-Leg
+  rotate: false
+  xy: 801, 45
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+R-paozhang
+  rotate: false
+  xy: 688, 317
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+R-paozhang01
+  rotate: false
+  xy: 801, 10
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+beiji
+  rotate: false
+  xy: 583, 68
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+bimao
+  rotate: false
+  xy: 506, 34
+  size: 40, 8
+  orig: 40, 8
+  offset: 0, 0
+  index: -1
+fennu
+  rotate: false
+  xy: 876, 238
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+fire0
+  rotate: false
+  xy: 652, 58
+  size: 53, 64
+  orig: 200, 250
+  offset: 68, 13
+  index: -1
+fire1
+  rotate: false
+  xy: 859, 20
+  size: 125, 155
+  orig: 200, 250
+  offset: 36, 13
+  index: -1
+fire2
+  rotate: false
+  xy: 730, 186
+  size: 142, 172
+  orig: 200, 250
+  offset: 26, 13
+  index: -1
+fire3
+  rotate: false
+  xy: 583, 126
+  size: 143, 176
+  orig: 200, 250
+  offset: 24, 20
+  index: -1
+fire4
+  rotate: false
+  xy: 280, 110
+  size: 168, 183
+  orig: 200, 250
+  offset: 23, 20
+  index: -1
+fire5
+  rotate: false
+  xy: 597, 363
+  size: 159, 190
+  orig: 200, 250
+  offset: 20, 17
+  index: -1
+fire6
+  rotate: false
+  xy: 452, 113
+  size: 127, 180
+  orig: 200, 250
+  offset: 51, 37
+  index: -1
+fire7
+  rotate: false
+  xy: 464, 351
+  size: 129, 191
+  orig: 200, 250
+  offset: 51, 34
+  index: -1
+fire8
+  rotate: false
+  xy: 760, 362
+  size: 119, 191
+  orig: 200, 250
+  offset: 61, 39
+  index: -1
+gaizi
+  rotate: false
+  xy: 948, 256
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+putong
+  rotate: false
+  xy: 876, 179
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 464, 306
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+shengli
+  rotate: false
+  xy: 506, 46
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+siwang
+  rotate: false
+  xy: 618, 307
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1

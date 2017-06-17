@@ -1,0 +1,300 @@
+
+jiangchen.png
+size: 590,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 432, 35
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 311, 2
+  size: 28, 7
+  orig: 28, 7
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 0, 0
+  size: 29, 6
+  orig: 29, 6
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 488, 196
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 33, 0
+  size: 27, 6
+  orig: 27, 6
+  offset: 0, 0
+  index: -1
+Eye-siwang
+  rotate: false
+  xy: 443, 2
+  size: 27, 3
+  orig: 27, 3
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 313, 75
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+L-Cloak
+  rotate: false
+  xy: 234, 226
+  size: 185, 96
+  orig: 185, 96
+  offset: 0, 0
+  index: -1
+L-Fair
+  rotate: false
+  xy: 488, 212
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+L-Finger1
+  rotate: false
+  xy: 554, 103
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+L-Finger2
+  rotate: false
+  xy: 537, 55
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+L-Finger3
+  rotate: false
+  xy: 287, 5
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+L-Finger4
+  rotate: false
+  xy: 287, 32
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 432, 100
+  size: 42, 64
+  orig: 42, 64
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 234, 10
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+L-LowerLeg
+  rotate: false
+  xy: 560, 74
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+L-Thigh
+  rotate: false
+  xy: 577, 311
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+L-UpperArm
+  rotate: false
+  xy: 478, 140
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+L-jianjia
+  rotate: false
+  xy: 382, 59
+  size: 46, 94
+  orig: 46, 94
+  offset: 0, 0
+  index: -1
+LB-Fair
+  rotate: false
+  xy: 518, 138
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+LF-Fair
+  rotate: false
+  xy: 554, 145
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 510, 38
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 535, 36
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 484, 20
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 527, 17
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 531, 200
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Pelvis
+  rotate: false
+  xy: 422, 168
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+R-Finger1
+  rotate: false
+  xy: 421, 0
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+R-Finger2
+  rotate: false
+  xy: 443, 9
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+R-Finger3
+  rotate: false
+  xy: 478, 112
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+R-Finger4
+  rotate: false
+  xy: 510, 56
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 511, 86
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 313, 13
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+R-LowerLeg
+  rotate: false
+  xy: 507, 12
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+R-UpperArm
+  rotate: false
+  xy: 369, 6
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+R-jianjia
+  rotate: false
+  xy: 234, 57
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+RB-Fair
+  rotate: false
+  xy: 552, 211
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+RF-Fair
+  rotate: false
+  xy: 484, 44
+  size: 22, 64
+  orig: 22, 64
+  offset: 0, 0
+  index: -1
+U-Cloak
+  rotate: false
+  xy: 234, 157
+  size: 184, 65
+  orig: 184, 65
+  offset: 0, 0
+  index: -1
+U-Fair
+  rotate: false
+  xy: 423, 202
+  size: 61, 75
+  orig: 61, 75
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 423, 281
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+zhuaying
+  rotate: false
+  xy: 0, 10
+  size: 230, 312
+  orig: 230, 312
+  offset: 0, 0
+  index: -1

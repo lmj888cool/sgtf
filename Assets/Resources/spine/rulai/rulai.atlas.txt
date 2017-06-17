@@ -1,0 +1,426 @@
+
+rulai.png
+size: 921,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-lianzuo
+  rotate: false
+  xy: 570, 161
+  size: 205, 50
+  orig: 205, 50
+  offset: 0, 0
+  index: -1
+D-Body
+  rotate: false
+  xy: 570, 95
+  size: 160, 62
+  orig: 160, 62
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 422, 0
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 422, 0
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 487, 0
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 713, 41
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 778, 25
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+Eye-ri
+  rotate: false
+  xy: 552, 0
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+F-cloud
+  rotate: false
+  xy: 272, 64
+  size: 146, 61
+  orig: 146, 61
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 253, 259
+  size: 178, 253
+  orig: 178, 253
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 734, 78
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: -1
+LB-cloud
+  rotate: false
+  xy: 777, 341
+  size: 113, 50
+  orig: 113, 50
+  offset: 0, 0
+  index: -1
+LBU-cloud
+  rotate: false
+  xy: 422, 37
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+LU-Armor
+  rotate: false
+  xy: 642, 46
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+LU-zhuangshi
+  rotate: false
+  xy: 863, 179
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 894, 351
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 382, 17
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 843, 8
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 900, 431
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 900, 473
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+Mouth-nianjing01
+  rotate: false
+  xy: 879, 19
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+Mouth-nianjing02
+  rotate: false
+  xy: 900, 394
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Mouth-nianjing03
+  rotate: false
+  xy: 710, 0
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+Mouth-nianjing04
+  rotate: false
+  xy: 684, 0
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+Mouth-nianjing05
+  rotate: false
+  xy: 536, 48
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+Mouth-nianjing06
+  rotate: false
+  xy: 618, 0
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+Mouth-ri
+  rotate: false
+  xy: 536, 88
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 777, 395
+  size: 119, 117
+  orig: 119, 117
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 779, 162
+  size: 80, 63
+  orig: 80, 63
+  offset: 0, 0
+  index: -1
+R-Hand01
+  rotate: false
+  xy: 790, 62
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+R-Hand02
+  rotate: false
+  xy: 272, 22
+  size: 106, 38
+  orig: 106, 38
+  offset: 0, 0
+  index: -1
+R-hand03
+  rotate: false
+  xy: 858, 61
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1
+RB-cloud
+  rotate: false
+  xy: 422, 85
+  size: 110, 45
+  orig: 110, 45
+  offset: 0, 0
+  index: -1
+RB-xiukou
+  rotate: false
+  xy: 833, 232
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+RF-xiukou
+  rotate: false
+  xy: 776, 229
+  size: 53, 108
+  orig: 53, 108
+  offset: 0, 0
+  index: -1
+U-Body
+  rotate: false
+  xy: 619, 341
+  size: 154, 171
+  orig: 154, 171
+  offset: 0, 0
+  index: -1
+beiguang
+  rotate: false
+  xy: 0, 115
+  size: 249, 397
+  orig: 249, 397
+  offset: 0, 0
+  index: -1
+darirulaizhang_29
+  rotate: false
+  xy: 435, 331
+  size: 180, 181
+  orig: 180, 181
+  offset: 0, 0
+  index: -1
+dariwuzhishan_31
+  rotate: false
+  xy: 565, 36
+  size: 73, 55
+  orig: 157, 126
+  offset: 52, 28
+  index: -1
+dariwuzhishan_32
+  rotate: false
+  xy: 0, 1
+  size: 146, 110
+  orig: 157, 126
+  offset: 7, 6
+  index: -1
+dariwuzhishan_33
+  rotate: false
+  xy: 411, 134
+  size: 155, 120
+  orig: 157, 126
+  offset: 2, 2
+  index: -1
+dariwuzhishan_34
+  rotate: false
+  xy: 253, 129
+  size: 154, 126
+  orig: 157, 126
+  offset: 0, 0
+  index: -1
+dariwuzhishan_35
+  rotate: false
+  xy: 626, 215
+  size: 146, 122
+  orig: 157, 126
+  offset: 8, 0
+  index: -1
+fozhu01
+  rotate: false
+  xy: 271, 0
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+fozhu02
+  rotate: false
+  xy: 761, 0
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+fozhu03
+  rotate: false
+  xy: 732, 14
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+fozhu04
+  rotate: false
+  xy: 241, 1
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+fozhu05
+  rotate: false
+  xy: 150, 0
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+fozhu06
+  rotate: false
+  xy: 570, 217
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+fozhu07
+  rotate: false
+  xy: 903, 43
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+fozhu08
+  rotate: false
+  xy: 294, 4
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+fozhu09
+  rotate: false
+  xy: 787, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+fozhui10
+  rotate: false
+  xy: 894, 324
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+liantai
+  rotate: false
+  xy: 435, 258
+  size: 187, 69
+  orig: 187, 69
+  offset: 0, 0
+  index: -1
+xian01
+  rotate: false
+  xy: 552, 36
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+xian02
+  rotate: false
+  xy: 253, 115
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+xian03
+  rotate: false
+  xy: 863, 166
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+xian04
+  rotate: false
+  xy: 570, 238
+  size: 52, 16
+  orig: 52, 16
+  offset: 0, 0
+  index: -1
+xian05
+  rotate: false
+  xy: 181, 1
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: false
+  xy: 150, 30
+  size: 118, 81
+  orig: 118, 81
+  offset: 0, 0
+  index: -1

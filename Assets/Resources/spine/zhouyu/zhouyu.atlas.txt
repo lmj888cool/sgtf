@@ -1,0 +1,433 @@
+
+zhouyu.png
+size: 937,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-chuan
+  rotate: false
+  xy: 0, 0
+  size: 172, 36
+  orig: 172, 36
+  offset: 0, 0
+  index: -1
+D-Body
+  rotate: false
+  xy: 806, 246
+  size: 85, 51
+  orig: 85, 51
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 731, 32
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 505, 0
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 523, 20
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 453, 10
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 575, 22
+  size: 47, 14
+  orig: 47, 14
+  offset: 0, 0
+  index: -1
+F-chuan
+  rotate: false
+  xy: 495, 338
+  size: 178, 76
+  orig: 178, 76
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 806, 301
+  size: 115, 102
+  orig: 115, 102
+  offset: 0, 0
+  index: -1
+L-Fair
+  rotate: false
+  xy: 912, 96
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 343, 23
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 912, 71
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 738, 6
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 382, 102
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+LU-Armor
+  rotate: false
+  xy: 907, 123
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 862, 153
+  size: 69, 21
+  orig: 69, 21
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 626, 12
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 214, 14
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+Mouth-chui
+  rotate: false
+  xy: 425, 0
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 663, 5
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 663, 21
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+R-Fair
+  rotate: false
+  xy: 426, 127
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 304, 0
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 709, 0
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 862, 115
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+RU-Armor
+  rotate: false
+  xy: 382, 0
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+U-Body
+  rotate: false
+  xy: 677, 321
+  size: 125, 82
+  orig: 125, 82
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 856, 40
+  size: 16, 69
+  orig: 16, 69
+  offset: 0, 0
+  index: -1
+chuanjiang01
+  rotate: false
+  xy: 895, 255
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+chuanjiang02
+  rotate: false
+  xy: 876, 70
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+chuanjiang03
+  rotate: false
+  xy: 876, 27
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+chuanjiang04
+  rotate: false
+  xy: 176, 0
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+dingling
+  rotate: false
+  xy: 647, 232
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+fan
+  rotate: false
+  xy: 304, 50
+  size: 74, 107
+  orig: 74, 107
+  offset: 0, 0
+  index: -1
+fire2_0
+  rotate: false
+  xy: 382, 33
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+fire2_1
+  rotate: false
+  xy: 664, 39
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+fire2_10
+  rotate: false
+  xy: 740, 254
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+fire2_11
+  rotate: false
+  xy: 731, 52
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+fire2_2
+  rotate: false
+  xy: 877, 178
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+fire2_3
+  rotate: false
+  xy: 795, 44
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+fire2_4
+  rotate: false
+  xy: 740, 188
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+fire2_5
+  rotate: false
+  xy: 594, 40
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+fire2_6
+  rotate: false
+  xy: 523, 40
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+fire2_7
+  rotate: false
+  xy: 805, 181
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+fire2_8
+  rotate: false
+  xy: 730, 120
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+fire2_9
+  rotate: false
+  xy: 799, 113
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+molongtuxi_01
+  rotate: false
+  xy: 221, 40
+  size: 79, 116
+  orig: 270, 150
+  offset: 6, 19
+  index: -1
+molongtuxi_02
+  rotate: false
+  xy: 441, 108
+  size: 143, 117
+  orig: 270, 150
+  offset: 6, 19
+  index: -1
+molongtuxi_03
+  rotate: false
+  xy: 243, 161
+  size: 194, 114
+  orig: 270, 150
+  offset: 6, 21
+  index: -1
+molongtuxi_04
+  rotate: false
+  xy: 0, 40
+  size: 217, 116
+  orig: 270, 150
+  offset: 6, 18
+  index: -1
+molongtuxi_05
+  rotate: false
+  xy: 249, 279
+  size: 235, 114
+  orig: 270, 150
+  offset: 6, 17
+  index: -1
+molongtuxi_06
+  rotate: false
+  xy: 0, 160
+  size: 239, 115
+  orig: 270, 150
+  offset: 6, 21
+  index: -1
+molongtuxi_07
+  rotate: false
+  xy: 250, 397
+  size: 241, 115
+  orig: 270, 150
+  offset: 6, 19
+  index: -1
+molongtuxi_08
+  rotate: false
+  xy: 0, 397
+  size: 246, 115
+  orig: 270, 150
+  offset: 6, 24
+  index: -1
+molongtuxi_09
+  rotate: false
+  xy: 0, 279
+  size: 245, 114
+  orig: 270, 150
+  offset: 6, 17
+  index: -1
+molongtuxi_10
+  rotate: false
+  xy: 495, 418
+  size: 230, 94
+  orig: 270, 150
+  offset: 25, 18
+  index: -1
+molongtuxi_11
+  rotate: false
+  xy: 729, 407
+  size: 198, 105
+  orig: 270, 150
+  offset: 57, 17
+  index: -1
+molongtuxi_12
+  rotate: false
+  xy: 488, 229
+  size: 155, 105
+  orig: 270, 150
+  offset: 107, 22
+  index: -1
+molongtuxi_13
+  rotate: false
+  xy: 588, 108
+  size: 138, 117
+  orig: 270, 150
+  offset: 123, 27
+  index: -1
+qi
+  rotate: false
+  xy: 441, 229
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 444, 31
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1

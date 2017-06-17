@@ -1,0 +1,160 @@
+
+xiaoyaoguaijincheng.png
+size: 233,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 126, 144
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 0, 3
+  size: 72, 18
+  orig: 72, 18
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 76, 16
+  size: 72, 12
+  orig: 72, 31
+  offset: 0, 19
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 0, 25
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 76, 32
+  size: 72, 14
+  orig: 72, 14
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 76, 0
+  size: 72, 12
+  orig: 72, 12
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 0, 95
+  size: 118, 55
+  orig: 118, 55
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 154
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 212, 231
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 203, 9
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 206, 65
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 203, 33
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 183, 138
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 175, 104
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 183, 172
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 154, 70
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 122, 110
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 179, 9
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+R-Leg
+  rotate: false
+  xy: 152, 3
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 154, 42
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 126, 206
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 50
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

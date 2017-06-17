@@ -1,0 +1,426 @@
+
+qibing.png
+size: 779,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SE-daoguang01
+  rotate: false
+  xy: 209, 39
+  size: 165, 204
+  orig: 165, 204
+  offset: 0, 0
+  index: -1
+SE-daoguang02
+  rotate: false
+  xy: 0, 9
+  size: 205, 234
+  orig: 205, 234
+  offset: 0, 0
+  index: -1
+_0000_Weapon
+  rotate: false
+  xy: 554, 199
+  size: 106, 44
+  orig: 106, 44
+  offset: 0, 0
+  index: -1
+_0001_Eye-beiji
+  rotate: false
+  xy: 713, 130
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+_0002_Mouth-beiji
+  rotate: false
+  xy: 552, 22
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+_0003_toukui
+  rotate: false
+  xy: 378, 54
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+_0004_toukuisui
+  rotate: false
+  xy: 541, 33
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+_0005_L-toukui
+  rotate: false
+  xy: 649, 41
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+_0006_Eye-fennu
+  rotate: false
+  xy: 378, 30
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+_0007_Mouth-fennu
+  rotate: false
+  xy: 529, 0
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+_0008_Eye-shengli
+  rotate: false
+  xy: 670, 133
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+_0009_Mouth-shengli
+  rotate: false
+  xy: 737, 0
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+_0010_Eye-siwang
+  rotate: false
+  xy: 650, 78
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+_0011_Mouth-siwang
+  rotate: false
+  xy: 761, 1
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+_0012_Eye
+  rotate: false
+  xy: 624, 136
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+_0013_Mouth
+  rotate: false
+  xy: 532, 141
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+_0014_Head
+  rotate: false
+  xy: 554, 136
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+_0015_RU-Armor
+  rotate: false
+  xy: 326, 6
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+_0016_R-Forearm
+  rotate: false
+  xy: 760, 163
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+_0017_R-Upperarm
+  rotate: false
+  xy: 682, 43
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+_0018_R-Hand
+  rotate: false
+  xy: 506, 1
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+_0019_Body
+  rotate: false
+  xy: 600, 79
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+_0020_RL-Armor
+  rotate: false
+  xy: 714, 153
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+_0021_R-Thigh
+  rotate: false
+  xy: 650, 101
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+_0022_R-Foot
+  rotate: false
+  xy: 441, 0
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+_0023_L-Thigh
+  rotate: false
+  xy: 710, 107
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+_0024_L-Foot
+  rotate: false
+  xy: 532, 153
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+_0025_LU-Armor
+  rotate: false
+  xy: 577, 8
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+_0026_L-Forearm
+  rotate: false
+  xy: 480, 32
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+_0027_L-Hand
+  rotate: false
+  xy: 460, 30
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+_0028_L-Upperarm
+  rotate: false
+  xy: 209, 5
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+_0029_H-R-Ear
+  rotate: false
+  xy: 760, 188
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+_0030_H-Eye-fennu
+  rotate: false
+  xy: 736, 45
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+_0031_H-Mouth-fennu
+  rotate: false
+  xy: 376, 0
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+_0032_H-Eye-beiji
+  rotate: false
+  xy: 378, 185
+  size: 172, 58
+  orig: 172, 58
+  offset: 0, 0
+  index: -1
+_0033_H-Mouth-beiji
+  rotate: false
+  xy: 649, 13
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+_0034_H-Eye
+  rotate: false
+  xy: 755, 80
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+_0035_H-Mouth
+  rotate: false
+  xy: 428, 30
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+_0036_H-Eye-shengli
+  rotate: false
+  xy: 728, 79
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+_0037_H-Mouth-shengli
+  rotate: false
+  xy: 500, 26
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+_0038_H-Eye-siwang
+  rotate: false
+  xy: 411, 0
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+_0039_H-Mouth-siwang
+  rotate: false
+  xy: 696, 78
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+_0040_H-Head
+  rotate: false
+  xy: 470, 51
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+_0041_H-F-jiangsheng
+  rotate: false
+  xy: 269, 8
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+_0042_H-L-Ear
+  rotate: false
+  xy: 486, 0
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+_0043_H-maan
+  rotate: false
+  xy: 604, 17
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+_0044_H-RF-Foot
+  rotate: false
+  xy: 761, 50
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+_0045_H-RF-Thigh
+  rotate: false
+  xy: 757, 216
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+_0046_H-RB-Foot
+  rotate: false
+  xy: 689, 102
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+_0047_H-Neck
+  rotate: false
+  xy: 541, 76
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+_0048_H-RB-Thigh
+  rotate: false
+  xy: 624, 156
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+_0049_H-Body
+  rotate: false
+  xy: 664, 189
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+_0050_H-B-jiangsheng
+  rotate: false
+  xy: 655, 160
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+_0051_H-LB-Foot
+  rotate: false
+  xy: 761, 135
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+_0052_H-LB-Thigh
+  rotate: false
+  xy: 684, 5
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+_0053_H-LF-Foot
+  rotate: false
+  xy: 468, 0
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+_0054_H-LF-Thigh
+  rotate: false
+  xy: 712, 5
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+_0055_H-U-weiba
+  rotate: false
+  xy: 712, 40
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+_0056_H-L-weiba
+  rotate: false
+  xy: 737, 13
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 378, 140
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+xiaohuyao.png
+size: 368,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000_R-Ear
+  rotate: false
+  xy: 284, 5
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+_0001_Eye-fennu
+  rotate: false
+  xy: 267, 58
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+_0002_Eye-beiji
+  rotate: false
+  xy: 267, 154
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+_0003_Eye-shengli
+  rotate: false
+  xy: 135, 1
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+_0004_Eye-siwang
+  rotate: false
+  xy: 69, 0
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+_0005_Eye
+  rotate: false
+  xy: 237, 5
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+_0006_Head
+  rotate: false
+  xy: 267, 93
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+_0007_L-Ear
+  rotate: false
+  xy: 336, 52
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+_0008_L-Fair
+  rotate: false
+  xy: 191, 1
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+_0009_R-Fair
+  rotate: false
+  xy: 297, 220
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+_0010_RB-Foot
+  rotate: false
+  xy: 346, 218
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+_0011_RB-Thigh
+  rotate: false
+  xy: 346, 238
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+_0012_RF-Thigh
+  rotate: false
+  xy: 118, 3
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+_0013_RF-Foot
+  rotate: false
+  xy: 336, 14
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+_0014_Body
+  rotate: false
+  xy: 69, 24
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+_0015_LB-Foot
+  rotate: false
+  xy: 349, 14
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+_0016_LB-Thigh
+  rotate: false
+  xy: 336, 30
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+_0017_LF-Thigh
+  rotate: false
+  xy: 317, 69
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+_0018_LF-Foot
+  rotate: false
+  xy: 267, 41
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+_0019_weiba
+  rotate: false
+  xy: 0, 1
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+daoguang01
+  rotate: false
+  xy: 0, 67
+  size: 139, 192
+  orig: 139, 192
+  offset: 0, 0
+  index: -1
+daoguang02
+  rotate: false
+  xy: 143, 33
+  size: 120, 181
+  orig: 120, 181
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 143, 218
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

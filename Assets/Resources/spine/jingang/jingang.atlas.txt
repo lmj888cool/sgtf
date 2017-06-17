@@ -1,0 +1,111 @@
+
+jingang.png
+size: 357,704
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 66, 445
+  size: 174, 123
+  orig: 174, 123
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 207, 45
+  size: 137, 126
+  orig: 137, 126
+  offset: 0, 0
+  index: -1
+Head-dizzy
+  rotate: false
+  xy: 66, 39
+  size: 137, 132
+  orig: 137, 132
+  offset: 0, 0
+  index: -1
+Head-injured
+  rotate: false
+  xy: 66, 572
+  size: 177, 132
+  orig: 177, 132
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 66, 310
+  size: 163, 131
+  orig: 163, 131
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 233, 298
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+L-Lowerleg
+  rotate: false
+  xy: 247, 623
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+L-Thigh
+  rotate: false
+  xy: 247, 548
+  size: 93, 71
+  orig: 93, 71
+  offset: 0, 0
+  index: -1
+L-gun
+  rotate: false
+  xy: 0, 4
+  size: 29, 700
+  orig: 29, 700
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 66, 175
+  size: 163, 131
+  orig: 163, 131
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 233, 201
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+R-Lowerleg
+  rotate: false
+  xy: 244, 463
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+R-Thigh
+  rotate: false
+  xy: 244, 395
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+R-gun
+  rotate: false
+  xy: 33, 4
+  size: 29, 700
+  orig: 29, 700
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 207, 0
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

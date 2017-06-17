@@ -1,0 +1,139 @@
+
+wugui.png
+size: 200,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 0, 144
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 156, 60
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 180, 65
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 80, 21
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 141, 13
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 165, 15
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 39
+  size: 69, 101
+  orig: 69, 101
+  offset: 0, 0
+  index: -1
+L-chibang
+  rotate: false
+  xy: 73, 66
+  size: 38, 74
+  orig: 38, 74
+  offset: 0, 0
+  index: -1
+LB-Leg
+  rotate: false
+  xy: 154, 233
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+LF-Leg
+  rotate: false
+  xy: 115, 58
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 158, 149
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 0, 0
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 43, 0
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 157, 110
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 104, 19
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+R-chibang
+  rotate: false
+  xy: 91, 152
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+RB-Leg
+  rotate: false
+  xy: 158, 188
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+RF-Leg
+  rotate: false
+  xy: 115, 105
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 233
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

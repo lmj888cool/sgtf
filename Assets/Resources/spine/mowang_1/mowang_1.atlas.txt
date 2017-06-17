@@ -1,0 +1,188 @@
+
+mowang_1.png
+size: 322,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 0, 21
+  size: 90, 112
+  orig: 90, 112
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 0, 0
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+Eye-eat
+  rotate: false
+  xy: 172, 5
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 248, 95
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+Left-arm
+  rotate: false
+  xy: 295, 112
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+Meimao-celebrate
+  rotate: false
+  xy: 225, 4
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+Meimao-eat
+  rotate: false
+  xy: 295, 97
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 304, 26
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 187, 55
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Mouth-eat01
+  rotate: false
+  xy: 94, 11
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+Mouth-eat02
+  rotate: false
+  xy: 138, 0
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Mouth-eat03
+  rotate: false
+  xy: 140, 27
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+Mouth-eat04
+  rotate: false
+  xy: 34, 2
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 271, 39
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+Right-arm
+  rotate: false
+  xy: 209, 2
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+liandan-left
+  rotate: false
+  xy: 311, 126
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+liandan-right
+  rotate: false
+  xy: 309, 84
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 228, 17
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 94, 92
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 94, 39
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 140, 51
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+yanpi-biyan
+  rotate: false
+  xy: 230, 54
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+yanpi-biyan01
+  rotate: false
+  xy: 268, 22
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+yanpi-biyan02
+  rotate: false
+  xy: 228, 30
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+yanpi-zhengyan
+  rotate: false
+  xy: 187, 27
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 271, 61
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1

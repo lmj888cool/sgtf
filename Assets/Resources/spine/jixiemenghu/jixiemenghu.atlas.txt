@@ -1,0 +1,153 @@
+
+jixiemenghu.png
+size: 345,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 0, 365
+  size: 236, 147
+  orig: 236, 147
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 201, 16
+  size: 54, 13
+  orig: 54, 13
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 0, 8
+  size: 56, 16
+  orig: 56, 16
+  offset: 0, 0
+  index: -1
+LB-lun
+  rotate: false
+  xy: 273, 182
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+LF-lun
+  rotate: false
+  xy: 273, 133
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+Light-attack
+  rotate: false
+  xy: 0, 236
+  size: 213, 125
+  orig: 213, 125
+  offset: 0, 0
+  index: -1
+Mouth-Light-attack
+  rotate: false
+  xy: 259, 0
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+RB-lun
+  rotate: false
+  xy: 273, 84
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+RF-lun
+  rotate: false
+  xy: 259, 35
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+kouqiang
+  rotate: false
+  xy: 240, 466
+  size: 105, 46
+  orig: 105, 46
+  offset: 0, 0
+  index: -1
+minotaur scream_2_00
+  rotate: false
+  xy: 103, 11
+  size: 94, 69
+  orig: 152, 100
+  offset: 17, 12
+  index: -1
+minotaur scream_2_02
+  rotate: false
+  xy: 217, 231
+  size: 95, 70
+  orig: 152, 100
+  offset: 21, 11
+  index: -1
+minotaur scream_2_04
+  rotate: false
+  xy: 240, 305
+  size: 98, 74
+  orig: 152, 100
+  offset: 24, 9
+  index: -1
+minotaur scream_2_06
+  rotate: false
+  xy: 0, 28
+  size: 99, 76
+  orig: 152, 100
+  offset: 28, 8
+  index: -1
+minotaur scream_2_08
+  rotate: false
+  xy: 240, 383
+  size: 100, 79
+  orig: 152, 100
+  offset: 32, 6
+  index: -1
+minotaur scream_2_10
+  rotate: false
+  xy: 0, 108
+  size: 100, 79
+  orig: 152, 100
+  offset: 36, 6
+  index: -1
+minotaur scream_2_12
+  rotate: false
+  xy: 175, 84
+  size: 94, 69
+  orig: 152, 100
+  offset: 22, 12
+  index: -1
+minotaur scream_2_14
+  rotate: false
+  xy: 175, 157
+  size: 94, 70
+  orig: 152, 100
+  offset: 27, 11
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 191
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 104, 84
+  size: 67, 103
+  orig: 67, 103
+  offset: 0, 0
+  index: -1
+xiae
+  rotate: false
+  xy: 201, 33
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1

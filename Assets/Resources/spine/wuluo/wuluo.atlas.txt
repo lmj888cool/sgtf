@@ -1,0 +1,265 @@
+
+wuluo.png
+size: 606,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-Ribbon
+  rotate: false
+  xy: 347, 23
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+B-fair
+  rotate: false
+  xy: 117, 10
+  size: 82, 138
+  orig: 82, 138
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 510, 100
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+BodyPendant-B
+  rotate: false
+  xy: 203, 31
+  size: 114, 72
+  orig: 114, 72
+  offset: 0, 0
+  index: -1
+BodyPendant-F
+  rotate: false
+  xy: 0, 9
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 203, 3
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 261, 2
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 347, 59
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 510, 0
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+Eye-siwang
+  rotate: false
+  xy: 401, 59
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+F-Ribbon
+  rotate: false
+  xy: 552, 59
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 32
+  size: 113, 116
+  orig: 113, 116
+  offset: 0, 0
+  index: -1
+L-Fair
+  rotate: false
+  xy: 321, 55
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+L-Foot
+  rotate: false
+  xy: 587, 39
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 85, 5
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 417, 85
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+L-LowerLeg
+  rotate: false
+  xy: 396, 0
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+L-Ribbon
+  rotate: false
+  xy: 430, 22
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+L-UpperArm
+  rotate: false
+  xy: 321, 25
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+L-yanjin
+  rotate: false
+  xy: 552, 42
+  size: 21, 13
+  orig: 38, 17
+  offset: 10, 3
+  index: -1
+Mouth
+  rotate: false
+  xy: 450, 48
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 587, 28
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 587, 15
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 568, 5
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 566, 101
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Pelivs
+  rotate: false
+  xy: 318, 0
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+R-Fair01
+  rotate: false
+  xy: 566, 112
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+R-Fair02
+  rotate: false
+  xy: 510, 42
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+R-Foot
+  rotate: false
+  xy: 413, 3
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 582, 55
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 357, 86
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+R-LowerLeg
+  rotate: false
+  xy: 568, 18
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+R-Ribbon
+  rotate: false
+  xy: 396, 21
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+R-UpperArm
+  rotate: false
+  xy: 582, 82
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+R-yanjin
+  rotate: false
+  xy: 358, 0
+  size: 34, 17
+  orig: 38, 17
+  offset: 2, 0
+  index: -1
+SE-zhuaguang
+  rotate: false
+  xy: 465, 25
+  size: 41, 123
+  orig: 42, 123
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 203, 107
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

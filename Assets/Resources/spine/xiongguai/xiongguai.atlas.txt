@@ -1,0 +1,160 @@
+
+xiongguai.png
+size: 815,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 377, 29
+  size: 144, 185
+  orig: 144, 185
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 734, 133
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 665, 131
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 665, 177
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 733, 39
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+Eye-siwang
+  rotate: false
+  xy: 698, 222
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 698, 287
+  size: 94, 78
+  orig: 94, 78
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 770, 175
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 679, 18
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 665, 67
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 767, 84
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 770, 224
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+Pendant
+  rotate: false
+  xy: 715, 77
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 698, 369
+  size: 109, 81
+  orig: 109, 81
+  offset: 0, 0
+  index: -1
+RU-Arm
+  rotate: false
+  xy: 679, 0
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 199, 29
+  size: 174, 185
+  orig: 240, 240
+  offset: 34, 28
+  index: -1
+shadow
+  rotate: false
+  xy: 525, 3
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+xiongguai_00
+  rotate: false
+  xy: 525, 48
+  size: 136, 171
+  orig: 243, 232
+  offset: 25, 30
+  index: -1
+xiongguai_01
+  rotate: false
+  xy: 0, 6
+  size: 195, 208
+  orig: 243, 232
+  offset: 16, 9
+  index: -1
+xiongguai_02
+  rotate: false
+  xy: 481, 223
+  size: 213, 227
+  orig: 243, 232
+  offset: 7, 0
+  index: -1
+xiongguai_03
+  rotate: false
+  xy: 0, 218
+  size: 238, 232
+  orig: 243, 232
+  offset: 5, 0
+  index: -1
+xiongguai_04
+  rotate: false
+  xy: 242, 218
+  size: 235, 232
+  orig: 243, 232
+  offset: 4, 0
+  index: -1

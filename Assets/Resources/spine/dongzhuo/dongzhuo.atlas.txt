@@ -1,0 +1,188 @@
+
+dongzhuo.png
+size: 829,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-Cloak
+  rotate: false
+  xy: 434, 1
+  size: 137, 93
+  orig: 137, 93
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 584, 103
+  size: 112, 101
+  orig: 112, 101
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: false
+  xy: 377, 98
+  size: 203, 106
+  orig: 203, 106
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 700, 150
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 673, 1
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 769, 18
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 618, 0
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+Eye-siwnag
+  rotate: false
+  xy: 203, 6
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 618, 38
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 733, 12
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+LU-Armor
+  rotate: false
+  xy: 364, 1
+  size: 66, 79
+  orig: 66, 79
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 773, 113
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 773, 86
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 769, 148
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 700, 178
+  size: 119, 26
+  orig: 119, 26
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 769, 59
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 700, 103
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 743, 103
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 154, 5
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+RF-Cloak
+  rotate: false
+  xy: 575, 4
+  size: 39, 90
+  orig: 39, 90
+  offset: 0, 0
+  index: -1
+RU-Armor
+  rotate: false
+  xy: 270, 1
+  size: 90, 79
+  orig: 90, 79
+  offset: 0, 0
+  index: -1
+SE-Weapon
+  rotate: false
+  xy: 253, 84
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 679, 40
+  size: 86, 59
+  orig: 86, 59
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 127, 62
+  size: 122, 142
+  orig: 122, 142
+  offset: 0, 0
+  index: -1
+hengxingwuji_36
+  rotate: false
+  xy: 0, 52
+  size: 123, 152
+  orig: 123, 152
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 7
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

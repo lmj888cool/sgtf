@@ -1,0 +1,132 @@
+
+diyumoshou.png
+size: 845,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11111111
+  rotate: false
+  xy: 0, 190
+  size: 389, 262
+  orig: 389, 262
+  offset: 0, 0
+  index: -1
+B-diceng
+  rotate: false
+  xy: 165, 73
+  size: 92, 24
+  orig: 92, 24
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 0, 11
+  size: 161, 175
+  orig: 161, 175
+  offset: 0, 0
+  index: -1
+Eye01
+  rotate: false
+  xy: 218, 0
+  size: 46, 69
+  orig: 46, 69
+  offset: 0, 0
+  index: -1
+Eye02
+  rotate: false
+  xy: 801, 383
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+Eye03
+  rotate: false
+  xy: 801, 311
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+Eye04
+  rotate: false
+  xy: 801, 248
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+Eye05
+  rotate: false
+  xy: 801, 186
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+Eye06
+  rotate: false
+  xy: 165, 11
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+Eye07
+  rotate: false
+  xy: 268, 6
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+Eye08
+  rotate: false
+  xy: 801, 124
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+Finger01
+  rotate: false
+  xy: 319, 67
+  size: 70, 119
+  orig: 70, 119
+  offset: 0, 0
+  index: -1
+SE-01
+  rotate: false
+  xy: 393, 47
+  size: 200, 197
+  orig: 200, 197
+  offset: 0, 0
+  index: -1
+SE-02
+  rotate: false
+  xy: 597, 252
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+SE-03
+  rotate: false
+  xy: 393, 248
+  size: 200, 204
+  orig: 200, 204
+  offset: 0, 0
+  index: -1
+SE-04
+  rotate: false
+  xy: 597, 48
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+diceng
+  rotate: false
+  xy: 165, 101
+  size: 126, 40
+  orig: 126, 40
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 165, 145
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

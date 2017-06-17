@@ -1,0 +1,139 @@
+
+shibing.png
+size: 483,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 237, 24
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 237, 102
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 306, 27
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 387, 39
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 381, 115
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 306, 56
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 237, 0
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 462, 204
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 363, 0
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 340, 21
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 462, 177
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 433, 105
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 259, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+R-Leg
+  rotate: false
+  xy: 391, 174
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+SE-attack
+  rotate: false
+  xy: 0, 0
+  size: 233, 232
+  orig: 233, 232
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 353, 61
+  size: 127, 40
+  orig: 127, 40
+  offset: 0, 0
+  index: -1
+beibao
+  rotate: false
+  xy: 324, 107
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+sghouliudan
+  rotate: false
+  xy: 363, 25
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 237, 191
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

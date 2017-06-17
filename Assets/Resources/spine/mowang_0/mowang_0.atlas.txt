@@ -1,0 +1,20 @@
+
+mowang_0.png
+size: 150,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dan
+  rotate: false
+  xy: 0, 0
+  size: 88, 99
+  orig: 88, 99
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 103
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

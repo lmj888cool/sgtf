@@ -1,0 +1,237 @@
+
+nvzhujueyijie.png
+size: 977,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-pilian01
+  rotate: false
+  xy: 446, 201
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+B-pilian02
+  rotate: false
+  xy: 672, 12
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 921, 277
+  size: 51, 108
+  orig: 51, 108
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 809, 22
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 809, 22
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 608, 13
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 916, 109
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 916, 75
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+F-pilian
+  rotate: false
+  xy: 714, 2
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Fair
+  rotate: false
+  xy: 720, 33
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 608, 44
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+L-Fair
+  rotate: false
+  xy: 927, 143
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 753, 3
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 959, 150
+  size: 18, 59
+  orig: 18, 59
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 888, 62
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 786, 23
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 459, 12
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 459, 0
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 16, 3
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 0, 0
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+R-Fair
+  rotate: false
+  xy: 927, 213
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 873, 15
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+SE-daoguang01
+  rotate: false
+  xy: 809, 53
+  size: 75, 36
+  orig: 194, 86
+  offset: 4, 29
+  index: -1
+SE-daoguang02
+  rotate: false
+  xy: 176, 3
+  size: 149, 76
+  orig: 194, 86
+  offset: 20, 6
+  index: -1
+SE-daoguang03
+  rotate: false
+  xy: 459, 27
+  size: 145, 70
+  orig: 194, 86
+  offset: 49, 10
+  index: -1
+SE-daoguang04
+  rotate: false
+  xy: 329, 5
+  size: 126, 74
+  orig: 194, 86
+  offset: 63, 6
+  index: -1
+SE-daoguang05
+  rotate: false
+  xy: 809, 93
+  size: 103, 49
+  orig: 194, 86
+  offset: 61, 29
+  index: -1
+Weapon
+  rotate: false
+  xy: 0, 13
+  size: 172, 66
+  orig: 172, 66
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 446, 101
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+xuanfeng01
+  rotate: false
+  xy: 0, 226
+  size: 463, 159
+  orig: 463, 159
+  offset: 0, 0
+  index: -1
+xuanfeng02
+  rotate: false
+  xy: 467, 259
+  size: 450, 126
+  orig: 450, 126
+  offset: 0, 0
+  index: -1
+xuanfeng03
+  rotate: false
+  xy: 467, 146
+  size: 456, 109
+  orig: 456, 109
+  offset: 0, 0
+  index: -1
+xuanfeng04
+  rotate: false
+  xy: 0, 83
+  size: 442, 139
+  orig: 442, 139
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,272 @@
+
+huangyueying.png
+size: 700,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-Fair
+  rotate: false
+  xy: 554, 79
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+B-Skirt
+  rotate: false
+  xy: 245, 44
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 52, 7
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 0, 2
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 625, 74
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 401, 36
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+Eye-siwang
+  rotate: false
+  xy: 554, 60
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 0, 26
+  size: 149, 66
+  orig: 149, 66
+  offset: 0, 0
+  index: -1
+HatPendant1
+  rotate: false
+  xy: 668, 104
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+HatPendant2
+  rotate: false
+  xy: 674, 49
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+HatPendant3
+  rotate: false
+  xy: 647, 160
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 451, 68
+  size: 99, 85
+  orig: 99, 85
+  offset: 0, 0
+  index: -1
+L-Body
+  rotate: false
+  xy: 223, 3
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+L-Fair
+  rotate: false
+  xy: 625, 98
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 599, 21
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+L-LowerLeg
+  rotate: false
+  xy: 668, 25
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+L-Skirt
+  rotate: false
+  xy: 353, 23
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+L-UpperArm
+  rotate: false
+  xy: 605, 157
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 546, 0
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 668, 0
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 353, 0
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 107, 2
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 599, 0
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+Pelvis
+  rotate: false
+  xy: 153, 6
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+R-Body
+  rotate: false
+  xy: 546, 20
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+R-Fair
+  rotate: false
+  xy: 505, 9
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 268, 1
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+R-LowerLeg
+  rotate: false
+  xy: 306, 67
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+R-Skirt
+  rotate: false
+  xy: 642, 37
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+R-Thigh
+  rotate: false
+  xy: 642, 12
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+R-UpperArm
+  rotate: false
+  xy: 451, 16
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+R-forearm
+  rotate: false
+  xy: 306, 19
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+SE-feng
+  rotate: false
+  xy: 0, 96
+  size: 326, 102
+  orig: 326, 123
+  offset: 0, 9
+  index: -1
+UpperBody
+  rotate: false
+  xy: 153, 41
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 330, 58
+  size: 117, 140
+  orig: 117, 140
+  offset: 0, 0
+  index: -1
+WeaponPendant1
+  rotate: false
+  xy: 386, 1
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+WeaponPendant2
+  rotate: false
+  xy: 403, 8
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 451, 157
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

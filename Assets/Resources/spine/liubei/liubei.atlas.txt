@@ -1,0 +1,265 @@
+
+liubei.png
+size: 385,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body-Lower
+  rotate: false
+  xy: 297, 177
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+Body-Upper
+  rotate: false
+  xy: 287, 100
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+CloakLower
+  rotate: false
+  xy: 96, 164
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+CloakUpper
+  rotate: false
+  xy: 200, 417
+  size: 126, 48
+  orig: 126, 48
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 319, 356
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 96, 116
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 319, 321
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 330, 389
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+Eye-siwang
+  rotate: false
+  xy: 319, 290
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Fair
+  rotate: false
+  xy: 363, 79
+  size: 17, 41
+  orig: 17, 41
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 199, 197
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+L-Pandent
+  rotate: false
+  xy: 374, 195
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+LHand
+  rotate: false
+  xy: 243, 78
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+LUpperArm
+  rotate: false
+  xy: 148, 239
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 171, 124
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 360, 40
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 154, 139
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 186, 269
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 297, 284
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+R-Pandent
+  rotate: false
+  xy: 154, 116
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+RHand
+  rotate: false
+  xy: 330, 418
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+RUpperArm
+  rotate: false
+  xy: 154, 284
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+W-Eye-beiji
+  rotate: false
+  xy: 363, 149
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+W-Eye-fennu
+  rotate: false
+  xy: 363, 124
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+W-Eye-shengli
+  rotate: false
+  xy: 297, 295
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+W-Eye-siwang
+  rotate: false
+  xy: 360, 52
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+W-Head
+  rotate: false
+  xy: 297, 218
+  size: 77, 62
+  orig: 77, 62
+  offset: 0, 0
+  index: -1
+W-Lower
+  rotate: false
+  xy: 286, 0
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+W-Upper
+  rotate: false
+  xy: 193, 115
+  size: 90, 78
+  orig: 90, 78
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 0, 232
+  size: 144, 52
+  orig: 144, 52
+  offset: 0, 0
+  index: -1
+drdrg
+  rotate: false
+  xy: 0, 469
+  size: 331, 43
+  orig: 331, 43
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 0, 2
+  size: 92, 226
+  orig: 92, 226
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 200, 317
+  size: 115, 96
+  orig: 115, 96
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: false
+  xy: 335, 468
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+guang4
+  rotate: false
+  xy: 0, 333
+  size: 196, 132
+  orig: 196, 132
+  offset: 0, 0
+  index: -1
+guang5
+  rotate: false
+  xy: 96, 3
+  size: 143, 108
+  orig: 143, 108
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 288
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

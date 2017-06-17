@@ -1,0 +1,139 @@
+
+moushi.png
+size: 567,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 0, 0
+  size: 158, 211
+  orig: 264, 235
+  offset: 94, 14
+  index: -1
+1
+  rotate: false
+  xy: 162, 26
+  size: 92, 185
+  orig: 264, 235
+  offset: 160, 8
+  index: -1
+2
+  rotate: false
+  xy: 258, 95
+  size: 91, 116
+  orig: 264, 235
+  offset: 160, 4
+  index: -1
+Fair
+  rotate: false
+  xy: 500, 136
+  size: 67, 75
+  orig: 67, 75
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 353, 91
+  size: 84, 120
+  orig: 84, 120
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 461, 45
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 162, 4
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+L-xiukou
+  rotate: false
+  xy: 545, 86
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 503, 77
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 545, 111
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+R-xiukou
+  rotate: false
+  xy: 186, 12
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 503, 36
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+celebrate
+  rotate: false
+  xy: 307, 6
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+death
+  rotate: false
+  xy: 449, 11
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+injured
+  rotate: false
+  xy: 403, 5
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 441, 112
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 307, 46
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+stand
+  rotate: false
+  xy: 355, 7
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 258, 16
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1

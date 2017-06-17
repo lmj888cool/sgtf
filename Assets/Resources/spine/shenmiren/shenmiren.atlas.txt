@@ -1,0 +1,62 @@
+
+shenmiren.png
+size: 419,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 269, 12
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 156, 20
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 372, 36
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 341, 1
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 341, 32
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+R-Leg
+  rotate: false
+  xy: 402, 52
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 0, 0
+  size: 152, 126
+  orig: 152, 126
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 269, 85
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

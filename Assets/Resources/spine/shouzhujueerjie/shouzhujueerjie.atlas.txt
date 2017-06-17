@@ -1,0 +1,202 @@
+
+shouzhujueerjie.png
+size: 887,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 593, 1
+  size: 137, 171
+  orig: 137, 171
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 343, 6
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 411, 11
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 761, 156
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 734, 75
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 734, 51
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 761, 287
+  size: 73, 92
+  orig: 73, 92
+  offset: 0, 0
+  index: -1
+L-Ear
+  rotate: false
+  xy: 838, 338
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 71, 3
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 846, 78
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 797, 79
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 734, 26
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 734, 5
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 761, 185
+  size: 65, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+R-Ear
+  rotate: false
+  xy: 838, 360
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+SE-baozha01
+  rotate: false
+  xy: 323, 131
+  size: 249, 129
+  orig: 300, 181
+  offset: 23, 31
+  index: -1
+SE-baozha02
+  rotate: false
+  xy: 324, 264
+  size: 258, 110
+  orig: 300, 181
+  offset: 21, 26
+  index: -1
+SE-baozha03
+  rotate: false
+  xy: 607, 383
+  size: 258, 129
+  orig: 300, 181
+  offset: 20, 25
+  index: -1
+SE-baozha04
+  rotate: false
+  xy: 324, 378
+  size: 279, 134
+  orig: 300, 181
+  offset: 9, 17
+  index: -1
+SE-daoguang01
+  rotate: false
+  xy: 0, 265
+  size: 320, 247
+  orig: 356, 269
+  offset: 20, 12
+  index: -1
+SE-daoguang02
+  rotate: false
+  xy: 0, 20
+  size: 192, 241
+  orig: 356, 269
+  offset: 164, 14
+  index: -1
+SE-daoguang03
+  rotate: false
+  xy: 607, 176
+  size: 150, 203
+  orig: 356, 269
+  offset: 195, 17
+  index: -1
+SE-daoguang04
+  rotate: false
+  xy: 196, 109
+  size: 123, 152
+  orig: 356, 269
+  offset: 211, 22
+  index: -1
+SE-daoguang05
+  rotate: false
+  xy: 488, 49
+  size: 101, 78
+  orig: 356, 269
+  offset: 228, 28
+  index: -1
+Weapon
+  rotate: false
+  xy: 343, 41
+  size: 141, 86
+  orig: 141, 86
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: false
+  xy: 196, 0
+  size: 143, 105
+  orig: 143, 105
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 734, 111
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: false
+  xy: 0, 3
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1

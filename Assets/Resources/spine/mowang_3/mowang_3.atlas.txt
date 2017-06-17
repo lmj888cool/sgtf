@@ -1,0 +1,258 @@
+
+mowang_3.png
+size: 622,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 305, 16
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+Bone
+  rotate: false
+  xy: 566, 64
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+L-Eye
+  rotate: false
+  xy: 285, 24
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+L-Eye-angry
+  rotate: false
+  xy: 223, 2
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+L-Eye-celebrate
+  rotate: false
+  xy: 291, 4
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+L-Eye-weak
+  rotate: false
+  xy: 604, 62
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+L-Head
+  rotate: false
+  xy: 101, 21
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+L-Mouth
+  rotate: false
+  xy: 305, 0
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+L-Mouth-angry
+  rotate: false
+  xy: 487, 0
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+L-Mouth-celebrate
+  rotate: false
+  xy: 518, 0
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+L-Mouth-weak
+  rotate: false
+  xy: 173, 4
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+L-ear
+  rotate: false
+  xy: 265, 5
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+LB-leg
+  rotate: false
+  xy: 522, 32
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+LF-leg
+  rotate: false
+  xy: 454, 24
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+R-Eye
+  rotate: false
+  xy: 193, 22
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+R-Eye-angry
+  rotate: false
+  xy: 239, 24
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+R-Eye-celebrate
+  rotate: false
+  xy: 412, 67
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+R-Eye-weak
+  rotate: false
+  xy: 412, 0
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+R-Head
+  rotate: false
+  xy: 0, 2
+  size: 97, 131
+  orig: 97, 131
+  offset: 0, 0
+  index: -1
+R-Mouth
+  rotate: false
+  xy: 239, 4
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+R-Mouth-angry
+  rotate: false
+  xy: 554, 35
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+R-Mouth-celebrate
+  rotate: false
+  xy: 536, 0
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+R-Mouth-weak
+  rotate: false
+  xy: 604, 82
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+R-Tongue-celebrate
+  rotate: false
+  xy: 602, 102
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+R-ear
+  rotate: false
+  xy: 458, 5
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+R-eat01
+  rotate: false
+  xy: 565, 12
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+R-eat02
+  rotate: false
+  xy: 193, 0
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+R-eat03
+  rotate: false
+  xy: 101, 1
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+R-eat04
+  rotate: false
+  xy: 138, 4
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+R-open
+  rotate: false
+  xy: 487, 28
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+RB-leg
+  rotate: false
+  xy: 566, 91
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+RF-leg
+  rotate: false
+  xy: 412, 24
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 535, 75
+  size: 27, 58
+  orig: 27, 58
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 305, 92
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+xiangquan
+  rotate: false
+  xy: 459, 69
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+zongmao
+  rotate: false
+  xy: 193, 44
+  size: 108, 89
+  orig: 108, 89
+  offset: 0, 0
+  index: -1

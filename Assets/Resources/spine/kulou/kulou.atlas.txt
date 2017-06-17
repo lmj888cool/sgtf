@@ -1,0 +1,195 @@
+
+kulou.png
+size: 385,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SE-daoguang
+  rotate: false
+  xy: 0, 25
+  size: 205, 234
+  orig: 205, 234
+  offset: 0, 0
+  index: -1
+_0002_R-Upperarm
+  rotate: false
+  xy: 363, 236
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+_0003_R-Hand
+  rotate: false
+  xy: 363, 218
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+_0004_R-Forearm
+  rotate: false
+  xy: 351, 1
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+_0005_Eye-fennu
+  rotate: false
+  xy: 320, 140
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+_0006_Eye-beiji
+  rotate: false
+  xy: 320, 175
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+_0007_Eye-shengli
+  rotate: false
+  xy: 274, 66
+  size: 80, 38
+  orig: 80, 38
+  offset: 0, 0
+  index: -1
+_0008_Eye
+  rotate: false
+  xy: 320, 109
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+_0009_guihun
+  rotate: false
+  xy: 209, 7
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+_0010_Eye-siwang
+  rotate: false
+  xy: 209, 55
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+_0011_Head
+  rotate: false
+  xy: 209, 108
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+_0012_U-Spine
+  rotate: false
+  xy: 351, 24
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+_0013_M-Spine
+  rotate: false
+  xy: 351, 45
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+_0014_F-Pelivs
+  rotate: false
+  xy: 358, 83
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+_0015_L-Spine
+  rotate: false
+  xy: 0, 8
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+_0016_B-Pelivs
+  rotate: false
+  xy: 271, 11
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+_0017_L-Thigh
+  rotate: false
+  xy: 298, 1
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+_0018_L-Lowerleg
+  rotate: false
+  xy: 31, 11
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+_0019_L-Foot
+  rotate: false
+  xy: 332, 0
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+_0020_R-Thigh
+  rotate: false
+  xy: 319, 2
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+_0021_R-Lowerleg
+  rotate: false
+  xy: 15, 11
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+_0022_R-Foot
+  rotate: false
+  xy: 332, 11
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+_0023_L-Hand
+  rotate: false
+  xy: 358, 66
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+_0024_L-Forearm
+  rotate: false
+  xy: 249, 11
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+_0025_L-Upperarm
+  rotate: false
+  xy: 249, 31
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+_0026_Weapon
+  rotate: false
+  xy: 274, 21
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 209, 218
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

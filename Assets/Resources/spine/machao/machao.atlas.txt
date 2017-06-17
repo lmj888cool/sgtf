@@ -1,0 +1,258 @@
+
+machao.png
+size: 496,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-matou
+  rotate: false
+  xy: 377, 134
+  size: 92, 108
+  orig: 92, 108
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 276, 31
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 192, 16
+  size: 48, 11
+  orig: 48, 11
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 192, 31
+  size: 48, 12
+  orig: 48, 12
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 244, 0
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 0, 0
+  size: 44, 9
+  orig: 44, 9
+  offset: 0, 0
+  index: -1
+Eye-siwang
+  rotate: false
+  xy: 377, 32
+  size: 43, 10
+  orig: 43, 10
+  offset: 0, 0
+  index: -1
+F-matou
+  rotate: false
+  xy: 360, 246
+  size: 136, 133
+  orig: 136, 133
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 338, 40
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+L-Cloth
+  rotate: false
+  xy: 225, 0
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 470, 46
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+L-Lowerleg
+  rotate: false
+  xy: 473, 134
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 199, 47
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 464, 29
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 470, 102
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 470, 86
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 470, 116
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 192, 0
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 154, 4
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+R-Cloth
+  rotate: false
+  xy: 244, 18
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 470, 66
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+R-Lowerleg
+  rotate: false
+  xy: 473, 190
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+RU-Armor
+  rotate: false
+  xy: 424, 22
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+SE-daoguang
+  rotate: false
+  xy: 232, 383
+  size: 200, 129
+  orig: 200, 129
+  offset: 0, 0
+  index: -1
+SE01
+  rotate: false
+  xy: 0, 58
+  size: 195, 146
+  orig: 195, 146
+  offset: 0, 0
+  index: -1
+SE02
+  rotate: false
+  xy: 199, 82
+  size: 174, 138
+  orig: 174, 138
+  offset: 0, 0
+  index: -1
+SE03
+  rotate: false
+  xy: 185, 224
+  size: 171, 151
+  orig: 171, 151
+  offset: 0, 0
+  index: -1
+SE04
+  rotate: false
+  xy: 0, 208
+  size: 181, 167
+  orig: 181, 167
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 0, 379
+  size: 228, 133
+  orig: 228, 133
+  offset: 0, 0
+  index: -1
+hesd
+  rotate: false
+  xy: 377, 46
+  size: 89, 84
+  orig: 89, 84
+  offset: 0, 0
+  index: -1
+lasuo01
+  rotate: false
+  xy: 473, 216
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+lasuo02
+  rotate: false
+  xy: 360, 227
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+lasuo03
+  rotate: false
+  xy: 473, 160
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+matou-bu
+  rotate: false
+  xy: 48, 0
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+mazong
+  rotate: false
+  xy: 436, 383
+  size: 59, 129
+  orig: 59, 129
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 13
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+mamian.png
+size: 369,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L-Foot
+  rotate: false
+  xy: 272, 28
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+R-Foot
+  rotate: false
+  xy: 213, 0
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+RU-Armor
+  rotate: false
+  xy: 226, 49
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+SE-daoguang
+  rotate: false
+  xy: 0, 191
+  size: 197, 70
+  orig: 197, 70
+  offset: 0, 0
+  index: -1
+_0001_weaponPendant01
+  rotate: false
+  xy: 283, 123
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+_0002_WeaponPendant02
+  rotate: false
+  xy: 311, 48
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+_0003_WeaponPendant03
+  rotate: false
+  xy: 325, 85
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+_0004_WeaponPendant
+  rotate: false
+  xy: 213, 19
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+_0005_R-Hand
+  rotate: false
+  xy: 353, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+_0006_Weapon
+  rotate: false
+  xy: 0, 15
+  size: 52, 172
+  orig: 52, 172
+  offset: 0, 0
+  index: -1
+_0007_Eye-fennu
+  rotate: false
+  xy: 340, 28
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+_0008_Mouth-fennu
+  rotate: false
+  xy: 211, 160
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+_0009_Eye-beiji
+  rotate: false
+  xy: 211, 122
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+_0010_Mouth-beiji
+  rotate: false
+  xy: 297, 162
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+_0011_baiguang
+  rotate: false
+  xy: 128, 25
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+_0012_Mouth-shengli
+  rotate: false
+  xy: 156, 74
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+_0013_Eye-shengli
+  rotate: false
+  xy: 234, 1
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+_0014_yanzhu
+  rotate: false
+  xy: 355, 247
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+_0015_Eye
+  rotate: false
+  xy: 272, 0
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+_0016_Mouth
+  rotate: false
+  xy: 56, 0
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+_0017_Eye-siwang
+  rotate: false
+  xy: 223, 79
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+_0018_Mouth-siwang
+  rotate: false
+  xy: 162, 39
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+_0019_Head
+  rotate: false
+  xy: 56, 99
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+_0020_R-Upperarm
+  rotate: false
+  xy: 289, 79
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+_0021_R-Forearm
+  rotate: false
+  xy: 91, 1
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+_0022_Body
+  rotate: false
+  xy: 56, 23
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+_0023_Neck
+  rotate: false
+  xy: 156, 119
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+_0024_L-Forearm
+  rotate: false
+  xy: 326, 0
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+_0025_L-Upperarm
+  rotate: false
+  xy: 128, 69
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+_0026_F-Cloak
+  rotate: false
+  xy: 302, 0
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+_0027_L-Thigh
+  rotate: false
+  xy: 275, 50
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+_0028_L-LowerLeg
+  rotate: false
+  xy: 340, 56
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+_0029_R-Thigh
+  rotate: false
+  xy: 315, 120
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+_0030_R-LowerLeg
+  rotate: false
+  xy: 128, 0
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+_0031_Pelivs
+  rotate: false
+  xy: 226, 25
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 201, 220
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 162, 0
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1

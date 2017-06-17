@@ -1,0 +1,223 @@
+
+datouhuomo.png
+size: 606,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SE-fire01
+  rotate: false
+  xy: 581, 14
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+SE-fire02
+  rotate: false
+  xy: 122, 36
+  size: 58, 97
+  orig: 58, 97
+  offset: 0, 0
+  index: -1
+SE-fire03
+  rotate: false
+  xy: 260, 68
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+SE-fire04
+  rotate: false
+  xy: 562, 88
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+SE-fire05
+  rotate: false
+  xy: 350, 36
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+SE-fire06
+  rotate: false
+  xy: 122, 1
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+_0000_R-Hand
+  rotate: false
+  xy: 384, 15
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+_0001_Body
+  rotate: false
+  xy: 548, 0
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+_0002_R-Upperarm
+  rotate: false
+  xy: 581, 0
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+_0003_R-Forearm
+  rotate: false
+  xy: 384, 0
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+_0004_L-Hand
+  rotate: false
+  xy: 34, 7
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+_0005_L-Forearm
+  rotate: false
+  xy: 464, 0
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+_0006_L-Upperarm
+  rotate: false
+  xy: 443, 0
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+_0007_Mouth-fennu
+  rotate: false
+  xy: 407, 7
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+_0008_Eye-fennu
+  rotate: false
+  xy: 482, 36
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+_0009_Eye-beiji
+  rotate: false
+  xy: 184, 11
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+_0010_Mouth-beiji
+  rotate: false
+  xy: 350, 4
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+_0011_Eye-shengli
+  rotate: false
+  xy: 549, 66
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1
+_0012_Eye-shengli
+  rotate: false
+  xy: 260, 14
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+_0013_Eye
+  rotate: false
+  xy: 482, 5
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+_0014_Head
+  rotate: false
+  xy: 0, 26
+  size: 118, 107
+  orig: 118, 107
+  offset: 0, 0
+  index: -1
+_0015_R-Foot
+  rotate: false
+  xy: 70, 7
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+_0016_R-Thigh
+  rotate: false
+  xy: 0, 4
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+_0017_L-Foot
+  rotate: false
+  xy: 19, 4
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+_0018_L-Thigh
+  rotate: false
+  xy: 53, 7
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+_0019_L-weiba
+  rotate: false
+  xy: 549, 37
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+_0020_F-weiba
+  rotate: false
+  xy: 443, 14
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+_0021_U-Fire
+  rotate: false
+  xy: 408, 34
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+_0022_R-Fire
+  rotate: false
+  xy: 184, 59
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+_0023_L-Fire
+  rotate: false
+  xy: 344, 68
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 408, 92
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

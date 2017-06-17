@@ -1,0 +1,237 @@
+
+tieshangongzhu.png
+size: 385,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 276, 56
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 197, 12
+  size: 59, 30
+  orig: 59, 30
+  offset: 0, 0
+  index: -1
+Eye-beiji
+  rotate: false
+  xy: 71, 9
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+Eye-fennu
+  rotate: false
+  xy: 311, 111
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+Eye-shengli
+  rotate: false
+  xy: 311, 76
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+Eye-siang
+  rotate: false
+  xy: 0, 3
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 197, 91
+  size: 110, 105
+  orig: 110, 105
+  offset: 0, 0
+  index: -1
+L-Fair
+  rotate: false
+  xy: 361, 162
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+L-Foot
+  rotate: false
+  xy: 334, 0
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 304, 3
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 283, 0
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+L-Lowerleg
+  rotate: false
+  xy: 367, 131
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+L-Thigh
+  rotate: false
+  xy: 283, 24
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 334, 21
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+L-yumao
+  rotate: false
+  xy: 370, 74
+  size: 11, 53
+  orig: 11, 53
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 181, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Mouth-beiji
+  rotate: false
+  xy: 148, 3
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Mouth-fennu
+  rotate: false
+  xy: 165, 4
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Mouth-shengli
+  rotate: false
+  xy: 128, 3
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Mouth-siwang
+  rotate: false
+  xy: 366, 11
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 349, 5
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+R-Fair
+  rotate: false
+  xy: 260, 8
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+R-Foot
+  rotate: false
+  xy: 370, 52
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 311, 146
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 359, 25
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+R-Lowerleg
+  rotate: false
+  xy: 341, 47
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+R-Thigh
+  rotate: false
+  xy: 304, 20
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 310, 52
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+R-yumao
+  rotate: false
+  xy: 75, 44
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+Skirt
+  rotate: false
+  xy: 128, 15
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 75, 97
+  size: 118, 99
+  orig: 118, 99
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 122, 46
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+yinbo
+  rotate: false
+  xy: 0, 44
+  size: 71, 152
+  orig: 71, 152
+  offset: 0, 0
+  index: -1

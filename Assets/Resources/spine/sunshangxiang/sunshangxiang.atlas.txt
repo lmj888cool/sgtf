@@ -1,0 +1,223 @@
+
+sunshangxiang.png
+size: 605,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 418, 26
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 326, 10
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 326, 41
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 474, 2
+  size: 59, 30
+  orig: 59, 30
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 418, 3
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+Fair01
+  rotate: false
+  xy: 344, 76
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Fair02
+  rotate: false
+  xy: 553, 77
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 237, 19
+  size: 85, 67
+  orig: 85, 67
+  offset: 0, 0
+  index: -1
+L-Fair
+  rotate: false
+  xy: 474, 36
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 576, 124
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 588, 195
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 576, 144
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+L-Weapon
+  rotate: false
+  xy: 416, 125
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+L-Weaponsui
+  rotate: false
+  xy: 389, 29
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 0, 0
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 585, 91
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 585, 109
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 585, 71
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 326, 78
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+R-Fair
+  rotate: false
+  xy: 344, 113
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 389, 9
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 588, 178
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 588, 213
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+R-Weapon
+  rotate: false
+  xy: 499, 176
+  size: 85, 67
+  orig: 85, 67
+  offset: 0, 0
+  index: -1
+R-Weaponsui
+  rotate: false
+  xy: 553, 36
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+SE-attack
+  rotate: false
+  xy: 0, 11
+  size: 233, 232
+  orig: 233, 232
+  offset: 0, 0
+  index: -1
+eye-attack
+  rotate: false
+  xy: 537, 4
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+mianju
+  rotate: false
+  xy: 499, 120
+  size: 73, 52
+  orig: 73, 52
+  offset: 0, 0
+  index: -1
+phone
+  rotate: false
+  xy: 529, 45
+  size: 20, 71
+  orig: 20, 71
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 344, 202
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: false
+  xy: 237, 90
+  size: 103, 153
+  orig: 103, 153
+  offset: 0, 0
+  index: -1

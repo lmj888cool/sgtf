@@ -1,0 +1,328 @@
+
+sanzang.png
+size: 681,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-cloth
+  rotate: false
+  xy: 419, 63
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+B-pilian
+  rotate: false
+  xy: 480, 6
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 508, 60
+  size: 57, 80
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 327, 14
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 622, 73
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 622, 97
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 223, 17
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 588, 202
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 332, 39
+  size: 83, 101
+  orig: 83, 101
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: false
+  xy: 622, 50
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+L-Hand01
+  rotate: false
+  xy: 434, 230
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+L-Hand02
+  rotate: false
+  xy: 434, 245
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 540, 1
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+L-cloth
+  rotate: false
+  xy: 662, 432
+  size: 19, 80
+  orig: 19, 80
+  offset: 0, 0
+  index: -1
+L-pendant
+  rotate: false
+  xy: 660, 32
+  size: 4, 14
+  orig: 4, 14
+  offset: 0, 0
+  index: -1
+L-xiuzi
+  rotate: false
+  xy: 587, 7
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+LU-Armor
+  rotate: false
+  xy: 223, 163
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+LU-ribbon
+  rotate: false
+  xy: 650, 310
+  size: 10, 58
+  orig: 10, 58
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 346, 0
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 327, 0
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 364, 0
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 223, 3
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 588, 190
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Mouth-zhang
+  rotate: false
+  xy: 619, 11
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: false
+  xy: 650, 254
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 223, 145
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+R-Hand01
+  rotate: false
+  xy: 644, 202
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+R-Leg
+  rotate: false
+  xy: 223, 188
+  size: 32, 61
+  orig: 32, 61
+  offset: 0, 0
+  index: -1
+R-cloth
+  rotate: false
+  xy: 569, 69
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+R-kudou
+  rotate: false
+  xy: 662, 404
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+R-pendant
+  rotate: false
+  xy: 676, 104
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+R-xiuzi
+  rotate: false
+  xy: 419, 8
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+RU-Armor
+  rotate: false
+  xy: 280, 13
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+RU-ribbon
+  rotate: false
+  xy: 569, 0
+  size: 14, 65
+  orig: 14, 65
+  offset: 0, 0
+  index: -1
+SE-bao01
+  rotate: false
+  xy: 260, 144
+  size: 170, 129
+  orig: 200, 150
+  offset: 9, 13
+  index: -1
+SE-bao02
+  rotate: false
+  xy: 466, 372
+  size: 192, 140
+  orig: 200, 150
+  offset: 8, 7
+  index: -1
+SE-bao03
+  rotate: false
+  xy: 466, 230
+  size: 180, 138
+  orig: 200, 150
+  offset: 20, 7
+  index: -1
+SE-bao04
+  rotate: false
+  xy: 434, 144
+  size: 117, 9
+  orig: 200, 150
+  offset: 83, 72
+  index: -1
+cloth-luodi
+  rotate: false
+  xy: 434, 157
+  size: 158, 24
+  orig: 158, 24
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 0, 253
+  size: 256, 259
+  orig: 256, 259
+  offset: 0, 0
+  index: -1
+light01
+  rotate: false
+  xy: 260, 277
+  size: 202, 235
+  orig: 202, 235
+  offset: 0, 0
+  index: -1
+maolian
+  rotate: false
+  xy: 622, 122
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 223, 46
+  size: 105, 94
+  orig: 105, 94
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 434, 185
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+xuying
+  rotate: false
+  xy: 0, 2
+  size: 219, 247
+  orig: 219, 247
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 619, 31
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1

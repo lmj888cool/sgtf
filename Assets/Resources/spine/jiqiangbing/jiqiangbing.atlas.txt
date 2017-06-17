@@ -1,0 +1,104 @@
+
+jiqiangbing.png
+size: 242,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 0, 154
+  size: 118, 125
+  orig: 118, 125
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 154, 1
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 206, 255
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+L-Lowerleg
+  rotate: false
+  xy: 188, 93
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+L-Thigh
+  rotate: false
+  xy: 147, 45
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 122, 108
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 188, 132
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: false
+  xy: 192, 63
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+R-Lowerleg
+  rotate: false
+  xy: 0, 115
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+R-Thigh
+  rotate: false
+  xy: 59, 109
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+R-Upperarm
+  rotate: false
+  xy: 122, 190
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+SE-attack
+  rotate: false
+  xy: 0, 283
+  size: 233, 232
+  orig: 233, 232
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 0, 45
+  size: 143, 59
+  orig: 143, 59
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 0
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

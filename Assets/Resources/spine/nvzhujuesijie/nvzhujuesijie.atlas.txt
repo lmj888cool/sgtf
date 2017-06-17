@@ -1,0 +1,293 @@
+
+nvzhujuesijie.png
+size: 874,953
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-pilian
+  rotate: false
+  xy: 795, 405
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 782, 541
+  size: 51, 108
+  orig: 51, 108
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 511, 231
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Eye-celebrate
+  rotate: false
+  xy: 511, 231
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Eye-attack
+  rotate: false
+  xy: 795, 374
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Eye-death
+  rotate: false
+  xy: 450, 28
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Eye-injured
+  rotate: false
+  xy: 791, 298
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Fair
+  rotate: false
+  xy: 511, 27
+  size: 105, 194
+  orig: 105, 194
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 620, 108
+  size: 115, 113
+  orig: 115, 113
+  offset: 0, 0
+  index: -1
+L-Fair
+  rotate: false
+  xy: 845, 745
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+L-Forearm
+  rotate: false
+  xy: 791, 223
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 845, 682
+  size: 18, 59
+  orig: 18, 59
+  offset: 0, 0
+  index: -1
+L-Upperarm
+  rotate: false
+  xy: 822, 267
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+LB-Ribbon01
+  rotate: false
+  xy: 838, 468
+  size: 36, 87
+  orig: 36, 87
+  offset: 0, 0
+  index: -1
+LB-Ribbon02
+  rotate: false
+  xy: 795, 450
+  size: 39, 87
+  orig: 39, 87
+  offset: 0, 0
+  index: -1
+LD-Armor
+  rotate: false
+  xy: 852, 288
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+LU-Armor
+  rotate: false
+  xy: 791, 332
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 450, 18
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Mouth-attack
+  rotate: false
+  xy: 336, 658
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Mouth-celebrate
+  rotate: false
+  xy: 296, 206
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+Mouth-death
+  rotate: false
+  xy: 296, 7
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Mouth-injured
+  rotate: false
+  xy: 317, 428
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+R-Fair
+  rotate: false
+  xy: 693, 44
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+R-Forearm
+  rotate: false
+  xy: 791, 256
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+RB-Ribbon01
+  rotate: false
+  xy: 837, 559
+  size: 31, 90
+  orig: 31, 90
+  offset: 0, 0
+  index: -1
+RB-Ribbon02
+  rotate: false
+  xy: 739, 135
+  size: 42, 86
+  orig: 42, 86
+  offset: 0, 0
+  index: -1
+RD-Armor
+  rotate: false
+  xy: 620, 0
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+RU-Armor
+  rotate: false
+  xy: 620, 53
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1
+SE-daoguang01
+  rotate: false
+  xy: 587, 225
+  size: 200, 165
+  orig: 426, 310
+  offset: 0, 55
+  index: -1
+SE-daoguang02
+  rotate: false
+  xy: 0, 673
+  size: 373, 280
+  orig: 426, 310
+  offset: 11, 18
+  index: -1
+SE-daoguang03
+  rotate: false
+  xy: 0, 441
+  size: 332, 228
+  orig: 426, 310
+  offset: 78, 34
+  index: -1
+SE-daoguang04
+  rotate: false
+  xy: 0, 218
+  size: 313, 219
+  orig: 426, 310
+  offset: 102, 38
+  index: -1
+SE-daoguang05
+  rotate: false
+  xy: 0, 7
+  size: 292, 207
+  orig: 426, 310
+  offset: 109, 43
+  index: -1
+SE-daoguang06
+  rotate: false
+  xy: 317, 62
+  size: 190, 196
+  orig: 426, 310
+  offset: 117, 46
+  index: -1
+Weapon
+  rotate: false
+  xy: 317, 262
+  size: 266, 128
+  orig: 266, 128
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 296, 17
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 674, 5
+  size: 80, 35
+  orig: 80, 35
+  offset: 0, 0
+  index: -1
+xuanfeng01
+  rotate: false
+  xy: 377, 653
+  size: 464, 158
+  orig: 464, 158
+  offset: 0, 0
+  index: -1
+xuanfeng02
+  rotate: false
+  xy: 377, 815
+  size: 487, 138
+  orig: 487, 138
+  offset: 0, 0
+  index: -1
+xuanfeng03
+  rotate: false
+  xy: 336, 394
+  size: 455, 115
+  orig: 455, 115
+  offset: 0, 0
+  index: -1
+xuanfeng04
+  rotate: false
+  xy: 336, 513
+  size: 442, 136
+  orig: 442, 136
+  offset: 0, 0
+  index: -1
